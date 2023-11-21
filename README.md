@@ -164,7 +164,7 @@ If this work is helpful, please kindly cite as:
   year = {2023}
 }
 
-@misc{daily_papers,
+@misc{daily_papers_ko,
   title = {Automatically translate and summarize huggingface's daily papers into korean},
   author = {l-yohai},
   howpublished = {\url{https://github.com/l-yohai/daily_papers_ko}},
