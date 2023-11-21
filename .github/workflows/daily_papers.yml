@@ -1,0 +1,40 @@
+name: Translate and Summarize Daily Papers into Korean
+
+on:
+  schedule:
+    - cron: '0 21 * * *'  # 매일 UTC 시간 기준 21:00 (한국 시간 오전 6시)
+  workflow_dispatch:
+
+jobs:
+  predict-and-update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.11.5'
+
+    - name: Install dependencies
+      run: |
+        pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Get Daily Papers and Summarize
+      run: python main.py api_key ${{secrets.OPENAI_API_KEY}}
+
+    - name: Commit and Push Changes
+      run: |
+        git config --local user.name 'l-yohai'
+        git config --local user.email 'yohan9612@naver.com'
+        git add .
+        git commit -m "Update README and daily papers"
+        git push origin main
+    - name: Push
+      uses: ad-m/github-push-action@master
+      with:
+        branch: 'main'
+        github_token: $
