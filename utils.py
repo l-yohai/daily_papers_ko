@@ -7,10 +7,13 @@ import pytz
 from dotenv import load_dotenv
 
 
-def set_openai_key():
+def set_openai_key(api_key=None):
     # OpenAI API 키 설정
-    load_dotenv()
-    openai.api_key = os.environ["OPENAI_API_KEY"]
+    if api_key is not None:
+        openai.api_key = api_key
+    else:
+        load_dotenv()
+        openai.api_key = os.environ["OPENAI_API_KEY"]
 
 
 def get_today():

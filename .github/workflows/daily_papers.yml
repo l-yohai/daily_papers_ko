@@ -23,7 +23,7 @@ jobs:
         pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: Get Daily Papers and Summarize
+    - name: Get Daily Papers and Summarize
       run: python main.py api_key ${{secrets.OPENAI_API_KEY}}
 
     - name: Commit and Push Changes

@@ -6,7 +6,7 @@ This project aims to automatically translate and summarize [Huggingface's daily 
 
 Thanks to [@AK391](https://github.com/AK391) for great work.
 
-## Daily Papers (2023-11-21)
+## Daily Papers (2023-11-20)
 
 ### [Video-LLaVA: Learning United Visual Representation by Alignment Before Projection](https://arxiv.org/abs/2311.10122)
 

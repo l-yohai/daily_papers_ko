@@ -7,9 +7,9 @@ from request import get_abstract, get_papers, make_summary
 from utils import get_today, set_openai_key, update_paper_list
 
 
-def main():
+def main(api_key=None):
     # OpenAI API 키 설정
-    set_openai_key()
+    set_openai_key(api_key=api_key)
 
     client = openai.OpenAI()
 
