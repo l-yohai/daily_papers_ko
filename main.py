@@ -8,9 +8,9 @@ from request import get_abstract, get_papers, make_summary
 from utils import get_today, update_paper_list
 
 
-def main(api_key=None):
+def main(api_key: str = ""):
     # OpenAI API 키 설정
-    if api_key is None:
+    if not api_key:
         load_dotenv()
         api_key = os.environ["OPENAI_API_KEY"]
 
