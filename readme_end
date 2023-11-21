@@ -17,11 +17,11 @@ If this work is helpful, please kindly cite as:
 @misc{daily_papers,
   title = {Automatically translate and summarize huggingface's daily papers into korean},
   author = {l-yohai},
-  howpublished = {\url{https://github.com/l-yohai/daily_papers}},
+  howpublished = {\url{https://github.com/l-yohai/daily_papers_ko}},
   year = {2023}
 }
 ```
 
 ## Star History
 
-![Star History Chart](https://api.star-history.com/svg?repos=l-yohai/daily_papers&type=Date)
+![Star History Chart](https://api.star-history.com/svg?repos=l-yohai/daily_papers_ko&type=Date)
