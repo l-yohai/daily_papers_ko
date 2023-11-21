@@ -1,19 +1,7 @@
-import os
 from datetime import datetime
 
-import openai
 import pandas as pd
 import pytz
-from dotenv import load_dotenv
-
-
-def set_openai_key(api_key=None):
-    # OpenAI API 키 설정
-    if api_key is not None:
-        openai.api_key = api_key
-    else:
-        load_dotenv()
-        openai.api_key = os.environ["OPENAI_API_KEY"]
 
 
 def get_today():

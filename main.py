@@ -2,16 +2,19 @@ import os
 
 import fire
 import openai
+from dotenv import load_dotenv
 
 from request import get_abstract, get_papers, make_summary
-from utils import get_today, set_openai_key, update_paper_list
+from utils import get_today, update_paper_list
 
 
 def main(api_key=None):
     # OpenAI API 키 설정
-    set_openai_key(api_key=api_key)
+    if api_key is None:
+        load_dotenv()
+        api_key = os.environ["OPENAI_API_KEY"]
 
-    client = openai.OpenAI()
+    client = openai.OpenAI(api_key=api_key)
 
     titles_and_abstracts = []
     daily_papers = get_papers()
