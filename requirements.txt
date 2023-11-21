@@ -5,3 +5,4 @@ bs4
 pandas
 pre-commit
 requests
+python-dotenv
