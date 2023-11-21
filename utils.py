@@ -32,7 +32,7 @@ def update_paper_list(paper_title, paper_url, filename="paper_logs/papers_list.c
         titles = df["title"].values.tolist()
         urls = df["url"].values.tolist()
         titles.append(paper_title)
-        urls.append(paper_url)
+        urls.append(f"https://arxiv.org/abs/{paper_url.split('/papers/')[-1]}")
         df = pd.DataFrame(data={"title": titles, "url": urls})
         df.to_csv(filename, index=False, encoding="utf-8")
         exists_paper = False
