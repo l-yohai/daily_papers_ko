@@ -1,11 +1,10 @@
 import os
+from datetime import datetime
 
-from dotenv import load_dotenv
 import openai
 import pandas as pd
-
-from datetime import datetime
 import pytz
+from dotenv import load_dotenv
 
 
 def set_openai_key():

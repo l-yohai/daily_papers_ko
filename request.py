@@ -1,13 +1,12 @@
 import random
-import requests
 import time
 
+import openai
+import requests
 from bs4 import BeautifulSoup
 from lxml import etree
-import openai
 
 from utils import get_today
-
 
 HUGGINGFACE_URL = "https://huggingface.co"
 PAPERS_URI = "/papers"
@@ -35,7 +34,7 @@ def retry_with_exponential_backoff(
                 return func(*args, **kwargs)
 
             # Retry on specific errors
-            except errors as e:
+            except errors:
                 # Increment retries
                 num_retries += 1
 

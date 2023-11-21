@@ -3,8 +3,8 @@ import os
 import fire
 import openai
 
-from request import get_papers, get_abstract, make_summary
-from utils import set_openai_key, get_today, update_paper_list
+from request import get_abstract, get_papers, make_summary
+from utils import get_today, set_openai_key, update_paper_list
 
 
 def main():

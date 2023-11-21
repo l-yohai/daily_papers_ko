@@ -1,2 +1,6 @@
 lxml
 fire
+openai
+bs4
+pandas
+pre-commit
