@@ -1,20 +1,15 @@
+import argparse
 import os
 
-import fire
 import openai
-from dotenv import load_dotenv
 
 from request import get_abstract, get_papers, make_summary
 from utils import get_today, update_paper_list
 
 
-def main(api_key: str = ""):
+def main(args):
     # OpenAI API 키 설정
-    if not api_key:
-        load_dotenv()
-        api_key = os.environ["OPENAI_API_KEY"]
-
-    client = openai.OpenAI(api_key=api_key)
+    client = openai.OpenAI(api_key=args.api_key)
 
     titles_and_abstracts = []
     daily_papers = get_papers()
@@ -53,4 +48,7 @@ def main(api_key: str = ""):
 
 
 if __name__ == "__main__":
-    fire.Fire(main)
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--api_key", type=str, default="")
+    args = parser.parse_args()
+    main(args)
