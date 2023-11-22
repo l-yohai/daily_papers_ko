@@ -21,9 +21,7 @@ Authors: Peter Belcak, Roger Wattenhofer
 
 ### [Make Pixels Dance: High-Dynamic Video Generation](https://arxiv.org/abs/2311.10982)
 
-<video width="320" height="240" controls>
-  <source src="https://cdn-uploads.huggingface.co/production/uploads/60f1abe7544c2adfd699860c/D-WQoAl7gR1AwRZ0RXNkW.mp4" type="video/mp4">
-</video>
+<div><video controls src="https://cdn-uploads.huggingface.co/production/uploads/60f1abe7544c2adfd699860c/D-WQoAl7gR1AwRZ0RXNkW.mp4" muted="false"></video></div>
 
 Authors: Yan Zeng, Guoqiang Wei, Jiani Zheng, Jiaxin Zou, Yang Wei, Yuchen Zhang, Hang Li
 
