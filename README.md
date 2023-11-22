@@ -23,6 +23,10 @@ Authors: Peter Belcak, Roger Wattenhofer
 
 <iframe src="https://cdn-uploads.huggingface.co/production/uploads/60f1abe7544c2adfd699860c/D-WQoAl7gR1AwRZ0RXNkW.mp4" ></iframe>
 
+<video width="320" height="240" controls>
+  <source src="https://cdn-uploads.huggingface.co/production/uploads/60f1abe7544c2adfd699860c/D-WQoAl7gR1AwRZ0RXNkW.mp4" type="video/mp4">
+</video>
+
 Authors: Yan Zeng, Guoqiang Wei, Jiani Zheng, Jiaxin Zou, Yang Wei, Yuchen Zhang, Hang Li
 
 - 본 논문은 인공지능 분야에서 동적인 모션과 고급 비주얼 효과가 풍부한 고동적 비디오 생성의 어려움을 다루고 있습니다.
