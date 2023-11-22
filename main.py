@@ -19,32 +19,34 @@ def main(args):
             abstract = get_abstract(paper_url=paper_url)
             titles_and_abstracts.append((paper_title, paper_url, abstract))
 
-    # OpenAI API로 요약문 생성
-    summaries = [f"## Daily Papers ({get_today()})\n\n"]
-    for paper_title, paper_url, abstract in titles_and_abstracts:
-        summary = make_summary(
-            paper_title=paper_title,
-            paper_url=f"https://arxiv.org/abs/{paper_url.split('/papers/')[-1]}",
-            abstract=abstract,
-            client=client,
-        )
-        summaries.append(summary + "\n\n")
+    # 업데이트된 논문이 있을 경우
+    if len(titles_and_abstracts) > 0:
+        # OpenAI API로 요약문 생성
+        summaries = [f"## Daily Papers ({get_today()})\n\n"]
+        for paper_title, paper_url, abstract in titles_and_abstracts:
+            summary = make_summary(
+                paper_title=paper_title,
+                paper_url=f"https://arxiv.org/abs/{paper_url.split('/papers/')[-1]}",
+                abstract=abstract,
+                client=client,
+            )
+            summaries.append(summary + "\n\n")
 
-    yy, mm, dd = get_today().split("-")
-    os.makedirs(f"paper_logs/{yy}/{mm}", exist_ok=True)
+        yy, mm, dd = get_today().split("-")
+        os.makedirs(f"paper_logs/{yy}/{mm}", exist_ok=True)
 
-    with open(f"paper_logs/{yy}/{mm}/{dd}.md", "w") as f:
-        f.writelines(summaries)
+        with open(f"paper_logs/{yy}/{mm}/{dd}.md", "w") as f:
+            f.writelines(summaries)
 
-    with open("readme_start", "r") as f:
-        start_content = f.read()
-    with open("readme_end", "r") as f:
-        end_content = f.read()
-    with open("README.md", "w") as f:
-        f.writelines(start_content + "\n\n")
-        f.writelines(summaries)
-        f.writelines("\n\n")
-        f.writelines(end_content)
+        with open("readme_start", "r") as f:
+            start_content = f.read()
+        with open("readme_end", "r") as f:
+            end_content = f.read()
+        with open("README.md", "w") as f:
+            f.writelines(start_content + "\n\n")
+            f.writelines(summaries)
+            f.writelines("\n\n")
+            f.writelines(end_content)
 
 
 if __name__ == "__main__":

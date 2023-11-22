@@ -67,7 +67,7 @@ The format should be as follows:
 
 - summary
 
-Each sentence in the summary should begin with '-'. The summary should accurately reflect the content and significance of the paper's abstract, providing a clear understanding of its main focus and contributions."""
+Each sentence in the summary should begin with '-' and do not translate the title of the paper. The summary should accurately reflect the content and significance of the paper's abstract, providing a clear understanding of its main focus and contributions."""
 
     response = client.chat.completions.create(
         model="gpt-4-1106-preview", messages=[{"role": "system", "content": prompt}]
