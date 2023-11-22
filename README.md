@@ -11,6 +11,7 @@ Thanks to [@AK391](https://github.com/AK391) for great work.
 
 ### [MagicDance: Realistic Human Dance Video Generation with Motions & Facial Expressions Transfer](https://arxiv.org/abs/2311.12052)
 
+[Watch Video](https://cdn-uploads.huggingface.co/production/uploads/60f1abe7544c2adfd699860c/QPqDXcHNhksZaqkYOjZNQ.mp4)
 <div><video controls src="https://cdn-uploads.huggingface.co/production/uploads/60f1abe7544c2adfd699860c/QPqDXcHNhksZaqkYOjZNQ.mp4" muted="false"></video></div>
 
 Authors: Di Chang, Yichun Shi, Quankai Gao, Jessica Fu, Hongyi Xu, Guoxian Song, Qing Yan, Xiao Yang, Mohammad Soleymani
@@ -54,6 +55,7 @@ Authors: Sang-Hoon Lee, Ha-Yeong Choi, Seung-Bin Kim, Seong-Whan Lee
 
 ### [NeuroPrompts: An Adaptive Framework to Optimize Prompts for Text-to-Image Generation](https://arxiv.org/abs/2311.12229)
 
+[Watch Video](https://cdn-uploads.huggingface.co/production/uploads/60f1abe7544c2adfd699860c/HQ878D7Ac34_1GqKl2TZD.mp4)
 <div><video controls src="https://cdn-uploads.huggingface.co/production/uploads/60f1abe7544c2adfd699860c/HQ878D7Ac34_1GqKl2TZD.mp4" muted="false"></video></div>
 
 Authors: Shachar Rosenman, Vasudev Lal, Phillip Howard
@@ -68,6 +70,7 @@ Authors: Shachar Rosenman, Vasudev Lal, Phillip Howard
 
 ### [GPT4Motion: Scripting Physical Motions in Text-to-Video Generation via Blender-Oriented GPT Planning](https://arxiv.org/abs/2311.12631)
 
+[Watch Video](https://cdn-uploads.huggingface.co/production/uploads/60f1abe7544c2adfd699860c/GCwvjLFC_Tga6eXwub-qN.mp4)
 <div><video controls src="https://cdn-uploads.huggingface.co/production/uploads/60f1abe7544c2adfd699860c/GCwvjLFC_Tga6eXwub-qN.mp4" muted="false"></video></div>
 
 Authors: Jiaxi Lv, Yi Huang, Mingfu Yan, Jiancheng Huang, Jianzhuang Liu, Yifan Liu, Yafei Wen, Xiaoxin Chen, Shifeng Chen
@@ -83,6 +86,7 @@ Authors: Jiaxi Lv, Yi Huang, Mingfu Yan, Jiancheng Huang, Jianzhuang Liu, Yifan 
 
 ### [PF-LRM: Pose-Free Large Reconstruction Model for Joint Pose and Shape Prediction](https://arxiv.org/abs/2311.12024)
 
+[Watch Video](https://cdn-uploads.huggingface.co/production/uploads/60f1abe7544c2adfd699860c/PNftOjPrJHc2bdQUuGJiY.mp4)
 <div><video controls src="https://cdn-uploads.huggingface.co/production/uploads/60f1abe7544c2adfd699860c/PNftOjPrJHc2bdQUuGJiY.mp4" muted="false"></video></div>
 
 Authors: Peng Wang, Hao Tan, Sai Bi, Yinghao Xu, Fujun Luan, Kalyan Sunkavalli, Wenping Wang, Zexiang Xu, Kai Zhang
