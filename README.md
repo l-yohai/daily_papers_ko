@@ -145,6 +145,29 @@ Thanks to [@AK391](https://github.com/AK391) for great work.
 - 오류 분석을 통해 세 가지 주요 오류 범주가 드러나며 향후 개선 방향을 제시함.
 - ToolTalk는 https://github.com/microsoft/ToolTalk에서 공개됨.
 
+### [Make Pixels Dance: High-Dynamic Video Generation](/papers/2311.10982)
+
+[](https://cdn-uploads.huggingface.co/production/uploads/60f1abe7544c2adfd699860c/D-WQoAl7gR1AwRZ0RXNkW.mp4)
+Authors: Yan Zeng, Guoqiang Wei, Jiani Zheng, Jiaxin Zou, Yang Wei
+
+- 동작이 풍부한 고다이나믹 비디오와 섬세한 시각 효과를 생성하는 것은 인공지능 분야에서 큰 도전 과제입니다.
+- 현재 최신 비디오 생성 방법들은 주로 텍스트-비디오 생성에 초점을 맞추며, 높은 질감을 유지하면서도 최소한의 움직임을 가진 클립을 생산하는 경향이 있습니다.
+- 이 논문은 텍스트 지시사항에만 의존하는 것이 비디오 생성을 위해 충분하지 않고 최적이 아니라고 주장합니다.
+- PixelDance라는 새로운 접근 방식을 소개하며, 이는 텍스트 지시와 함께 비디오 생성을 위해 첫 프레임과 마지막 프레임에 대한 이미지 지시를 통합하는 확산 모델을 기반으로 합니다.
+- PixelDance는 공개 데이터로 훈련되어 복잡한 장면과 정교한 움직임이 있는 비디오를 합성하는 데 있어 훨씬 뛰어난 능력을 보여주며, 비디오 생성 분야에서 새로운 기준을 설정합니다.
+
+### [LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching](/papers/2311.11284)
+
+[](https://cdn-uploads.huggingface.co/production/uploads/60f1abe7544c2adfd699860c/rsKut6q6m7cpsUBzsmF-V.png)
+Authors: Yixun Liang, Jiantao Lin, Haodong Li, Xiaogang Xu, Yingcong Chen
+
+- 텍스트에서 3D 모델을 생성하는 기술이 진전되어 창의적인 3D 자산을 다양한 실세계 시나리오에서 창출하는 새로운 가능성을 열었습니다.
+- 최근 텍스트-투-3D 생성의 발전에도 불구하고, 세부적이고 고해상도의 3D 모델을 렌더링하는 데에 여전히 한계가 있습니다.
+- 많은 방법들이 스코어 증류 샘플링(Score Distillation Sampling, SDS)을 기반으로 하지만, 이는 3D 모델에 대해 일관성 없고 낮은 품질의 업데이트 방향을 제공하여 과잉 평활화 효과를 일으킵니다.
+- 이 문제를 해결하기 위해, 본 논문에서는 결정론적 확산 궤적을 사용하고 간격 기반 스코어 매칭을 통해 과잉 평활화를 방지하는 새로운 접근법인 인터벌 스코어 매칭(Interval Score Matching, ISM)을 제안합니다.
+- 또한, 텍스트-투-3D 생성 파이프라인에 3D 가우시안 스플래팅을 통합합니다.
+- 광범위한 실험을 통해, 우리의 모델은 품질과 훈련 효율성 측면에서 최신 기술을 크게 능가하는 것으로 나타났습니다.
+
 
 ## License
 
