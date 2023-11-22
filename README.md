@@ -20,14 +20,17 @@ Authors: Peter Belcak, Roger Wattenhofer
 - 연구팀은 학습 코드, 벤치마킹 설정 및 모델 가중치를 공개합니다.
 
 ### [Make Pixels Dance: High-Dynamic Video Generation](https://arxiv.org/abs/2311.10982)
-![](https://cdn-uploads.huggingface.co/production/uploads/60f1abe7544c2adfd699860c/D-WQoAl7gR1AwRZ0RXNkW.mp4)
-Authors: Yan Zeng, Guoqiang Wei, Jiani Zheng, Jiaxin Zou, Yang Wei
 
-- 동작이 풍부한 비디오와 정교한 시각 효과를 생성하는 것은 인공지능 분야에서 상당한 도전 과제입니다.
-- 최신 비디오 생성 방법들은 주로 텍스트에서 비디오로 생성하는 것에 초점을 두고 있으며, 높은 질의 이미지를 유지하면서도 최소한의 움직임을 나타내는 비디오 클립을 생성하는 경향이 있습니다.
-- 이 논문은 텍스트 지시어만으로 비디오 생성을 진행하는 것은 충분하지 않고 최적화되지 않았다고 주장합니다.
-- 본 논문에서는, PixelDance라는 새로운 접근법을 소개하는데, 이는 비디오 생성을 위해 텍스트 지시어와 함께 첫 번째 및 마지막 프레임에 대한 이미지 지시어를 포함하는 확산 모델에 기반을 둡니다.
-- 공개 데이터로 훈련된 PixelDance는 복잡한 장면과 복잡한 움직임을 가진 비디오를 합성하는 데 있어서 현저히 뛰어난 능력을 보여주며, 비디오 생성을 위한 새로운 기준을 설정합니다.
+<video src='https://cdn-uploads.huggingface.co/production/uploads/60f1abe7544c2adfd699860c/D-WQoAl7gR1AwRZ0RXNkW.mp4'></video>
+
+Authors: Yan Zeng, Guoqiang Wei, Jiani Zheng, Jiaxin Zou, Yang Wei, Yuchen Zhang, Hang Li
+
+- 본 논문은 인공지능 분야에서 동적인 모션과 고급 비주얼 효과가 풍부한 고동적 비디오 생성의 어려움을 다루고 있습니다.
+- 현재 최고 수준의 비디오 생성 방법들은 주로 텍스트-비디오 생성에 중점을 두며, 고화질에도 불구하고 최소한의 움직임을 지닌 비디오 클립을 생산하는 경향이 있습니다.
+- 저자들은 비디오 생성을 위해 오직 텍스트 지시만을 의존하는 것은 불충분하며 최적이 아니라고 주장합니다.
+- 이 논문은 텍스트 지시 뿐만 아니라 첫 번째와 마지막 프레임에 대한 이미지 지시를 결합하는 새로운 접근법인 PixelDance를 소개합니다.
+- 공개 데이터로 훈련된 PixelDance가 복잡한 장면과 복잡한 모션을 가진 비디오를 합성하는 데 있어 더 뛰어난 능력을 보임을 실험 결과가 입증하며, 비디오 생성 분야의 새로운 기준을 제시합니다.
+
 
 ### [Orca 2: Teaching Small Language Models How to Reason](https://arxiv.org/abs/2311.11045)
 ![](https://cdn-uploads.huggingface.co/production/uploads/60f1abe7544c2adfd699860c/wonQoQEEuCjCtDCJibROj.png)
