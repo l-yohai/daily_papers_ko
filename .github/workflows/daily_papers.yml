@@ -2,7 +2,7 @@ name: Translate and Summarize Daily Papers into Korean
 
 on:
   schedule:
-    - cron: '0 14 * * *'  # 매일 UTC 시간 기준 14:00 (한국 시간 오후 11시)
+    - cron: '0 23 * * *'  # 매일 UTC 시간 기준 23:00
   workflow_dispatch:
 
 jobs:
