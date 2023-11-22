@@ -38,7 +38,7 @@ def main(args):
             summary = "\n".join(
                 [line for line in summary.split("\n") if line.startswith("-")]
             )
-            summary = f"### [{paper_title}]({paper_url})\n\n![]({thumbnail})\n\nAuthors: {', '.join(authors)}\n\n{summary}"
+            summary = f"### [{paper_title}](https://arxiv.org/abs/{paper_url.split('/papers/')[-1]})\n\n![]({thumbnail})\n\nAuthors: {', '.join(authors)}\n\n{summary}"
             summaries.append(summary + "\n\n")
 
         yy, mm, dd = get_today().split("-")

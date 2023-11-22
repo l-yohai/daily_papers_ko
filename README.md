@@ -9,7 +9,7 @@ Thanks to [@AK391](https://github.com/AK391) for great work.
 
 ## Daily Papers (2023-11-21)
 
-### [Exponentially Faster Language Modelling](/papers/2311.10770)
+### [Exponentially Faster Language Modelling](https://arxiv.org/abs/2311.10770)
 ![](https://cdn-uploads.huggingface.co/production/uploads/60f1abe7544c2adfd699860c/J4Fjt08cj7la_ElXbOyoR.png)
 Authors: Peter Belcak, Roger Wattenhofer
 
@@ -19,7 +19,7 @@ Authors: Peter Belcak, Roger Wattenhofer
 - 현재는 조건부 뉴럴 실행의 전체 가속 잠재력을 해제할 효율적인 구현체가 없지만, 최적화된 기본 피드포워드 구현에 비해 78배 빠른 고수준 CPU 코드를 제공하며, 해당 배치 피드포워드 추론에 비해 40배 빠른 PyTorch 구현체를 제공합니다.
 - 연구팀은 학습 코드, 벤치마킹 설정 및 모델 가중치를 공개합니다.
 
-### [Make Pixels Dance: High-Dynamic Video Generation](/papers/2311.10982)
+### [Make Pixels Dance: High-Dynamic Video Generation](https://arxiv.org/abs/2311.10982)
 ![](https://cdn-uploads.huggingface.co/production/uploads/60f1abe7544c2adfd699860c/D-WQoAl7gR1AwRZ0RXNkW.mp4)
 Authors: Yan Zeng, Guoqiang Wei, Jiani Zheng, Jiaxin Zou, Yang Wei
 
@@ -29,7 +29,7 @@ Authors: Yan Zeng, Guoqiang Wei, Jiani Zheng, Jiaxin Zou, Yang Wei
 - 본 논문에서는, PixelDance라는 새로운 접근법을 소개하는데, 이는 비디오 생성을 위해 텍스트 지시어와 함께 첫 번째 및 마지막 프레임에 대한 이미지 지시어를 포함하는 확산 모델에 기반을 둡니다.
 - 공개 데이터로 훈련된 PixelDance는 복잡한 장면과 복잡한 움직임을 가진 비디오를 합성하는 데 있어서 현저히 뛰어난 능력을 보여주며, 비디오 생성을 위한 새로운 기준을 설정합니다.
 
-### [Orca 2: Teaching Small Language Models How to Reason](/papers/2311.11045)
+### [Orca 2: Teaching Small Language Models How to Reason](https://arxiv.org/abs/2311.11045)
 ![](https://cdn-uploads.huggingface.co/production/uploads/60f1abe7544c2adfd699860c/wonQoQEEuCjCtDCJibROj.png)
 Authors: Arindam Mitra, Luciano Del Corro, Shweti Mahajan, Andres Codas, Clarisse Simoes, Xuxi Chen, Kriti Aggarwal, Hamid Palangi, Guoqing Zheng, Corby Rosset, Hamed Khanpour, Ahmed Awadallah
 
@@ -42,7 +42,7 @@ Authors: Arindam Mitra, Luciano Del Corro, Shweti Mahajan, Andres Codas, Clariss
 - Orca 2는 비슷한 크기의 모델들을 크게 능가하고, zero-shot 설정에서 고급 추론 능력을 테스트하는 복잡한 작업에서 모델 크기가 5-10배 더 큰 모델들의 성능과 비슷하거나 뛰어난 성능을 달성한다.
 - 더 많은 연구를 장려하기 위해 Orca 2를 오픈 소스로 제공한다, 작은 LMs의 개발, 평가 및 조정에 대한 추가 연구를 장려함을 목적으로 한다.
 
-### [MultiLoRA: Democratizing LoRA for Better Multi-Task Learning](/papers/2311.11501)
+### [MultiLoRA: Democratizing LoRA for Better Multi-Task Learning](https://arxiv.org/abs/2311.11501)
 ![](https://cdn-uploads.huggingface.co/production/uploads/60f1abe7544c2adfd699860c/53uzqP9Y7qvyV8KrmEq0u.png)
 Authors: Yiming Wang
 
@@ -54,7 +54,7 @@ Authors: Yiming Wang
 - 추가 파라미터가 단지 2.5%임에도 불구하고, MultiLoRA는 다수의 벤치마크와 모델 스케일에서 단일 LoRA 버전 및 미세조정을 능가하는 성능을 보여줍니다.
 - MultiLoRA의 가중치 업데이트 매트릭스에 대한 추가 분석은 상위 특이 벡터에 대한 의존도가 줄어들었으며, 더 민주적인 단위 변환 기여도를 나타냅니다.
 
-### [System 2 Attention (is something you might need too)](/papers/2311.11829)
+### [System 2 Attention (is something you might need too)](https://arxiv.org/abs/2311.11829)
 ![](https://cdn-uploads.huggingface.co/production/uploads/60f1abe7544c2adfd699860c/lC0r8M6JFyi_kvKygxRaG.png)
 Authors: Jason Weston
 
@@ -63,7 +63,7 @@ Authors: Jason Weston
 - S2A는 입력 문맥을 중요한 부분만 포함하도록 재생성하고, 최종적인 응답을 이끌어내기 위해 재생성된 문맥에 주목합니다.
 - 실험에서 S2A는 의견이나 관련 없는 정보를 포함하는 세 가지 작업(질문 답변, 수학 문제 해결, 장문 생성)에서 표준 어텐션 기반 LLMs보다 성능이 우수하며, 사실성과 객관성을 증가시키고 아첨을 감소시키는 효과가 있음을 확인했습니다.
 
-### [Adapters: A Unified Library for Parameter-Efficient and Modular Transfer Learning](/papers/2311.11077)
+### [Adapters: A Unified Library for Parameter-Efficient and Modular Transfer Learning](https://arxiv.org/abs/2311.11077)
 ![](https://cdn-uploads.huggingface.co/production/uploads/60f1abe7544c2adfd699860c/-hvy4p00GWBmMx67NyR3K.png)
 Authors: Clifton Poth, Indraneil Paul, Sukannya Purkayastha, Leon Engländer, Timo Imhof, Ivan Vulić, Sebastian Ruder
 
@@ -74,7 +74,7 @@ Authors: Clifton Poth, Indraneil Paul, Sukannya Purkayastha, Leon Engländer, Ti
 - 'Adapters'는 기존의 미세조정 패러다임의 도전을 해결하고 더 효율적이고 모듈식의 전이 학습을 촉진하는 강력한 도구를 제공합니다.
 - 이 라이브러리는 https://adapterhub.ml/adapters 사이트를 통해 사용할 수 있습니다.
 
-### [Text-to-Sticker: Style Tailoring Latent Diffusion Models for Human Expression](/papers/2311.10794)
+### [Text-to-Sticker: Style Tailoring Latent Diffusion Models for Human Expression](https://arxiv.org/abs/2311.10794)
 ![](https://cdn-uploads.huggingface.co/production/uploads/60f1abe7544c2adfd699860c/iaJY8sQLnqKAaVHc-pLqT.png)
 Authors: Animesh Sinha, Arantxa Casanova, Winnie Zhang, Licheng Yu, Sonal Gupta, Dhruv Mahajan
 
@@ -87,7 +87,7 @@ Authors: Animesh Sinha, Arantxa Casanova, Winnie Zhang, Licheng Yu, Sonal Gupta,
 - 이 트레이드오프를 해결하기 위해, "Style Tailoring"이라는 새로운 미세조정 방법을 제안하며, 이는 내용과 스타일 분포를 함께 조절하면서 최상의 균형을 달성한다.
 - 평가 결과, 우리의 방법은 기본 Emu 모델에 스티커 생성을 위한 프롬프트 엔지니어링을 적용했을 때에 비해 시각적 품질을 14%, 프롬프트 정렬을 16.2%, 장면 다양성을 15.3% 향상시킴을 보여준다.
 
-### [Memory Augmented Language Models through Mixture of Word Experts](/papers/2311.10768)
+### [Memory Augmented Language Models through Mixture of Word Experts](https://arxiv.org/abs/2311.10768)
 ![](https://cdn-uploads.huggingface.co/production/uploads/60f1abe7544c2adfd699860c/w3iQFRkBxEcuOM8vYb8Ey.png)
 Authors: Cicero Nogueira dos Santos, James Lee-Thorp, Isaac Noble, Chung-Ching Chang, David Uthus
 
@@ -98,7 +98,7 @@ Authors: Cicero Nogueira dos Santos, James Lee-Thorp, Isaac Noble, Chung-Ching C
 - 또한 MoWE는 지식 집약적인 과제에서 표준 MoE 모델을 능가하며, 종종 희소 메모리 검색을 위한 맞춤형 메커니즘이 필요한 더 복잡한 메모리 증강 방식과 비슷한 성과를 보입니다.
 
 
-### [LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching](/papers/2311.11284)
+### [LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching](https://arxiv.org/abs/2311.11284)
 ![](https://cdn-uploads.huggingface.co/production/uploads/60f1abe7544c2adfd699860c/rsKut6q6m7cpsUBzsmF-V.png)
 Authors: Yixun Liang, Jiantao Lin, Haodong Li, Xiaogang Xu, Yingcong Chen
 
@@ -106,7 +106,7 @@ Authors: Yixun Liang, Jiantao Lin, Haodong Li, Xiaogang Xu, Yingcong Chen
 - 기존의 점수 증류 샘플링(Score Distillation Sampling, SDS) 기반 방법들이 3D 모델의 업데이트 방향에 있어 불일치와 저품질 결과를 초래하는 문제를 초래한다는 것을 지적하며, ISM은 이러한 과잉 평활화 효과를 방지하기 위해 결정적 확산 궤적과 간격 기반의 점수 매칭을 활용합니다.
 - 또한, 3D 가우시안 스플래팅 기법을 텍스트-3D 생성 파이프라인에 통합하여, 모델의 품질과 훈련 효율성 면에서 상태-의-예술적 수준을 대폭 개선함을 실험적으로 입증합니다.
 
-### [AutoStory: Generating Diverse Storytelling Images with Minimal Human Effort](/papers/2311.11243)
+### [AutoStory: Generating Diverse Storytelling Images with Minimal Human Effort](https://arxiv.org/abs/2311.11243)
 ![](https://cdn-uploads.huggingface.co/production/uploads/60f1abe7544c2adfd699860c/cSMBrukPVtZyza4FAEX89.png)
 Authors: Wen Wang, Canyu Zhao, Zhekai Chen, Kecheng Zheng
 
@@ -119,7 +119,7 @@ Authors: Wen Wang, Canyu Zhao, Zhekai Chen, Kecheng Zheng
 - 이 연구는 바운딩 박스 레이아웃을 스케치나 키포인트 제어 조건으로 변환하는 밀접한 조건 생성 모듈을 고안하여, 이미지 품질을 향상시키고 사용자 상호작용을 용이하고 직관적으로 만든다.
 - 또한, 인간 노동에 의존하지 않고 일관된 여러 시점의 등장인물 이미지를 생성하는 간단하면서도 효과적인 방법을 제안한다.
 
-### [GPQA: A Graduate-Level Google-Proof Q&A Benchmark](/papers/2311.12022)
+### [GPQA: A Graduate-Level Google-Proof Q&A Benchmark](https://arxiv.org/abs/2311.12022)
 ![](https://cdn-uploads.huggingface.co/production/uploads/60f1abe7544c2adfd699860c/rHGl2R_Q4q_BWQDqjfvey.png)
 Authors: David Rein, Asa Cooper Stickland, Jackson Petty, Richard Yuanzhe Pang, Julien Dirani
 
@@ -130,7 +130,7 @@ Authors: David Rein, Asa Cooper Stickland, Jackson Petty, Richard Yuanzhe Pang, 
 - 미래의 인공지능 시스템을 사용하여 새로운 과학 지식 개발과 같이 매우 어려운 질문에 답하기 위해서는, 전문 지식을 가진 인간이 그 출력을 감독할 수 있는 확장 가능한 감독 방법을 개발해야 합니다.
 - 숙련된 비전문가와 최첨단 AI 시스템 모두에게 어려운 GPQA의 난이도는 현실적인 확장 가능한 감독 실험을 가능하게 하며, 인간 전문가가 인간의 능력을 뛰어넘는 AI 시스템으로부터 신뢰할 수 있는 정보를 얻을 수 있는 방법을 고안하는 데 도움이 될 수 있습니다.
 
-### [TPTU-v2: Boosting Task Planning and Tool Usage of Large Language Model-based Agents in Real-world Systems](/papers/2311.11315)
+### [TPTU-v2: Boosting Task Planning and Tool Usage of Large Language Model-based Agents in Real-world Systems](https://arxiv.org/abs/2311.11315)
 ![](https://cdn-uploads.huggingface.co/production/uploads/60f1abe7544c2adfd699860c/umQyHD5UPMjR04BWdA_Y4.png)
 Authors: Jingqing Ruan, Yihong Chen, Hangyu Mao, Rui Zhao
 
@@ -139,7 +139,7 @@ Authors: Jingqing Ruan, Yihong Chen, Hangyu Mao, Rui Zhao
 - 프레임워크는 세 가지 주요 구성요소를 포함하고 있는데, (1) API 리트리버는 방대한 어레이에서 가장 관련성있는 API를 선택합니다; (2) LLM 파인튜너는 기본 LLM을 조정하여 미세 조정된 LLM이 작업 계획 및 API 호출에 더 용이하게 할 수 있도록 합니다; (3) 데모 셀렉터는 구별하기 어려운 API와 관련된 서로 다른 데모를 적응형으로 검색하여 컨텍스트 학습을 위해 사용됩니다.
 - 실제 상용 시스템과 오픈 소스 학술 데이터셋을 사용하여 분석한 결과, 개별 구성요소뿐만 아니라 통합된 프레임워크의 효과성이 명확하게 입증되었습니다.
 
-### [ToolTalk: Evaluating Tool-Usage in a Conversational Setting](/papers/2311.10775)
+### [ToolTalk: Evaluating Tool-Usage in a Conversational Setting](https://arxiv.org/abs/2311.10775)
 ![](https://cdn-uploads.huggingface.co/production/uploads/60f1abe7544c2adfd699860c/hWXP1WW3AZsku69WnSX9e.png)
 Authors: Nicholas Farn, Richard Shin
 
@@ -153,7 +153,7 @@ Authors: Nicholas Farn, Richard Shin
 - 오류 분석을 통해 세 가지 주요 카테고리를 밝히고 향후 개선을 위한 몇 가지 방향을 제시합니다.
 - https://github.com/microsoft/ToolTalk 에서 ToolTalk를 공개합니다.
 
-### [ProAgent: From Robotic Process Automation to Agentic Process Automation](/papers/2311.10751)
+### [ProAgent: From Robotic Process Automation to Agentic Process Automation](https://arxiv.org/abs/2311.10751)
 ![](https://cdn-uploads.huggingface.co/production/uploads/60f1abe7544c2adfd699860c/PY8YpZ0z3q3JMPWebL51q.png)
 Authors: Yining Ye, Xin Cong, Yujia Qin, Huadong Wang
 
@@ -163,7 +163,7 @@ Authors: Yining Ye, Xin Cong, Yujia Qin, Huadong Wang
 - 실증 실험을 통해 워크플로우의 구축과 실행 절차를 상세하게 기술하며, APA의 실행 가능성을 보여주고 에이전트에 의해 추진되는 자동화의 새로운 패러다임의 가능성을 밝혔습니다.
 - 해당 연구의 코드는 https://github.com/OpenBMB/ProAgent 에서 공개되어 있습니다.
 
-### [GPT-4V(ision) for Robotics: Multimodal Task Planning from Human Demonstration](/papers/2311.12015)
+### [GPT-4V(ision) for Robotics: Multimodal Task Planning from Human Demonstration](https://arxiv.org/abs/2311.12015)
 ![](https://cdn-uploads.huggingface.co/production/uploads/60f1abe7544c2adfd699860c/ZbjKeKEamGahtKOrLjJek.png)
 Authors: Naoki Wake
 
@@ -175,7 +175,7 @@ Authors: Naoki Wake
 - 다양한 시나리오에서의 실험을 통해 이 방법이 인간의 시연으로부터 제로샷 방식으로 실제 로봇 작업을 성공적으로 달성함을 입증했습니다.
 - GPT-4V 및 GPT-4의 프롬프트는 해당 프로젝트 페이지에서 확인할 수 있습니다: https://microsoft.github.io/GPT4Vision-Robot-Manipulation-Prompts/.
 
-### [M$^{2}$UGen: Multi-modal Music Understanding and Generation with the Power of Large Language Models](/papers/2311.11255)
+### [M$^{2}$UGen: Multi-modal Music Understanding and Generation with the Power of Large Language Models](https://arxiv.org/abs/2311.11255)
 ![](https://cdn-uploads.huggingface.co/production/uploads/60f1abe7544c2adfd699860c/27VY9R5sOdajsjesLABeG.png)
 Authors: Atin Sakkeer Hussain, Shansong Liu
 
