@@ -63,11 +63,13 @@ def make_summary(paper_title, paper_url, abstract, client):
 
 The format should be as follows:
 
-### [paper title](paper_url)
+## {paper_title}
 
-- summary
+- summary sentence 1
+- summary sentence 2
+...
 
-Each sentence in the summary should begin with '-' and do not translate the title of the paper. The summary should accurately reflect the content and significance of the paper's abstract, providing a clear understanding of its main focus and contributions."""
+Each sentence in the summary should begin with '-'. The summary should accurately reflect the content and significance of the paper's abstract, providing a clear understanding of its main focus and contributions."""
 
     response = client.chat.completions.create(
         model="gpt-4-1106-preview", messages=[{"role": "system", "content": prompt}]
@@ -87,13 +89,30 @@ def get_papers():
     soup = BeautifulSoup(response.text, "html.parser")
 
     daily_papers = []
-    for el in soup.find_all("h3"):
-        daily_papers.append((el.get_text(strip=True), el.find("a")["href"]))
+    for el in soup.select(
+        "body > div > main > div > section > "
+        "div.relative.grid.grid-cols-1.gap-14.lg\:grid-cols-2 > div > article"
+    ):
+        title = el.find("h3").text.strip()
+        url = el.find("a")["href"]
+        if not url.startswith("/papers/"):  # video thumbnail
+            url = el.find("h3").find("a")["href"]
+            thumbnail = el.find("video")["src"]
+        else:
+            thumbnail = el.select("img")[0]["src"]
+
+        daily_papers.append(
+            {
+                "title": title,
+                "url": url,
+                "thumbnail": thumbnail,
+            }
+        )
 
     return daily_papers
 
 
-def get_abstract(paper_url):
+def get_abstract_and_authors(paper_url):
     # 논문 페이지에서 초록을 가져옴
     url = HUGGINGFACE_URL + paper_url
 
@@ -108,4 +127,24 @@ def get_abstract(paper_url):
     # 초록을 가져옴
     abstract = tree.xpath(xpath_exp)[0].text
 
-    return abstract
+    # 저자를 가져옴
+    authors = []
+    authors = []
+    for el in soup.select(
+        "body > div > main > div > "
+        "section.pt-8.border-gray-100.md\:col-span-7.sm\:pb-16.lg\:pb-24.relative > "
+        "div > div.pb-10.md\:pt-3 > "
+        "div.relative.flex.flex-wrap.items-center.gap-2.text-base.leading-tight"
+    )[0].find_all("span"):
+        author = ""
+        if el:
+            if el.find("a") is not None:
+                author = el.find("a").text.strip()
+            if not author and el is not None:
+                if el.text.strip() != "" and el.text.strip() != "Authors:":
+                    author = el.text.split("\n")[0].split("\t")[0].strip()
+
+        if author:
+            authors.append(author)
+
+    return abstract, authors

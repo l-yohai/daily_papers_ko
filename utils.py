@@ -17,11 +17,13 @@ def update_paper_list(paper_title, paper_url, filename="paper_logs/papers_list.c
 
     # 논문 제목이 DataFrame에 없는 경우 추가
     if paper_title not in df["title"].values:
+        dates = df["date"].values.tolist()
         titles = df["title"].values.tolist()
         urls = df["url"].values.tolist()
+        dates.append(get_today())
         titles.append(paper_title)
         urls.append(f"https://arxiv.org/abs/{paper_url.split('/papers/')[-1]}")
-        df = pd.DataFrame(data={"title": titles, "url": urls})
+        df = pd.DataFrame(data={"date": dates, "title": titles, "url": urls})
         df.to_csv(filename, index=False, encoding="utf-8")
         exists_paper = False
         print(f"Added '{paper_title}' to {filename}")

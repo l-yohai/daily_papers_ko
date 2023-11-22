@@ -1,28 +1,28 @@
-title,url
-Video-LLaVA: Learning United Visual Representation by Alignment Before Projection,https://arxiv.org/abs/2311.10122
-Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning,https://arxiv.org/abs/2311.10709
-Rethinking Attention: Exploring Shallow Feed-Forward Neural Networks as an Alternative to Attention Layers in Transformers,https://arxiv.org/abs/2311.10642
-MetaDreamer: Efficient Text-to-3D Creation With Disentangling Geometry and Texture,https://arxiv.org/abs/2311.10123
-Camels in a Changing Climate: Enhancing LM Adaptation with Tulu 2,https://arxiv.org/abs/2311.10702
-I&S-ViT: An Inclusive & Stable Method for Pushing the Limit of Post-Training ViTs Quantization,https://arxiv.org/abs/2311.10126
-SelfEval: Leveraging the discriminative nature of generative models for evaluation,https://arxiv.org/abs/2311.10708
-VideoCon: Robust Video-Language Alignment via Contrast Captions,https://arxiv.org/abs/2311.10111
-Testing Language Model Agents Safely in the Wild,https://arxiv.org/abs/2311.10538
-Distilling and Retrieving Generalizable Knowledge for Robot Manipulation via Language Corrections,https://arxiv.org/abs/2311.10678
-UnifiedVisionGPT: Streamlining Vision-Oriented AI through Generalized Multimodal Framework,https://arxiv.org/abs/2311.10125
-Orca 2: Teaching Small Language Models How to Reason,https://arxiv.org/abs/2311.11045
-Exponentially Faster Language Modelling,https://arxiv.org/abs/2311.10770
-System 2 Attention (is something you might need too),https://arxiv.org/abs/2311.11829
-AutoStory: Generating Diverse Storytelling Images with Minimal Human Effort,https://arxiv.org/abs/2311.11243
-Memory Augmented Language Models through Mixture of Word Experts,https://arxiv.org/abs/2311.10768
-ProAgent: From Robotic Process Automation to Agentic Process Automation,https://arxiv.org/abs/2311.10751
-MultiLoRA: Democratizing LoRA for Better Multi-Task Learning,https://arxiv.org/abs/2311.11501
-GPT-4V(ision) for Robotics: Multimodal Task Planning from Human Demonstration,https://arxiv.org/abs/2311.12015
-Text-to-Sticker: Style Tailoring Latent Diffusion Models for Human Expression,https://arxiv.org/abs/2311.10794
-TPTU-v2: Boosting Task Planning and Tool Usage of Large Language Model-based Agents in Real-world Systems,https://arxiv.org/abs/2311.11315
-M$^{2}$UGen: Multi-modal Music Understanding and Generation with the Power of Large Language Models,https://arxiv.org/abs/2311.11255
-Adapters: A Unified Library for Parameter-Efficient and Modular Transfer Learning,https://arxiv.org/abs/2311.11077
-GPQA: A Graduate-Level Google-Proof Q&A Benchmark,https://arxiv.org/abs/2311.12022
-ToolTalk: Evaluating Tool-Usage in a Conversational Setting,https://arxiv.org/abs/2311.10775
-Make Pixels Dance: High-Dynamic Video Generation,https://arxiv.org/abs/2311.10982
-LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching,https://arxiv.org/abs/2311.11284
+date,title,url
+2023-11-20,Video-LLaVA: Learning United Visual Representation by Alignment Before Projection,https://arxiv.org/abs/2311.10122
+2023-11-20,Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning,https://arxiv.org/abs/2311.10709
+2023-11-20,Rethinking Attention: Exploring Shallow Feed-Forward Neural Networks as an Alternative to Attention Layers in Transformers,https://arxiv.org/abs/2311.10642
+2023-11-20,MetaDreamer: Efficient Text-to-3D Creation With Disentangling Geometry and Texture,https://arxiv.org/abs/2311.10123
+2023-11-20,Camels in a Changing Climate: Enhancing LM Adaptation with Tulu 2,https://arxiv.org/abs/2311.10702
+2023-11-20,I&S-ViT: An Inclusive & Stable Method for Pushing the Limit of Post-Training ViTs Quantization,https://arxiv.org/abs/2311.10126
+2023-11-20,SelfEval: Leveraging the discriminative nature of generative models for evaluation,https://arxiv.org/abs/2311.10708
+2023-11-20,VideoCon: Robust Video-Language Alignment via Contrast Captions,https://arxiv.org/abs/2311.10111
+2023-11-20,Testing Language Model Agents Safely in the Wild,https://arxiv.org/abs/2311.10538
+2023-11-20,Distilling and Retrieving Generalizable Knowledge for Robot Manipulation via Language Corrections,https://arxiv.org/abs/2311.10678
+2023-11-20,UnifiedVisionGPT: Streamlining Vision-Oriented AI through Generalized Multimodal Framework,https://arxiv.org/abs/2311.10125
+2023-11-21,Exponentially Faster Language Modelling,https://arxiv.org/abs/2311.10770
+2023-11-21,Make Pixels Dance: High-Dynamic Video Generation,https://arxiv.org/abs/2311.10982
+2023-11-21,Orca 2: Teaching Small Language Models How to Reason,https://arxiv.org/abs/2311.11045
+2023-11-21,MultiLoRA: Democratizing LoRA for Better Multi-Task Learning,https://arxiv.org/abs/2311.11501
+2023-11-21,System 2 Attention (is something you might need too),https://arxiv.org/abs/2311.11829
+2023-11-21,Adapters: A Unified Library for Parameter-Efficient and Modular Transfer Learning,https://arxiv.org/abs/2311.11077
+2023-11-21,Text-to-Sticker: Style Tailoring Latent Diffusion Models for Human Expression,https://arxiv.org/abs/2311.10794
+2023-11-21,LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching,https://arxiv.org/abs/2311.11284
+2023-11-21,AutoStory: Generating Diverse Storytelling Images with Minimal Human Effort,https://arxiv.org/abs/2311.11243
+2023-11-21,GPQA: A Graduate-Level Google-Proof Q&A Benchmark,https://arxiv.org/abs/2311.12022
+2023-11-21,TPTU-v2: Boosting Task Planning and Tool Usage of Large Language Model-based Agents in Real-world Systems,https://arxiv.org/abs/2311.11315
+2023-11-21,ToolTalk: Evaluating Tool-Usage in a Conversational Setting,https://arxiv.org/abs/2311.10775
+2023-11-21,ProAgent: From Robotic Process Automation to Agentic Process Automation,https://arxiv.org/abs/2311.10751
+2023-11-21,GPT-4V(ision) for Robotics: Multimodal Task Planning from Human Demonstration,https://arxiv.org/abs/2311.12015
+2023-11-21,M$^{2}$UGen: Multi-modal Music Understanding and Generation with the Power of Large Language Models,https://arxiv.org/abs/2311.11255
+2023-11-21,Memory Augmented Language Models through Mixture of Word Experts,https://arxiv.org/abs/2311.10768
