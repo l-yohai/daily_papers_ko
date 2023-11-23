@@ -6,7 +6,7 @@ import pytz
 
 def get_today():
     # 오늘 날짜를 YYYY-MM-DD 형식으로 반환
-    today = datetime.now(pytz.timezone("Asia/Seoul"))
+    today = datetime.now(pytz.utc)
     return today.strftime("%Y-%m-%d")
 
 
