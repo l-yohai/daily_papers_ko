@@ -24,7 +24,12 @@ jobs:
         pip install -r requirements.txt
 
     - name: Get Daily Papers and Summarize
-      run: python main.py --api_key ${{secrets.OPENAI_API_KEY}}
+      run: python main.py \
+            --api_key ${{secrets.OPENAI_API_KEY}} \
+            --workspace_name ${{secrets.WORKSPACE_NAME}} \
+            --target_channel_name $${{sccrets.TARGET_CHANNEL_NAME}} \
+            --target_channel_id ${{secrets.TARGET_CHANNEL_ID}} \
+            --slack_api_token ${{secrets.SLACK_API_TOKEN}}
 
     - name: Commit and Push Changes
       run: |

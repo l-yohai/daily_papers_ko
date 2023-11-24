@@ -4,3 +4,4 @@ bs4
 pandas
 pre-commit
 requests
+slack-sdk
