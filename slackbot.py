@@ -39,7 +39,7 @@ def make_template_for_slackbot(daily_papers: str):
             else:
                 thumbnail = ""
 
-        template = f"""{title_and_url}\n\nAuthors: {authors}\n\n{summary}\n\nThumbnail: {thumbnail}\n\n"""
+        template = f"""{title_and_url}\n\n{authors}\n\n{summary}\n\nThumbnail: {thumbnail}\n\n"""
 
         templates.append(template)
 
