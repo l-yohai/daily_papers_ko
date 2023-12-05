@@ -42,9 +42,9 @@ def main(args):
                 [line for line in summary.split("\n") if line.startswith("-")]
             )
             if thumbnail.split(".")[-1] == "mp4":
-                summary = f"### [Vote: {vote}] [{paper_title}](https://arxiv.org/abs/{paper_url.split('/papers/')[-1]})\n\n[Watch Video]{thumbnail}\n<div><video controls src=\"{thumbnail}\" muted=\"false\"></video></div>\n\nAuthors: {', '.join(authors)}\n\n{summary}"
+                summary = f"### [{paper_title}](https://arxiv.org/abs/{paper_url.split('/papers/')[-1]})\n\n[Watch Video]{thumbnail}\n<div><video controls src=\"{thumbnail}\" muted=\"false\"></video></div>\n\nVote: {vote}\n\nAuthors: {', '.join(authors)}\n\n{summary}"
             else:
-                summary = f"### [Vote: {vote}] [{paper_title}](https://arxiv.org/abs/{paper_url.split('/papers/')[-1]})\n\n![]({thumbnail})\n\nAuthors: {', '.join(authors)}\n\n{summary}"
+                summary = f"### [{paper_title}](https://arxiv.org/abs/{paper_url.split('/papers/')[-1]})\n\n![]({thumbnail})\n\nVote: {vote}\n\nAuthors: {', '.join(authors)}\n\n{summary}"
             summaries.append(summary + "\n\n")
             to_slack_summary = make_template_for_slackbot(summary)
             to_slack_summaries.append(to_slack_summary[0])
