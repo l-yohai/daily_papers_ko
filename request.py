@@ -101,7 +101,10 @@ def get_papers():
     ):
         title = el.find("h3").text.strip()
         url = el.find("a")["href"]
-        vote = el.find("label").text.strip()
+
+        label = el.find("label")
+        vote = label.find("div").text.strip() if label else "N/A"
+
         if not url.startswith("/papers/"):  # video thumbnail
             url = el.find("h3").find("a")["href"]
             thumbnail = el.find("video")["src"]
