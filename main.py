@@ -46,7 +46,7 @@ def main(args):
                 summary = f"### [{paper_title}](https://arxiv.org/abs/{paper_url.split('/papers/')[-1]})\n\n![]({thumbnail})\n\nAuthors: {', '.join(authors)}\n\n{summary}"
             summaries.append(summary + "\n\n")
             to_slack_summary = make_template_for_slackbot(summary)
-            to_slack_summaries.append(to_slack_summary)
+            to_slack_summaries.append(to_slack_summary[0])
 
         yy, mm, dd = get_today().split("-")
         os.makedirs(f"paper_logs/{yy}/{mm}", exist_ok=True)
