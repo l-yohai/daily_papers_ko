@@ -77,6 +77,12 @@ Each sentence in the summary should begin with '-'. The summary should accuratel
     return response.choices[0].message.content
 
 
+def get_url():
+    today = get_today()
+    url = HUGGINGFACE_URL + PAPERS_URI + QUERY.format(today=today)
+    return url
+
+
 def get_papers():
     # 오늘의 논문 목록을 반환
     today = get_today()
@@ -95,6 +101,7 @@ def get_papers():
     ):
         title = el.find("h3").text.strip()
         url = el.find("a")["href"]
+        vote = el.find("label").text.strip()
         if not url.startswith("/papers/"):  # video thumbnail
             url = el.find("h3").find("a")["href"]
             thumbnail = el.find("video")["src"]
@@ -106,6 +113,7 @@ def get_papers():
                 "title": title,
                 "url": url,
                 "thumbnail": thumbnail,
+                "vote": vote,
             }
         )
 

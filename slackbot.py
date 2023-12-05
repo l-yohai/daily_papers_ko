@@ -4,6 +4,7 @@ import re
 from slack_sdk import WebClient
 
 from utils import get_today
+from request import get_url
 
 yy, mm, dd = get_today().split("-")
 
@@ -55,10 +56,10 @@ def send(args, templates=[]):
 
     sc.chat_postMessage(
         channel=args.target_channel_name,
-        text=f"{yy}-{mm}-{dd} Daily Papers",
+        text=f"{yy}-{mm}-{dd} Daily Papers ({get_url()})",
     )
     for template in templates:
-        # get the timestamp of the parent messagew
+        # get the timestamp of the parent message
         result = sc.conversations_history(channel=args.target_channel_id)
         conversation_history = result["messages"]  # [0] is the most recent message
         message_ts = conversation_history[0]["ts"]
