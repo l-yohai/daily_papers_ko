@@ -61,3 +61,26 @@ date,title,url
 2023-12-04,Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering,https://arxiv.org/abs/2312.00109
 2023-12-04,Text-Guided 3D Face Synthesis -- From Generation to Editing,https://arxiv.org/abs/2312.00375
 2023-12-04,X-Dreamer: Creating High-quality 3D Content by Bridging the Domain Gap Between Text-to-2D and Text-to-3D Generation,https://arxiv.org/abs/2312.00085
+2023-12-05,Magicoder: Source Code Is All You Need,https://arxiv.org/abs/2312.02120
+2023-12-05,VMC: Video Motion Customization using Temporal Attention Adaption for Text-to-Video Diffusion Models,https://arxiv.org/abs/2312.00845
+2023-12-05,The Unlocking Spell on Base LLMs: Rethinking Alignment via In-Context Learning,https://arxiv.org/abs/2312.01552
+2023-12-05,VideoSwap: Customized Video Subject Swapping with Interactive Semantic Point Correspondence,https://arxiv.org/abs/2312.02087
+2023-12-05,DeepCache: Accelerating Diffusion Models for Free,https://arxiv.org/abs/2312.00858
+2023-12-05,Segment and Caption Anything,https://arxiv.org/abs/2312.00869
+2023-12-05,GIVT: Generative Infinite-Vocabulary Transformers,https://arxiv.org/abs/2312.02116
+2023-12-05,Segment Any 3D Gaussians,https://arxiv.org/abs/2312.00860
+2023-12-05,Object Recognition as Next Token Prediction,https://arxiv.org/abs/2312.02142
+2023-12-05,RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-grained Correctional Human Feedback,https://arxiv.org/abs/2312.00849
+2023-12-05,Fast View Synthesis of Casual Videos,https://arxiv.org/abs/2312.02135
+2023-12-05,Nash Learning from Human Feedback,https://arxiv.org/abs/2312.00886
+2023-12-05,DiffiT: Diffusion Vision Transformers for Image Generation,https://arxiv.org/abs/2312.02139
+2023-12-05,Style Aligned Image Generation via Shared Attention,https://arxiv.org/abs/2312.02133
+2023-12-05,SANeRF-HQ: Segment Anything for NeRF in High Quality,https://arxiv.org/abs/2312.01531
+2023-12-05,VideoRF: Rendering Dynamic Radiance Fields as 2D Feature Video Streams,https://arxiv.org/abs/2312.01407
+2023-12-05,GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis,https://arxiv.org/abs/2312.02155
+2023-12-05,Generative Powers of Ten,https://arxiv.org/abs/2312.02149
+2023-12-05,Rejuvenating image-GPT as Strong Visual Representation Learners,https://arxiv.org/abs/2312.02147
+2023-12-05,Using Large Language Models to Accelerate Communication for Users with Severe Motor Impairments,https://arxiv.org/abs/2312.01532
+2023-12-05,TextGenSHAP: Scalable Post-hoc Explanations in Text Generation with Long Documents,https://arxiv.org/abs/2312.01279
+2023-12-05,Generative Rendering: Controllable 4D-Guided Video Generation with 2D Diffusion Models,https://arxiv.org/abs/2312.01409
+2023-12-05,Customize your NeRF: Adaptive Source Driven 3D Scene Editing via Local-Global Iterative Training,https://arxiv.org/abs/2312.01663
