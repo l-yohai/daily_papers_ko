@@ -102,8 +102,7 @@ def get_papers():
         title = el.find("h3").text.strip()
         url = el.find("a")["href"]
 
-        label = el.find("label")
-        vote = label.find("div").text.strip() if label else "N/A"
+        vote = el.find("div", class_="leading-none").text.strip()
 
         if not url.startswith("/papers/"):  # video thumbnail
             url = el.find("h3").find("a")["href"]
@@ -159,3 +158,8 @@ def get_abstract_and_authors(paper_url):
             authors.append(author)
 
     return abstract, authors
+
+
+if __name__ == "__main__":
+    daily_papers = get_papers()
+    print(daily_papers)
