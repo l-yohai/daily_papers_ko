@@ -84,3 +84,23 @@ date,title,url
 2023-12-05,TextGenSHAP: Scalable Post-hoc Explanations in Text Generation with Long Documents,https://arxiv.org/abs/2312.01279
 2023-12-05,Generative Rendering: Controllable 4D-Guided Video Generation with 2D Diffusion Models,https://arxiv.org/abs/2312.01409
 2023-12-05,Customize your NeRF: Adaptive Source Driven 3D Scene Editing via Local-Global Iterative Training,https://arxiv.org/abs/2312.01663
+2023-12-06,FaceStudio: Put Your Face Everywhere in Seconds,https://arxiv.org/abs/2312.02663
+2023-12-06,ImageDream: Image-Prompt Multi-view Diffusion for 3D Generation,https://arxiv.org/abs/2312.02201
+2023-12-06,X-Adapter: Adding Universal Compatibility of Plugins for Upgraded Diffusion Model,https://arxiv.org/abs/2312.02238
+2023-12-06,Describing Differences in Image Sets with Natural Language,https://arxiv.org/abs/2312.02974
+2023-12-06,Rank-without-GPT: Building GPT-Independent Listwise Rerankers on Open-Source Large Language Models,https://arxiv.org/abs/2312.02969
+2023-12-06,Analyzing and Improving the Training Dynamics of Diffusion Models,https://arxiv.org/abs/2312.02696
+2023-12-06,Orthogonal Adaptation for Modular Customization of Diffusion Models,https://arxiv.org/abs/2312.02432
+2023-12-06,LivePhoto: Real Image Animation with Text-guided Motion Control,https://arxiv.org/abs/2312.02928
+2023-12-06,MVHumanNet: A Large-scale Dataset of Multi-view Daily Dressing Human Captures,https://arxiv.org/abs/2312.02963
+2023-12-06,Fine-grained Controllable Video Generation via Object Appearance and Context,https://arxiv.org/abs/2312.02919
+2023-12-06,DragVideo: Interactive Drag-style Video Editing,https://arxiv.org/abs/2312.02216
+2023-12-06,ReconFusion: 3D Reconstruction with Diffusion Priors,https://arxiv.org/abs/2312.02981
+2023-12-06,Training Chain-of-Thought via Latent-Variable Inference,https://arxiv.org/abs/2312.02179
+2023-12-06,Alchemist: Parametric Control of Material Properties with Diffusion Models,https://arxiv.org/abs/2312.02970
+2023-12-06,Axiomatic Preference Modeling for Longform Question Answering,https://arxiv.org/abs/2312.02206
+2023-12-06,Generating Fine-Grained Human Motions Using ChatGPT-Refined Descriptions,https://arxiv.org/abs/2312.02772
+2023-12-06,StableDreamer: Taming Noisy Score Distillation Sampling for Text-to-3D,https://arxiv.org/abs/2312.02189
+2023-12-06,GPT4Point: A Unified Framework for Point-Language Understanding and Generation,https://arxiv.org/abs/2312.02980
+2023-12-06,LLaVA-Grounding: Grounded Visual Chat with Large Multimodal Models,https://arxiv.org/abs/2312.02949
+2023-12-06,WhisBERT: Multimodal Text-Audio Language Modeling on 100M Words,https://arxiv.org/abs/2312.02931
