@@ -22,7 +22,7 @@ def make_template_for_slackbot(daily_papers: str):
 
     for content in contents:
         # 0: 제목, 1: 썸네일, 2: 저자, 3: 요약
-        title_and_url, thumbnail, authors, summary = content.split("\n\n")[:4]
+        title_and_url, thumbnail, vote, authors, summary = content.split("\n\n")[:5]
         title_and_url = title_and_url.strip().replace("[", "*").replace("]", "* ")
 
         if "video" in thumbnail:
@@ -40,7 +40,7 @@ def make_template_for_slackbot(daily_papers: str):
             else:
                 thumbnail = ""
 
-        template = f"""{title_and_url}\n\n{authors}\n\n{summary}\n\nThumbnail: {thumbnail}\n\n"""
+        template = f"""{title_and_url}\n\n{vote}\n\n{authors}\n\n{summary}\n\nThumbnail: {thumbnail}\n\n"""
 
         templates.append(template)
 
