@@ -134,28 +134,31 @@ def get_abstract_and_authors(paper_url):
     tree = etree.HTML(str(soup))
     xpath_exp = "/html/body/div/main/div/section[1]/div/div[2]/p"
 
-    # 초록을 가져옴
-    abstract = tree.xpath(xpath_exp)[0].text
+    try:
+        # 초록을 가져옴
+        abstract = tree.xpath(xpath_exp)[0].text
 
-    # 저자를 가져옴
-    authors = []
-    authors = []
-    for el in soup.select(
-        "body > div > main > div > "
-        "section.pt-8.border-gray-100.md\:col-span-7.sm\:pb-16.lg\:pb-24.relative > "
-        "div > div.pb-10.md\:pt-3 > "
-        "div.relative.flex.flex-wrap.items-center.gap-2.text-base.leading-tight"
-    )[0].find_all("span"):
-        author = ""
-        if el:
-            if el.find("a") is not None:
-                author = el.find("a").text.strip()
-            if not author and el is not None:
-                if el.text.strip() != "" and el.text.strip() != "Authors:":
-                    author = el.text.split("\n")[0].split("\t")[0].strip()
+        # 저자를 가져옴
+        authors = []
+        authors = []
+        for el in soup.select(
+            "body > div > main > div > "
+            "section.pt-8.border-gray-100.md\:col-span-7.sm\:pb-16.lg\:pb-24.relative > "
+            "div > div.pb-10.md\:pt-3 > "
+            "div.relative.flex.flex-wrap.items-center.gap-2.text-base.leading-tight"
+        )[0].find_all("span"):
+            author = ""
+            if el:
+                if el.find("a") is not None:
+                    author = el.find("a").text.strip()
+                if not author and el is not None:
+                    if el.text.strip() != "" and el.text.strip() != "Authors:":
+                        author = el.text.split("\n")[0].split("\t")[0].strip()
 
-        if author:
-            authors.append(author)
+            if author:
+                authors.append(author)
+    except Exception:
+        return None, None
 
     return abstract, authors
 

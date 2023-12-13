@@ -140,3 +140,40 @@ date,title,url
 2023-12-08,Generating Illustrated Instructions,https://arxiv.org/abs/2312.04552
 2023-12-08,LEGO: Learning EGOcentric Action Frame Generation via Visual Instruction Tuning,https://arxiv.org/abs/2312.03849
 2023-12-08,Large Language Models for Mathematicians,https://arxiv.org/abs/2312.04556
+2023-12-11,SparQ Attention: Bandwidth-Efficient LLM Inference,https://arxiv.org/abs/2312.04985
+2023-12-11,DreaMoving: A Human Dance Video Generation Framework based on Diffusion Models,https://arxiv.org/abs/2312.05107
+2023-12-11,ECLIPSE: A Resource-Efficient Text-to-Image Prior for Image Generations,https://arxiv.org/abs/2312.04655
+2023-12-11,Purple Llama CyberSecEval: A Secure Coding Benchmark for Language Models,https://arxiv.org/abs/2312.04724
+2023-12-11,Text-to-3D Generation with Bidirectional Diffusion using both 2D and 3D priors,https://arxiv.org/abs/2312.04963
+2023-12-11,Customizing Motion in Text-to-Video Diffusion Models,https://arxiv.org/abs/2312.04966
+2023-12-11,PathFinder: Guided Search over Multi-Step Reasoning Paths,https://arxiv.org/abs/2312.05180
+2023-12-11,MVDD: Multi-View Depth Diffusion Models,https://arxiv.org/abs/2312.04875
+2023-12-11,EE-LLM: Large-Scale Training and Inference of Early-Exit Large Language Models with 3D Parallelism,https://arxiv.org/abs/2312.04916
+2023-12-11,Localized Symbolic Knowledge Distillation for Visual Commonsense Models,https://arxiv.org/abs/2312.04837
+2023-12-12,LLM360: Towards Fully Transparent Open-Source LLMs,https://arxiv.org/abs/2312.06550
+2023-12-12,Sherpa3D: Boosting High-Fidelity Text-to-3D Generation via Coarse 3D Prior,https://arxiv.org/abs/2312.06655
+2023-12-12,Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models,https://arxiv.org/abs/2312.06109
+2023-12-12,Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models,https://arxiv.org/abs/2312.06585
+2023-12-12,Photorealistic Video Generation with Diffusion Models,https://arxiv.org/abs/2312.06662
+2023-12-12,"From Text to Motion: Grounding GPT-4 in a Humanoid Robot ""Alter3""",https://arxiv.org/abs/2312.06571
+2023-12-12,Context Tuning for Retrieval Augmented Generation,https://arxiv.org/abs/2312.05708
+2023-12-12,Efficient Quantization Strategies for Latent Diffusion Models,https://arxiv.org/abs/2312.05431
+2023-12-12,Evaluation of Large Language Models for Decision Making in Autonomous Driving,https://arxiv.org/abs/2312.06351
+2023-12-12,Using Captum to Explain Generative Language Models,https://arxiv.org/abs/2312.05491
+2023-12-12,Federated Full-Parameter Tuning of Billion-Sized Language Models with Communication Cost under 18 Kilobytes,https://arxiv.org/abs/2312.06353
+2023-12-12,Order Matters in the Presence of Dataset Imbalance for Multilingual Learning,https://arxiv.org/abs/2312.06134
+2023-12-12,TCNCA: Temporal Convolution Network with Chunked Attention for Scalable Sequence Processing,https://arxiv.org/abs/2312.05605
+2023-12-12,Unlocking Anticipatory Text Generation: A Constrained Approach for Faithful Decoding with Large Language Models,https://arxiv.org/abs/2312.06149
+2023-12-13,DiffMorpher: Unleashing the Capability of Diffusion Models for Image Morphing,https://arxiv.org/abs/2312.07409
+2023-12-13,Fast Training of Diffusion Transformer with Extreme Masking for 3D Point Clouds Generation,https://arxiv.org/abs/2312.07231
+2023-12-13,Rethinking Compression: Reduced Order Modelling of Latent Features in Large Language Models,https://arxiv.org/abs/2312.07046
+2023-12-13,Alignment for Honesty,https://arxiv.org/abs/2312.07000
+2023-12-13,COLMAP-Free 3D Gaussian Splatting,https://arxiv.org/abs/2312.07504
+2023-12-13,How Well Does GPT-4V(ision) Adapt to Distribution Shifts? A Preliminary Investigation,https://arxiv.org/abs/2312.07424
+2023-12-13,FreeInit: Bridging Initialization Gap in Video Diffusion Models,https://arxiv.org/abs/2312.07537
+2023-12-13,PEEKABOO: Interactive Video Generation via Masked-Diffusion,https://arxiv.org/abs/2312.07509
+2023-12-13,VILA: On Pre-training for Visual Language Models,https://arxiv.org/abs/2312.07533
+2023-12-13,"""I Want It That Way"": Enabling Interactive Decision Support Using Large Language Models and Constraint Programming",https://arxiv.org/abs/2312.06908
+2023-12-13,Honeybee: Locality-enhanced Projector for Multimodal LLM,https://arxiv.org/abs/2312.06742
+2023-12-13,Steering Llama 2 via Contrastive Activation Addition,https://arxiv.org/abs/2312.06681
+2023-12-13,Llama Guard: LLM-based Input-Output Safeguard for Human-AI Conversations,https://arxiv.org/abs/2312.06674

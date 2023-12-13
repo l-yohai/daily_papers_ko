@@ -24,7 +24,10 @@ def main(args):
         is_updated = update_paper_list(paper_title=paper_title, paper_url=paper_url)
         if is_updated:
             abstract, authors = get_abstract_and_authors(paper_url=paper_url)
-            target_papers.append((paper_title, thumbnail, authors, paper_url, vote, abstract))
+            if abstract is not None and authors is not None:
+                target_papers.append(
+                    (paper_title, thumbnail, authors, paper_url, vote, abstract)
+                )
 
     # 업데이트된 논문이 있을 경우
     if len(target_papers) > 0:
