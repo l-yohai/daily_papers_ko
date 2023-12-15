@@ -189,3 +189,24 @@ date,title,url
 2023-12-14,Invariant Graph Transformer,https://arxiv.org/abs/2312.07859
 2023-12-14,FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects,https://arxiv.org/abs/2312.08344
 2023-12-14,ProNeRF: Learning Efficient Projection-Aware Ray Sampling for Fine-Grained Implicit Neural Radiance Fields,https://arxiv.org/abs/2312.08136
+2023-12-15,StemGen: A music generation model that listens,https://arxiv.org/abs/2312.08723
+2023-12-15,CogAgent: A Visual Language Model for GUI Agents,https://arxiv.org/abs/2312.08914
+2023-12-15,TinyGSM: achieving >80% on GSM8k with small language models,https://arxiv.org/abs/2312.09241
+2023-12-15,A Picture is Worth More Than 77 Text Tokens: Evaluating CLIP-Style Models on Dense Captions,https://arxiv.org/abs/2312.08578
+2023-12-15,VideoLCM: Video Latent Consistency Model,https://arxiv.org/abs/2312.09109
+2023-12-15,LIME: Localized Image Editing via Attention Regularization in Diffusion Models,https://arxiv.org/abs/2312.09256
+2023-12-15,Vision-Language Models as a Source of Rewards,https://arxiv.org/abs/2312.09187
+2023-12-15,Mosaic-SDF for 3D Generative Models,https://arxiv.org/abs/2312.09222
+2023-12-15,FineControlNet: Fine-level Text Control for Image Generation with Spatially Aligned Text Control Injection,https://arxiv.org/abs/2312.09252
+2023-12-15,SEEAvatar: Photorealistic Text-to-3D Avatar Generation with Constrained Geometry and Appearance,https://arxiv.org/abs/2312.08889
+2023-12-15,Zebra: Extending Context Window with Layerwise Grouped Local-Global Attention,https://arxiv.org/abs/2312.08618
+2023-12-15,VL-GPT: A Generative Pre-trained Transformer for Vision and Language Understanding and Generation,https://arxiv.org/abs/2312.09251
+2023-12-15,Pixel Aligned Language Models,https://arxiv.org/abs/2312.09237
+2023-12-15,General Object Foundation Model for Images and Videos at Scale,https://arxiv.org/abs/2312.09158
+2023-12-15,ZeroQuant(4+2): Redefining LLMs Quantization with a New FP6-Centric Strategy for Diverse Generative Tasks,https://arxiv.org/abs/2312.08583
+2023-12-15,Modeling Complex Mathematical Reasoning via Large Language Model based MathAgent,https://arxiv.org/abs/2312.08926
+2023-12-15,Helping or Herding? Reward Model Ensembles Mitigate but do not Eliminate Reward Hacking,https://arxiv.org/abs/2312.09244
+2023-12-15,Holodeck: Language Guided Generation of 3D Embodied AI Environments,https://arxiv.org/abs/2312.09067
+2023-12-15,SHAP-EDITOR: Instruction-guided Latent 3D Editing in Seconds,https://arxiv.org/abs/2312.09246
+2023-12-15,UniDream: Unifying Diffusion Priors for Relightable Text-to-3D Generation,https://arxiv.org/abs/2312.08754
+2023-12-15,TigerBot: An Open Multilingual Multitask LLM,https://arxiv.org/abs/2312.08688
