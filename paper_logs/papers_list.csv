@@ -210,3 +210,18 @@ date,title,url
 2023-12-15,SHAP-EDITOR: Instruction-guided Latent 3D Editing in Seconds,https://arxiv.org/abs/2312.09246
 2023-12-15,UniDream: Unifying Diffusion Priors for Relightable Text-to-3D Generation,https://arxiv.org/abs/2312.08754
 2023-12-15,TigerBot: An Open Multilingual Multitask LLM,https://arxiv.org/abs/2312.08688
+2023-12-18,"Amphion: An Open-Source Audio, Music and Speech Generation Toolkit",https://arxiv.org/abs/2312.09911
+2023-12-18,Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision,https://arxiv.org/abs/2312.09390
+2023-12-18,DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models,https://arxiv.org/abs/2312.09767
+2023-12-18,ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent,https://arxiv.org/abs/2312.10003
+2023-12-18,Weight subcloning: direct initialization of transformers using larger pretrained ones,https://arxiv.org/abs/2312.09299
+2023-12-18,MobileSAMv2: Faster Segment Anything to Everything,https://arxiv.org/abs/2312.09579
+2023-12-18,"Point Transformer V3: Simpler, Faster, Stronger",https://arxiv.org/abs/2312.10035
+2023-12-18,Self-Evaluation Improves Selective Generation in Large Language Models,https://arxiv.org/abs/2312.09300
+2023-12-18,Extending Context Window of Large Language Models via Semantic Compression,https://arxiv.org/abs/2312.09571
+2023-12-18,Faster Diffusion: Rethinking the Role of UNet Encoder in Diffusion Models,https://arxiv.org/abs/2312.09608
+2023-12-18,Stable Score Distillation for High-Quality 3D Generation,https://arxiv.org/abs/2312.09305
+2023-12-18,Challenges with unsupervised LLM knowledge discovery,https://arxiv.org/abs/2312.10029
+2023-12-18,Faithful Persona-based Conversational Dataset Generation with Large Language Models,https://arxiv.org/abs/2312.10007
+2023-12-18,SlimmeRF: Slimmable Radiance Fields,https://arxiv.org/abs/2312.10034
+2023-12-18,Perspectives on the State and Future of Deep Learning -- 2023,https://arxiv.org/abs/2312.09323
