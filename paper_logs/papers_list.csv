@@ -257,3 +257,18 @@ date,title,url
 2023-12-20,Text-Conditioned Resampler For Long Form Video Understanding,https://arxiv.org/abs/2312.11897
 2023-12-20,Topic-VQ-VAE: Leveraging Latent Codebooks for Flexible Topic-Guided Document Generation,https://arxiv.org/abs/2312.11532
 2023-12-20,Towards Accurate Guided Diffusion Sampling through Symplectic Adjoint Method,https://arxiv.org/abs/2312.12030
+2023-12-21,StreamDiffusion: A Pipeline-level Solution for Real-time Interactive Generation,https://arxiv.org/abs/2312.12491
+2023-12-21,PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU,https://arxiv.org/abs/2312.12456
+2023-12-21,Generative Multimodal Models are In-Context Learners,https://arxiv.org/abs/2312.13286
+2023-12-21,Zero-Shot Metric Depth with a Field-of-View Conditioned Diffusion Model,https://arxiv.org/abs/2312.13252
+2023-12-21,InstructVideo: Instructing Video Diffusion Models with Human Feedback,https://arxiv.org/abs/2312.12490
+2023-12-21,Cached Transformers: Improving Transformers with Differentiable Memory Cache,https://arxiv.org/abs/2312.12742
+2023-12-21,Splatter Image: Ultra-Fast Single-View 3D Reconstruction,https://arxiv.org/abs/2312.13150
+2023-12-21,UniSDF: Unifying Neural Representations for High-Fidelity 3D Reconstruction of Complex Scenes with Reflections,https://arxiv.org/abs/2312.13285
+2023-12-21,SpecNeRF: Gaussian Directional Encoding for Specular Reflections,https://arxiv.org/abs/2312.13102
+2023-12-21,Mini-GPTs: Efficient Large Language Models through Contextual Pruning,https://arxiv.org/abs/2312.12682
+2023-12-21,MaskINT: Video Editing via Interpolative Non-autoregressive Masked Transformers,https://arxiv.org/abs/2312.12468
+2023-12-21,Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting,https://arxiv.org/abs/2312.13271
+2023-12-21,Model-Based Control with Sparse Neural Dynamics,https://arxiv.org/abs/2312.12791
+2023-12-21,RadEdit: stress-testing biomedical vision models via diffusion image editing,https://arxiv.org/abs/2312.12865
+2023-12-21,Adaptive Guidance: Training-free Acceleration of Conditional Diffusion Models,https://arxiv.org/abs/2312.12487
