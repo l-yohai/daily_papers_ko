@@ -317,3 +317,22 @@ date,title,url
 2023-12-27,"One-dimensional Adapter to Rule Them All: Concepts, Diffusion Models and Erasing Applications",https://arxiv.org/abs/2312.16145
 2023-12-27,Human101: Training 100+FPS Human Gaussians in 100s from 1 View,https://arxiv.org/abs/2312.15258
 2023-12-27,Supervised Knowledge Makes Large Language Models Better In-context Learners,https://arxiv.org/abs/2312.15918
+2023-12-29,TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones,https://arxiv.org/abs/2312.16862
+2023-12-29,"MobileVLM : A Fast, Reproducible and Strong Vision Language Assistant for Mobile Devices",https://arxiv.org/abs/2312.16886
+2023-12-29,"Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action",https://arxiv.org/abs/2312.17172
+2023-12-29,Unsupervised Universal Image Segmentation,https://arxiv.org/abs/2312.17243
+2023-12-29,DL3DV-10K: A Large-Scale Scene Dataset for Deep Learning-based 3D Vision,https://arxiv.org/abs/2312.16256
+2023-12-29,Generative AI for Math: Part I -- MathPile: A Billion-Token-Scale Pretraining Corpus for Math,https://arxiv.org/abs/2312.17120
+2023-12-29,DreamGaussian4D: Generative 4D Gaussian Splatting,https://arxiv.org/abs/2312.17142
+2023-12-29,City-on-Web: Real-time Neural Rendering of Large-scale Scenes on the Web,https://arxiv.org/abs/2312.16457
+2023-12-29,I2V-Adapter: A General Image-to-Video Adapter for Video Diffusion Models,https://arxiv.org/abs/2312.16693
+2023-12-29,Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis,https://arxiv.org/abs/2312.16812
+2023-12-29,The LLM Surgeon,https://arxiv.org/abs/2312.17244
+2023-12-29,SSR-Encoder: Encoding Selective Subject Representation for Subject-Driven Generation,https://arxiv.org/abs/2312.16272
+2023-12-29,Hyper-VolTran: Fast and Generalizable One-Shot Image to 3D Object Structure via HyperNetworks,https://arxiv.org/abs/2312.16218
+2023-12-29,InsActor: Instruction-driven Physics-based Characters,https://arxiv.org/abs/2312.17135
+2023-12-29,DiffusionGAN3D: Boosting Text-guided 3D Generation and Domain Adaption by Combining 3D GANs and Diffusion Priors,https://arxiv.org/abs/2312.16837
+2023-12-29,PanGu-Draw: Advancing Resource-Efficient Text-to-Image Synthesis with Time-Decoupled Training and Reusable Coop-Diffusion,https://arxiv.org/abs/2312.16486
+2023-12-29,Compact Neural Graphics Primitives with Learned Hash Probing,https://arxiv.org/abs/2312.17241
+2023-12-29,Restoration by Generation with Constrained Priors,https://arxiv.org/abs/2312.17161
+2023-12-29,Prompt Expansion for Adaptive Text-to-Image Generation,https://arxiv.org/abs/2312.16720
