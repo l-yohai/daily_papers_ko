@@ -432,3 +432,15 @@ date,title,url
 2024-01-17,Extending LLMs' Context Window with 100 Samples,https://arxiv.org/abs/2401.07004
 2024-01-17,Tuning Language Models by Proxy,https://arxiv.org/abs/2401.08565
 2024-01-17,HexaGen3D: StableDiffusion is just one step away from Fast and Diverse Text-to-3D Generation,https://arxiv.org/abs/2401.07727
+2024-01-18,Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model,https://arxiv.org/abs/2401.09417
+2024-01-18,SceneVerse: Scaling 3D Vision-Language Learning for Grounded Scene Understanding,https://arxiv.org/abs/2401.09340
+2024-01-18,ReFT: Reasoning with Reinforced Fine-Tuning,https://arxiv.org/abs/2401.08967
+2024-01-18,UniVG: Towards UNIfied-modal Video Generation,https://arxiv.org/abs/2401.09084
+2024-01-18,GARField: Group Anything with Radiance Fields,https://arxiv.org/abs/2401.09419
+2024-01-18,DeepSpeed-FastGen: High-throughput Text Generation for LLMs via MII and DeepSpeed-Inference,https://arxiv.org/abs/2401.08671
+2024-01-18,Asynchronous Local-SGD Training for Language Modeling,https://arxiv.org/abs/2401.09135
+2024-01-18,VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models,https://arxiv.org/abs/2401.09047
+2024-01-18,TextureDreamer: Image-guided Texture Synthesis through Geometry-aware Diffusion,https://arxiv.org/abs/2401.09416
+2024-01-18,SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers,https://arxiv.org/abs/2401.08740
+2024-01-18,ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization,https://arxiv.org/abs/2401.08937
+2024-01-18,Compose and Conquer: Diffusion-Based 3D Depth Aware Composable Image Synthesis,https://arxiv.org/abs/2401.09048
