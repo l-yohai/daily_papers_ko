@@ -155,6 +155,7 @@ def get_abstract_and_authors(paper_url):
         if author:
             authors.append(author)
 
+    authors = list(set(authors))
     return abstract, authors
 
 
