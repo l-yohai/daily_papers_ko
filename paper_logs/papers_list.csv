@@ -1183,3 +1183,12 @@ date,title,url
 2024-04-24,Transformers Can Represent $n$-gram Language Models,https://arxiv.org/abs/2404.14994
 2024-04-24,FlashSpeech: Efficient Zero-Shot Speech Synthesis,https://arxiv.org/abs/2404.14700
 2024-04-24,Align Your Steps: Optimizing Sampling Schedules in Diffusion Models,https://arxiv.org/abs/2404.14507
+2024-04-25,CatLIP: CLIP-level Visual Recognition Accuracy with 2.7x Faster Pre-training on Web-scale Image-Text Data,https://arxiv.org/abs/2404.15653
+2024-04-25,PuLID: Pure and Lightning ID Customization via Contrastive Alignment,https://arxiv.org/abs/2404.16022
+2024-04-25,ID-Aligner: Enhancing Identity-Preserving Text-to-Image Generation with Reward Feedback Learning,https://arxiv.org/abs/2404.15449
+2024-04-25,Editable Image Elements for Controllable Synthesis,https://arxiv.org/abs/2404.16029
+2024-04-25,MotionMaster: Training-free Camera Motion Transfer For Video Generation,https://arxiv.org/abs/2404.15789
+2024-04-25,MaGGIe: Masked Guided Gradual Human Instance Matting,https://arxiv.org/abs/2404.16035
+2024-04-25,XC-Cache: Cross-Attending to Cached Context for Efficient LLM Inference,https://arxiv.org/abs/2404.15420
+2024-04-25,BASS: Batched Attention-optimized Speculative Sampling,https://arxiv.org/abs/2404.15778
+2024-04-25,MoDE: CLIP Data Experts via Clustering,https://arxiv.org/abs/2404.16030
