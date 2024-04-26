@@ -1192,3 +1192,13 @@ date,title,url
 2024-04-25,XC-Cache: Cross-Attending to Cached Context for Efficient LLM Inference,https://arxiv.org/abs/2404.15420
 2024-04-25,BASS: Batched Attention-optimized Speculative Sampling,https://arxiv.org/abs/2404.15778
 2024-04-25,MoDE: CLIP Data Experts via Clustering,https://arxiv.org/abs/2404.16030
+2024-04-26,Layer Skip: Enabling Early Exit Inference and Self-Speculative Decoding,https://arxiv.org/abs/2404.16710
+2024-04-26,How Far Are We to GPT-4V? Closing the Gap to Commercial Multimodal Models with Open-Source Suites,https://arxiv.org/abs/2404.16821
+2024-04-26,Make Your LLM Fully Utilize the Context,https://arxiv.org/abs/2404.16811
+2024-04-26,Tele-FLM Technical Report,https://arxiv.org/abs/2404.16645
+2024-04-26,Interactive3D: Create What You Want by Interactive 3D Generation,https://arxiv.org/abs/2404.16510
+2024-04-26,NeRF-XL: Scaling NeRFs with Multiple GPUs,https://arxiv.org/abs/2404.16221
+2024-04-26,List Items One by One: A New Data Source and Learning Paradigm for Multimodal LLMs,https://arxiv.org/abs/2404.16375
+2024-04-26,ConsistentID: Portrait Generation with Multimodal Fine-Grained Identity Preserving,https://arxiv.org/abs/2404.16771
+2024-04-26,"Revisiting Text-to-Image Evaluation with Gecko: On Metrics, Prompts, and Human Ratings",https://arxiv.org/abs/2404.16820
+2024-04-26,SEED-Bench-2-Plus: Benchmarking Multimodal Large Language Models with Text-Rich Visual Comprehension,https://arxiv.org/abs/2404.16790
