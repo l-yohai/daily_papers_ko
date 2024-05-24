@@ -1293,3 +1293,20 @@ date,title,url
 2024-05-22,Reducing Transformer Key-Value Cache Size with Cross-Layer Attention,https://arxiv.org/abs/2405.12981
 2024-05-22,OmniGlue: Generalizable Feature Matching with Foundation Model Guidance,https://arxiv.org/abs/2405.12979
 2024-05-22,Personalized Residuals for Concept-Driven Text-to-Image Generation,https://arxiv.org/abs/2405.12978
+2024-05-24,Not All Language Model Features Are Linear,https://arxiv.org/abs/2405.14860
+2024-05-24,DeepSeek-Prover: Advancing Theorem Proving in LLMs through Large-Scale Synthetic Data,https://arxiv.org/abs/2405.14333
+2024-05-24,ReVideo: Remake a Video with Motion and Content Control,https://arxiv.org/abs/2405.13865
+2024-05-24,LiteVAE: Lightweight and Efficient Variational Autoencoders for Latent Diffusion Models,https://arxiv.org/abs/2405.14477
+2024-05-24,Dense Connector for MLLMs,https://arxiv.org/abs/2405.13800
+2024-05-24,Thermodynamic Natural Gradient Descent,https://arxiv.org/abs/2405.13817
+2024-05-24,Improved Distribution Matching Distillation for Fast Image Synthesis,https://arxiv.org/abs/2405.14867
+2024-05-24,Visual Echoes: A Simple Unified Transformer for Audio-Visual Generation,https://arxiv.org/abs/2405.14598
+2024-05-24,AlignGPT: Multi-modal Large Language Models with Adaptive Alignment Capability,https://arxiv.org/abs/2405.14129
+2024-05-24,RectifID: Personalizing Rectified Flow with Anchored Classifier Guidance,https://arxiv.org/abs/2405.14677
+2024-05-24,Distributed Speculative Inference of Large Language Models,https://arxiv.org/abs/2405.14105
+2024-05-24,DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis,https://arxiv.org/abs/2405.14224
+2024-05-24,CamViG: Camera Aware Image-to-Video Generation with Multimodal Transformers,https://arxiv.org/abs/2405.13195
+2024-05-24,Neural Directional Encoding for Efficient and Accurate View-Dependent Appearance Modeling,https://arxiv.org/abs/2405.14847
+2024-05-24,Semantica: An Adaptable Image-Conditioned Diffusion Model,https://arxiv.org/abs/2405.14857
+2024-05-24,Tele-Aloha: A Low-budget and High-authenticity Telepresence System Using Sparse RGB Cameras,https://arxiv.org/abs/2405.14866
+2024-05-24,NeRF-Casting: Improved View-Dependent Appearance with Consistent Reflections,https://arxiv.org/abs/2405.14871
