@@ -71,7 +71,7 @@ The format should be as follows:
 Each sentence in the summary should begin with '-'. The summary should accurately reflect the content and significance of the paper's abstract, providing a clear understanding of its main focus and contributions."""
 
     response = client.chat.completions.create(
-        model="gpt-4-turbo", messages=[{"role": "system", "content": prompt}]
+        model="gpt-4o", messages=[{"role": "system", "content": prompt}]
     )
     return response.choices[0].message.content
 
