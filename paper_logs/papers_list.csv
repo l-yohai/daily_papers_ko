@@ -1419,3 +1419,17 @@ date,title,url
 2024-06-10,NATURAL PLAN: Benchmarking LLMs on Natural Language Planning,https://arxiv.org/abs/2406.04520
 2024-06-10,Why Has Predicting Downstream Capabilities of Frontier AI Models with Scale Remained Elusive?,https://arxiv.org/abs/2406.04391
 2024-06-10,Boosting Large-scale Parallel Training Efficiency with C4: A Communication-Driven Approach,https://arxiv.org/abs/2406.04594
+2024-06-11,Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation,https://arxiv.org/abs/2406.06525
+2024-06-11,Vript: A Video Is Worth Thousands of Words,https://arxiv.org/abs/2406.06040
+2024-06-11,"Husky: A Unified, Open-Source Language Agent for Multi-Step Reasoning",https://arxiv.org/abs/2406.06469
+2024-06-11,MLCM: Multistep Consistency Distillation of Latent Diffusion Model,https://arxiv.org/abs/2406.05768
+2024-06-11,ShiftAddLLM: Accelerating Pretrained LLMs via Post-Training Multiplication-Less Reparameterization,https://arxiv.org/abs/2406.05981
+2024-06-11,Margin-aware Preference Optimization for Aligning Diffusion Models without Reference,https://arxiv.org/abs/2406.06424
+2024-06-11,Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis,https://arxiv.org/abs/2406.06216
+2024-06-11,Tx-LLM: A Large Language Model for Therapeutics,https://arxiv.org/abs/2406.06316
+2024-06-11,IllumiNeRF: 3D Relighting without Inverse Rendering,https://arxiv.org/abs/2406.06527
+2024-06-11,Towards a Personal Health Large Language Model,https://arxiv.org/abs/2406.06474
+2024-06-11,Unified Text-to-Image Generation and Retrieval,https://arxiv.org/abs/2406.05814
+2024-06-11,VALL-E 2: Neural Codec Language Models are Human Parity Zero-Shot Text to Speech Synthesizers,https://arxiv.org/abs/2406.05370
+2024-06-11,GTR: Improving Large 3D Reconstruction Models through Geometry and Texture Refinement,https://arxiv.org/abs/2406.05649
+2024-06-11,ExtraNeRF: Visibility-Aware View Extrapolation of Neural Radiance Fields with Diffusion Models,https://arxiv.org/abs/2406.06133
