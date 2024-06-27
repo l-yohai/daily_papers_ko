@@ -2,10 +2,11 @@ import argparse
 import os
 
 import openai
+import json
 
-from request import get_abstract_and_authors, get_papers, make_summary
+from request import get_abstract_and_authors, get_papers, make_summary, get_paper_full_content
 from slackbot import make_template_for_slackbot, send
-from utils import get_today, update_paper_list
+from utils import get_today, update_paper_list, get_html_experimental_link
 
 
 def main(args):
@@ -35,19 +36,20 @@ def main(args):
         summaries = [f"## Daily Papers ({get_today()})\n\n"]
         to_slack_summaries = []
         for paper_title, thumbnail, authors, paper_url, vote, abstract in target_papers:
-            summary = make_summary(
-                paper_title=paper_title,
-                paper_url=f"https://arxiv.org/abs/{paper_url.split('/papers/')[-1]}",
-                abstract=abstract,
-                client=client,
-            )
-            summary = "\n".join(
-                [line for line in summary.split("\n") if line.startswith("-")]
-            )
-            if thumbnail.split(".")[-1] == "mp4":
-                summary = f"### [{paper_title}](https://arxiv.org/abs/{paper_url.split('/papers/')[-1]})\n\n[Watch Video]({thumbnail})\n<div><video controls src=\"{thumbnail}\" muted=\"false\"></video></div>\n\nVote: {vote}\n\nAuthors: {', '.join(authors)}\n\n{summary}"
+            paper_url = f"https://arxiv.org/abs/{paper_url.split('/papers/')[-1]}"
+            html_experimental_link = get_html_experimental_link(paper_url)
+
+            if html_experimental_link == "Link not found":
+                summary = json.loads(make_summary(abstract, client))
             else:
-                summary = f"### [{paper_title}](https://arxiv.org/abs/{paper_url.split('/papers/')[-1]})\n\n![]({thumbnail})\n\nVote: {vote}\n\nAuthors: {', '.join(authors)}\n\n{summary}"
+                full_content = get_paper_full_content(html_experimental_link)
+                summary = json.loads(make_summary(full_content, client))
+
+            summary = "\n".join([f"- **{k}**: {v}" for k, v in summary.items()])
+            if thumbnail.split(".")[-1] == "mp4":
+                summary = f"### [{paper_title}]({paper_url})\n\n[Watch Video]({thumbnail})\n<div><video controls src=\"{thumbnail}\" muted=\"false\"></video></div>\n\nVote: {vote}\n\nAuthors: {', '.join(authors)}\n\n{summary}"
+            else:
+                summary = f"### [{paper_title}]({paper_url})\n\n![]({thumbnail})\n\nVote: {vote}\n\nAuthors: {', '.join(authors)}\n\n{summary}"
             summaries.append(summary + "\n\n")
             to_slack_summary = make_template_for_slackbot(summary)
             to_slack_summaries.append(to_slack_summary[0])

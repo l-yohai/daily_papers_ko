@@ -4,8 +4,10 @@ import time
 import openai
 import requests
 from bs4 import BeautifulSoup
+import tiktoken
 
 from utils import get_today
+from prompts import SYSTEM_PROMPT_SUMMARIZATION
 
 HUGGINGFACE_URL = "https://huggingface.co"
 PAPERS_URI = "/papers"
@@ -17,7 +19,7 @@ def retry_with_exponential_backoff(
     initial_delay: float = 1,
     exponential_base: float = 2,
     jitter: bool = True,
-    max_retries: int = 3,
+    max_retries: int = 2,
     errors: tuple = (openai.RateLimitError,),
 ):
     """Retry a function with exponential backoff."""
@@ -56,24 +58,84 @@ def retry_with_exponential_backoff(
     return wrapper
 
 
+def get_paper_full_content(paper_url):
+    for trial in range(3):
+        try:
+            paper_page = requests.get(paper_url)
+            if paper_page.status_code == 200:
+                break
+        except requests.exceptions.ConnectionError as e:
+            print(e)
+            time.sleep(trial * 30 + 15)
+    paper_soup = BeautifulSoup(paper_page.text, "html.parser")
+
+    sections = paper_soup.find_all("section")
+    section_dict = {}
+
+    for section in sections:
+        section_id = section.get("id")
+        if section_id:
+            # <h2> 태그 내에서 제목 찾기
+            title_tag = section.find("h2")
+            if title_tag:
+                # <span> 태그 내용 제거
+                if title_tag.find("span"):
+                    title_tag.span.decompose()
+                section_title = title_tag.text.strip()
+            else:
+                section_title = "No title found"
+
+            # 섹션의 전체 텍스트 내용을 추출 (제목 제외)
+            section_content = "\n".join(
+                [para.text.strip() for para in section.find_all("p")]
+            )
+
+            # 사전에 섹션 ID, 제목, 내용 저장
+            section_dict[section_id] = {
+                "title": section_title,
+                "content": section_content,
+            }
+
+    return section_dict
+
+
+def truncate_text(text):
+    encoding = tiktoken.encoding_for_model("gpt-4o")
+    return encoding.decode(
+        encoding.encode(
+            text,
+            allowed_special={"<|endoftext|>"},
+        )[:2048]
+    )
+
+
 @retry_with_exponential_backoff
-def make_summary(paper_title, paper_url, abstract, client):
-    prompt = f"""Please provide a Korean summary of the abstract for the paper titled '{paper_title}', paper_url is {paper_url}. The abstract is: '{abstract}'. Your summary should distill the key points and main ideas of the abstract, presenting them in a clear and concise manner. Format the summary under the heading '## {paper_title}', followed by a single bullet point. Ensure that the summary is comprehensive yet succinct, capturing the essence of the paper's abstract in a way that is accessible and informative.
+def make_summary(full_content, client):
+    summarization_input = ""
+    if type(full_content) is not str:
+        for _, section in full_content.items():
+            if section["title"] == "No title found":
+                continue
+            if section["content"] == "":
+                continue
 
-The format should be as follows:
+            summarization_input += (
+                f"Section: {section['title']}\n{section['content']}\n\n"
+            )
 
-## {paper_title}
-
-- summary sentence 1
-- summary sentence 2
-...
-
-Each sentence in the summary should begin with '-'. The summary should accurately reflect the content and significance of the paper's abstract, providing a clear understanding of its main focus and contributions."""
+    summarization_input = truncate_text(summarization_input)
 
     response = client.chat.completions.create(
-        model="gpt-4o", messages=[{"role": "system", "content": prompt}]
+        model="gpt-4o", 
+        messages=[
+            {"role": "system", "content": SYSTEM_PROMPT_SUMMARIZATION},
+            {"role": "user", "content": f"""{summarization_input}"""},
+        ],
+        response_format={
+            "type": "json_object",
+        },
     )
-    return response.choices[0].message.content
+    return response.choices[0].message.content.strip()
 
 
 def get_url():
@@ -94,20 +156,17 @@ def get_papers():
     soup = BeautifulSoup(response.text, "html.parser")
 
     daily_papers = []
-    for el in soup.select(
-        "body > div > main > div > section > "
-        "div.relative.grid.grid-cols-1.gap-14.lg\:grid-cols-2 > div > article"
-    ):
-        title = el.find("h3").text.strip()
-        url = el.find("a")["href"]
 
-        vote = el.find("div", class_="leading-none").text.strip()
-
+    papers = soup.find_all("article", class_="relative flex flex-col overflow-hidden rounded-xl border")
+    for paper in papers:
+        title = paper.find("h3").text.strip()
+        url = paper.find("a")["href"]
+        vote = paper.find_all("div", class_="leading-none")[-1].text.strip()
         if not url.startswith("/papers/"):  # video thumbnail
-            url = el.find("h3").find("a")["href"]
-            thumbnail = el.find("video")["src"]
+            url = paper.find("h3").find("a")["href"]
+            thumbnail = paper.find("video")["src"]
         else:
-            thumbnail = el.select("img")[0]["src"]
+            thumbnail = paper.select("img")[0]["src"]
 
         daily_papers.append(
             {

@@ -3,6 +3,9 @@ from datetime import datetime
 import pandas as pd
 import pytz
 
+import requests
+from bs4 import BeautifulSoup
+
 
 def get_today():
     # 오늘 날짜를 YYYY-MM-DD 형식으로 반환
@@ -32,3 +35,14 @@ def update_paper_list(paper_title, paper_url, filename="paper_logs/papers_list.c
         print(f"'{paper_title}' already exists in {filename}")
 
     return not exists_paper
+
+def get_html_experimental_link(paper_url):
+    response = requests.get(paper_url)
+    soup = BeautifulSoup(response.text, "html.parser")
+
+    # 'HTML (experimental)' 링크 찾기
+    html_link = soup.find("a", string="HTML (experimental)")
+    if html_link:
+        return html_link["href"]  # 링크 추출
+    else:
+        return "Link not found"

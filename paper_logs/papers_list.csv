@@ -1433,3 +1433,245 @@ date,title,url
 2024-06-11,VALL-E 2: Neural Codec Language Models are Human Parity Zero-Shot Text to Speech Synthesizers,https://arxiv.org/abs/2406.05370
 2024-06-11,GTR: Improving Large 3D Reconstruction Models through Geometry and Texture Refinement,https://arxiv.org/abs/2406.05649
 2024-06-11,ExtraNeRF: Visibility-Aware View Extrapolation of Neural Radiance Fields with Diffusion Models,https://arxiv.org/abs/2406.06133
+2024-06-12,An Image is Worth 32 Tokens for Reconstruction and Generation,https://arxiv.org/abs/2406.07550
+2024-06-12,The Prompt Report: A Systematic Survey of Prompting Techniques,https://arxiv.org/abs/2406.06608
+2024-06-12,McEval: Massively Multilingual Code Evaluation,https://arxiv.org/abs/2406.07436
+2024-06-12,Zero-shot Image Editing with Reference Imitation,https://arxiv.org/abs/2406.07547
+2024-06-12,"TextGrad: Automatic ""Differentiation"" via Text",https://arxiv.org/abs/2406.07496
+2024-06-12,Skywork-MoE: A Deep Dive into Training Techniques for Mixture-of-Experts Language Models,https://arxiv.org/abs/2406.06563
+2024-06-12,Improve Mathematical Reasoning in Language Models by Automated Process Supervision,https://arxiv.org/abs/2406.06592
+2024-06-12,Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B,https://arxiv.org/abs/2406.07394
+2024-06-12,SEE-2-SOUND: Zero-Shot Spatial Environment-to-Spatial Sound,https://arxiv.org/abs/2406.06612
+2024-06-12,AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising,https://arxiv.org/abs/2406.06911
+2024-06-12,4Real: Towards Photorealistic 4D Scene Generation via Video Diffusion Models,https://arxiv.org/abs/2406.07472
+2024-06-12,MedFuzz: Exploring the Robustness of Large Language Models in Medical Question Answering,https://arxiv.org/abs/2406.06573
+2024-06-12,Simple and Effective Masked Diffusion Language Models,https://arxiv.org/abs/2406.07524
+2024-06-12,"Separating the ""Chirp"" from the ""Chat"": Self-supervised Visual Grounding of Sound and Language",https://arxiv.org/abs/2406.05629
+2024-06-12,Merging Improves Self-Critique Against Jailbreak Attacks,https://arxiv.org/abs/2406.07188
+2024-06-12,Neural Gaffer: Relighting Any Object via Diffusion,https://arxiv.org/abs/2406.07520
+2024-06-13,NaRCan: Natural Refined Canonical Image with Integration of Diffusion Prior for Video Editing,https://arxiv.org/abs/2406.06523
+2024-06-13,Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing,https://arxiv.org/abs/2406.08464
+2024-06-13,MotionClone: Training-Free Motion Cloning for Controllable Video Generation,https://arxiv.org/abs/2406.05338
+2024-06-13,What If We Recaption Billions of Web Images with LLaMA-3?,https://arxiv.org/abs/2406.08478
+2024-06-13,Are We Done with MMLU?,https://arxiv.org/abs/2406.04127
+2024-06-13,PowerInfer-2: Fast Large Language Model Inference on a Smartphone,https://arxiv.org/abs/2406.06282
+2024-06-13,Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion,https://arxiv.org/abs/2406.04338
+2024-06-13,VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs,https://arxiv.org/abs/2406.07476
+2024-06-13,3D-GRAND: A Million-Scale Dataset for 3D-LLMs with Better Grounding and Less Hallucination,https://arxiv.org/abs/2406.05132
+2024-06-13,MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation in Videos,https://arxiv.org/abs/2406.08407
+2024-06-13,Turbo Sparse: Achieving LLM SOTA Performance with Minimal Activated Parameters,https://arxiv.org/abs/2406.05955
+2024-06-13,FontStudio: Shape-Adaptive Diffusion Model for Coherent and Consistent Font Effect Generation,https://arxiv.org/abs/2406.08392
+2024-06-13,Hierarchical Patch Diffusion Models for High-Resolution Video Generation,https://arxiv.org/abs/2406.07792
+2024-06-13,AV-DiT: Efficient Audio-Visual Diffusion Transformer for Joint Audio and Video Generation,https://arxiv.org/abs/2406.07686
+2024-06-13,Discovering Preference Optimization Algorithms with and for Large Language Models,https://arxiv.org/abs/2406.08414
+2024-06-13,VCR: Visual Caption Restoration,https://arxiv.org/abs/2406.06462
+2024-06-13,Beyond LLaVA-HD: Diving into High-Resolution Large Multimodal Models,https://arxiv.org/abs/2406.08487
+2024-06-13,Chimera: Effectively Modeling Multivariate Time Series with 2-Dimensional State Space Models,https://arxiv.org/abs/2406.04320
+2024-06-13,Large Language Model Unlearning via Embedding-Corrupted Prompts,https://arxiv.org/abs/2406.07933
+2024-06-13,Hibou: A Family of Foundational Vision Transformers for Pathology,https://arxiv.org/abs/2406.05074
+2024-06-13,Simplified and Generalized Masked Diffusion for Discrete Data,https://arxiv.org/abs/2406.04329
+2024-06-14,Depth Anything V2,https://arxiv.org/abs/2406.09414
+2024-06-14,An Image is Worth More Than 16x16 Patches: Exploring Transformers on Individual Pixels,https://arxiv.org/abs/2406.09415
+2024-06-14,Transformers meet Neural Algorithmic Reasoners,https://arxiv.org/abs/2406.09308
+2024-06-14,Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling,https://arxiv.org/abs/2406.07522
+2024-06-14,Alleviating Distortion in Image Generation via Multi-Resolution Diffusion Models,https://arxiv.org/abs/2406.09416
+2024-06-14,OpenVLA: An Open-Source Vision-Language-Action Model,https://arxiv.org/abs/2406.09246
+2024-06-14,Test of Time: A Benchmark for Evaluating LLMs on Temporal Reasoning,https://arxiv.org/abs/2406.09170
+2024-06-14,DiTFastAttn: Attention Compression for Diffusion Transformer Models,https://arxiv.org/abs/2406.08552
+2024-06-14,Interpreting the Weight Space of Customized Diffusion Models,https://arxiv.org/abs/2406.09413
+2024-06-14,MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding,https://arxiv.org/abs/2406.09411
+2024-06-14,Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models,https://arxiv.org/abs/2406.09403
+2024-06-14,mOSCAR: A Large-scale Multilingual and Multimodal Document-level Corpus,https://arxiv.org/abs/2406.08707
+2024-06-14,CS-Bench: A Comprehensive Benchmark for Large Language Models towards Computer Science Mastery,https://arxiv.org/abs/2406.08587
+2024-06-14,HelpSteer2: Open-source dataset for training top-performing reward models,https://arxiv.org/abs/2406.08673
+2024-06-14,EMMA: Your Text-to-Image Diffusion Model Can Secretly Accept Multi-Modal Prompts,https://arxiv.org/abs/2406.09162
+2024-06-14,4M-21: An Any-to-Any Vision Model for Tens of Tasks and Modalities,https://arxiv.org/abs/2406.09406
+2024-06-14,Explore the Limits of Omni-modal Pretraining at Scale,https://arxiv.org/abs/2406.09412
+2024-06-14,Cognitively Inspired Energy-Based World Models,https://arxiv.org/abs/2406.08862
+2024-06-14,Mistral-C2F: Coarse to Fine Actor for Analytical and Reasoning Enhancement in RLHF and Effective-Merged LLMs,https://arxiv.org/abs/2406.08657
+2024-06-14,Commonsense-T2I Challenge: Can Text-to-Image Generation Models Understand Commonsense?,https://arxiv.org/abs/2406.07546
+2024-06-14,TC-Bench: Benchmarking Temporal Compositionality in Text-to-Video and Image-to-Video Generation,https://arxiv.org/abs/2406.08656
+2024-06-14,Real3D: Scaling Up Large Reconstruction Models with Real-World Images,https://arxiv.org/abs/2406.08479
+2024-06-14,CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark,https://arxiv.org/abs/2406.05967
+2024-06-14,Language Model Council: Benchmarking Foundation Models on Highly Subjective Tasks by Consensus,https://arxiv.org/abs/2406.08598
+2024-06-14,Understanding Hallucinations in Diffusion Models through Mode Interpolation,https://arxiv.org/abs/2406.09358
+2024-06-14,CMC-Bench: Towards a New Paradigm of Visual Signal Compression,https://arxiv.org/abs/2406.09356
+2024-06-14,MLKV: Multi-Layer Key-Value Heads for Memory Efficient Transformer Decoding,https://arxiv.org/abs/2406.09297
+2024-06-14,Estimating the Hallucination Rate of Generative AI,https://arxiv.org/abs/2406.07457
+2024-06-14,Toffee: Efficient Million-Scale Dataset Construction for Subject-Driven Text-to-Image Generation,https://arxiv.org/abs/2406.09305
+2024-06-14,LRM-Zero: Training Large Reconstruction Models with Synthesized Data,https://arxiv.org/abs/2406.09371
+2024-06-17,XLand-100B: A Large-Scale Multi-Task Dataset for In-Context Reinforcement Learning,https://arxiv.org/abs/2406.08973
+2024-06-17,Make It Count: Text-to-Image Generation with an Accurate Number of Objects,https://arxiv.org/abs/2406.10210
+2024-06-17,ChartMimic: Evaluating LMM's Cross-Modal Reasoning Capability via Chart-to-Code Generation,https://arxiv.org/abs/2406.09961
+2024-06-17,Needle In A Multimodal Haystack,https://arxiv.org/abs/2406.07230
+2024-06-17,BABILong: Testing the Limits of LLMs with Long Context Reasoning-in-a-Haystack,https://arxiv.org/abs/2406.10149
+2024-06-17,OmniCorpus: A Unified Multimodal Corpus of 10 Billion-Level Images Interleaved with Text,https://arxiv.org/abs/2406.08418
+2024-06-17,SEACrowd: A Multilingual Multimodal Data Hub and Benchmark Suite for Southeast Asian Languages,https://arxiv.org/abs/2406.10118
+2024-06-17,GUI Odyssey: A Comprehensive Dataset for Cross-App GUI Navigation on Mobile Devices,https://arxiv.org/abs/2406.08451
+2024-06-17,Glyph-ByT5-v2: A Strong Aesthetic Baseline for Accurate Multilingual Visual Text Rendering,https://arxiv.org/abs/2406.10208
+2024-06-17,GEB-1.3B: Open Lightweight Large Language Model,https://arxiv.org/abs/2406.09900
+2024-06-17,Training-free Camera Control for Video Generation,https://arxiv.org/abs/2406.10126
+2024-06-17,Designing a Dashboard for Transparency and Control of Conversational AI,https://arxiv.org/abs/2406.07882
+2024-06-17,"Be like a Goldfish, Don't Memorize! Mitigating Memorization in Generative LLMs",https://arxiv.org/abs/2406.10209
+2024-06-17,VideoGUI: A Benchmark for GUI Automation from Instructional Videos,https://arxiv.org/abs/2406.10227
+2024-06-17,"Rethinking Human Evaluation Protocol for Text-to-Video Models: Enhancing Reliability,Reproducibility, and Practicality",https://arxiv.org/abs/2406.08845
+2024-06-17,RVT-2: Learning Precise Manipulation from Few Demonstrations,https://arxiv.org/abs/2406.08545
+2024-06-17,Vivid-ZOO: Multi-View Video Generation with Diffusion Model,https://arxiv.org/abs/2406.08659
+2024-06-17,AV-GS: Learning Material and Geometry Aware Priors for Novel View Acoustic Synthesis,https://arxiv.org/abs/2406.08920
+2024-06-17,GaussianSR: 3D Gaussian Super-Resolution with 2D Diffusion Priors,https://arxiv.org/abs/2406.10111
+2024-06-17,MaskLID: Code-Switching Language Identification through Iterative Masking,https://arxiv.org/abs/2406.06263
+2024-06-17,Decoding the Diversity: A Review of the Indic AI Research Landscape,https://arxiv.org/abs/2406.09559
+2024-06-18,MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark and Instruction-Tuning Dataset for LVLMs,https://arxiv.org/abs/2406.11833
+2024-06-18,DataComp-LM: In search of the next generation of training sets for language models,https://arxiv.org/abs/2406.11794
+2024-06-18,mDPO: Conditional Preference Optimization for Multimodal Large Language Models,https://arxiv.org/abs/2406.11839
+2024-06-18,THEANINE: Revisiting Memory Management in Long-term Conversations with Timeline-augmented Response Generation,https://arxiv.org/abs/2406.10996
+2024-06-18,How Do Large Language Models Acquire Factual Knowledge During Pretraining?,https://arxiv.org/abs/2406.11813
+2024-06-18,MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers,https://arxiv.org/abs/2406.10163
+2024-06-18,A Simple and Effective $L_2$ Norm-Based Strategy for KV Cache Compression,https://arxiv.org/abs/2406.11430
+2024-06-18,VideoLLM-online: Online Video Large Language Model for Streaming Video,https://arxiv.org/abs/2406.11816
+2024-06-18,Exploring the Role of Large Language Models in Prompt Encoding for Diffusion Models,https://arxiv.org/abs/2406.11831
+2024-06-18,GAMA: A Large Audio-Language Model with Advanced Audio Understanding and Complex Reasoning Abilities,https://arxiv.org/abs/2406.11768
+2024-06-18,LLaNA: Large Language and NeRF Assistant,https://arxiv.org/abs/2406.11840
+2024-06-18,From Pixels to Prose: A Large Dataset of Dense Image Captions,https://arxiv.org/abs/2406.10328
+2024-06-18,In-Context Editing: Learning Knowledge from Self-Induced Distributions,https://arxiv.org/abs/2406.11194
+2024-06-18,WPO: Enhancing RLHF with Weighted Preference Optimization,https://arxiv.org/abs/2406.11827
+2024-06-18,Pandora: Towards General World Model with Natural Language Actions and Video States,https://arxiv.org/abs/2406.09455
+2024-06-18,WildVision: Evaluating Vision-Language Models in the Wild with Human Preferences,https://arxiv.org/abs/2406.11069
+2024-06-18,L4GM: Large 4D Gaussian Reconstruction Model,https://arxiv.org/abs/2406.10324
+2024-06-18,MINT-1T: Scaling Open-Source Multimodal Data by 10x: A Multimodal Dataset with One Trillion Tokens,https://arxiv.org/abs/2406.11271
+2024-06-18,Vid3D: Synthesis of Dynamic 3D Scenes using 2D Video Diffusion,https://arxiv.org/abs/2406.11196
+2024-06-18,Humor in AI: Massive Scale Crowd-Sourced Preferences and Benchmarks for Cartoon Captioning,https://arxiv.org/abs/2406.10522
+2024-06-18,Task Me Anything,https://arxiv.org/abs/2406.11775
+2024-06-18,Unifying Multimodal Retrieval via Document Screenshot Embedding,https://arxiv.org/abs/2406.11251
+2024-06-18,Just How Flexible are Neural Networks in Practice?,https://arxiv.org/abs/2406.11463
+2024-06-18,"Evaluating Open Language Models Across Task Types, Application Domains, and Reasoning Types: An In-Depth Experimental Analysis",https://arxiv.org/abs/2406.11402
+2024-06-18,HiddenTables & PyQTax: A Cooperative Game and Dataset For TableQA to Ensure Scale and Data Privacy Across a Myriad of Taxonomies,https://arxiv.org/abs/2406.10803
+2024-06-18,CoLoR-Filter: Conditional Loss Reduction Filtering for Targeted Language Model Pre-training,https://arxiv.org/abs/2406.10670
+2024-06-18,Breaking the Attention Bottleneck,https://arxiv.org/abs/2406.10906
+2024-06-18,Consistency^2: Consistent and Fast 3D Painting with Latent Consistency Models,https://arxiv.org/abs/2406.11202
+2024-06-18,Deep Bayesian Active Learning for Preference Modeling in Large Language Models,https://arxiv.org/abs/2406.10023
+2024-06-19,DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence,https://arxiv.org/abs/2406.11931
+2024-06-19,Depth Anywhere: Enhancing 360 Monocular Depth Estimation via Perspective Distillation and Unlabeled Data Augmentation,https://arxiv.org/abs/2406.12849
+2024-06-19,Bootstrapping Language Models with DPO Implicit Rewards,https://arxiv.org/abs/2406.09760
+2024-06-19,TroL: Traversal of Layers for Large Language and Vision Models,https://arxiv.org/abs/2406.12246
+2024-06-19,VoCo-LLaMA: Towards Vision Compression with Large Language Models,https://arxiv.org/abs/2406.12275
+2024-06-19,ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools,https://arxiv.org/abs/2406.12793
+2024-06-19,AgileCoder: Dynamic Collaborative Agents for Software Development based on Agile Methodology,https://arxiv.org/abs/2406.11912
+2024-06-19,From RAGs to rich parameters: Probing how language models utilize external knowledge over parametric information for factual queries,https://arxiv.org/abs/2406.12824
+2024-06-19,Safety Arithmetic: A Framework for Test-time Safety Alignment of Language Models by Steering Parameters and Activations,https://arxiv.org/abs/2406.11801
+2024-06-19,OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI,https://arxiv.org/abs/2406.12753
+2024-06-19,RepLiQA: A Question-Answering Dataset for Benchmarking LLMs on Unseen Reference Content,https://arxiv.org/abs/2406.11811
+2024-06-19,SafeInfer: Context Adaptive Decoding Time Safety Alignment for Large Language Models,https://arxiv.org/abs/2406.12274
+2024-06-19,Tokenization Falling Short: The Curse of Tokenization,https://arxiv.org/abs/2406.11687
+2024-06-19,"Benchmarking Multi-Image Understanding in Vision and Language Models: Perception, Knowledge, Reasoning, and Multi-Hop Reasoning",https://arxiv.org/abs/2406.12742
+2024-06-19,HumanSplat: Generalizable Single-Image Human Gaussian Splatting with Structure Priors,https://arxiv.org/abs/2406.12459
+2024-06-19,Learn Beyond The Answer: Training Language Models with Reflection for Mathematical Reasoning,https://arxiv.org/abs/2406.12050
+2024-06-19,Not All Prompts Are Made Equal: Prompt-based Pruning of Text-to-Image Diffusion Models,https://arxiv.org/abs/2406.12042
+2024-06-19,Mixture of Scales: Memory-Efficient Token-Adaptive Binarization for Large Language Models,https://arxiv.org/abs/2406.12311
+2024-06-19,BPO: Supercharging Online Preference Learning by Adhering to the Proximity of Behavior LLM,https://arxiv.org/abs/2406.12168
+2024-06-19,Language Models are Surprisingly Fragile to Drug Names in Biomedical Benchmarks,https://arxiv.org/abs/2406.12066
+2024-06-19,Estimating Knowledge in Large Language Models Without Generating a Single Token,https://arxiv.org/abs/2406.12673
+2024-06-19,Large Scale Transfer Learning for Tabular Data via Language Modeling,https://arxiv.org/abs/2406.12031
+2024-06-19,From Crowdsourced Data to High-Quality Benchmarks: Arena-Hard and BenchBuilder Pipeline,https://arxiv.org/abs/2406.11939
+2024-06-19,Super(ficial)-alignment: Strong Models May Deceive Weak Models in Weak-to-Strong Generalization,https://arxiv.org/abs/2406.11431
+2024-06-19,Immiscible Diffusion: Accelerating Diffusion Training with Noise Assignment,https://arxiv.org/abs/2406.12303
+2024-06-19,Adversarial Attacks on Multimodal Agents,https://arxiv.org/abs/2406.12814
+2024-06-19,VIA: A Spatiotemporal Video Adaptation Framework for Global and Local Video Editing,https://arxiv.org/abs/2406.12831
+2024-06-19,Hierarchical Prompting Taxonomy: A Universal Evaluation Framework for Large Language Models,https://arxiv.org/abs/2406.12644
+2024-06-19,JEN-1 DreamStyler: Customized Musical Concept Learning via Pivotal Parameters Tuning,https://arxiv.org/abs/2406.12292
+2024-06-19,Mixture-of-Subspaces in Low-Rank Adaptation,https://arxiv.org/abs/2406.11909
+2024-06-20,Multimodal Needle in a Haystack: Benchmarking Long-Context Capability of Multimodal Large Language Models,https://arxiv.org/abs/2406.11230
+2024-06-20,Long Code Arena: a Set of Benchmarks for Long-Context Code Models,https://arxiv.org/abs/2406.11612
+2024-06-20,Probabilistic Conceptual Explainers: Trustworthy Conceptual Explanations for Vision Foundation Models,https://arxiv.org/abs/2406.12649
+2024-06-20,Breaking Boundaries: Investigating the Effects of Model Editing on Cross-linguistic Performance,https://arxiv.org/abs/2406.11139
+2024-06-20,Self-MoE: Towards Compositional Large Language Models with Self-Specialized Experts,https://arxiv.org/abs/2406.12034
+2024-06-20,Interface Design for Self-Supervised Speech Models,https://arxiv.org/abs/2406.12209
+2024-06-20,Measuring memorization in RLHF for code completion,https://arxiv.org/abs/2406.11715
+2024-06-20,Intrinsic Evaluation of Unlearning Using Parametric Knowledge Traces,https://arxiv.org/abs/2406.11614
+2024-06-21,$\nabla^2$DFT: A Universal Quantum Chemistry Dataset of Drug-Like Molecules and a Benchmark for Neural Network Potentials,https://arxiv.org/abs/2406.14347
+2024-06-21,Instruction Pre-Training: Language Models are Supervised Multitask Learners,https://arxiv.org/abs/2406.14491
+2024-06-21,The Devil is in the Details: StyleFeatureEditor for Detail-Rich StyleGAN Inversion and High Quality Image Editing,https://arxiv.org/abs/2406.10601
+2024-06-21,"HARE: HumAn pRiors, a key to small language model Efficiency",https://arxiv.org/abs/2406.11410
+2024-06-21,Prism: A Framework for Decoupling and Assessing the Capabilities of VLMs,https://arxiv.org/abs/2406.14544
+2024-06-21,MMBench-Video: A Long-Form Multi-Shot Benchmark for Holistic Video Understanding,https://arxiv.org/abs/2406.14515
+2024-06-21,Model Merging and Safety Alignment: One Bad Model Spoils the Bunch,https://arxiv.org/abs/2406.14563
+2024-06-21,Whiteboard-of-Thought: Thinking Step-by-Step Across Modalities,https://arxiv.org/abs/2406.14562
+2024-06-21,Invertible Consistency Distillation for Text-Guided Image Editing in Around 7 Steps,https://arxiv.org/abs/2406.14539
+2024-06-21,PIN: A Knowledge-Intensive Dataset for Paired and Interleaved Multimodal Documents,https://arxiv.org/abs/2406.13923
+2024-06-21,GLiNER multi-task: Generalist Lightweight Model for Various Information Extraction Tasks,https://arxiv.org/abs/2406.12925
+2024-06-21,DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning,https://arxiv.org/abs/2406.11896
+2024-06-21,Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models,https://arxiv.org/abs/2406.13542
+2024-06-21,Improving Visual Commonsense in Language Models via Multiple Image Generation,https://arxiv.org/abs/2406.13621
+2024-06-21,LiveMind: Low-latency Large Language Models with Simultaneous Inference,https://arxiv.org/abs/2406.14319
+2024-06-21,Iterative Length-Regularized Direct Preference Optimization: A Case Study on Improving 7B Language Models to GPT-4 Level,https://arxiv.org/abs/2406.11817
+2024-06-21,ExVideo: Extending Video Diffusion Models via Parameter-Efficient Post-Tuning,https://arxiv.org/abs/2406.14130
+2024-06-21,Model Internals-based Answer Attribution for Trustworthy Retrieval-Augmented Generation,https://arxiv.org/abs/2406.13663
+2024-06-21,REPOEXEC: Evaluate Code Generation with a Repository-Level Executable Benchmark,https://arxiv.org/abs/2406.11927
+2024-06-21,StableSemantics: A Synthetic Language-Vision Dataset of Semantic Representations in Naturalistic Images,https://arxiv.org/abs/2406.13735
+2024-06-21,Sampling 3D Gaussian Scenes in Seconds with Latent Diffusion Models,https://arxiv.org/abs/2406.13099
+2024-06-21,A Systematic Survey of Text Summarization: From Statistical Methods to Large Language Models,https://arxiv.org/abs/2406.11289
+2024-06-21,From Insights to Actions: The Impact of Interpretability and Analysis Research on NLP,https://arxiv.org/abs/2406.12618
+2024-06-21,$τ$-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains,https://arxiv.org/abs/2406.12045
+2024-06-24,LongRAG: Enhancing Retrieval-Augmented Generation with Long-context LLMs,https://arxiv.org/abs/2406.15319
+2024-06-24,Judging the Judges: Evaluating Alignment and Vulnerabilities in LLMs-as-Judges,https://arxiv.org/abs/2406.12624
+2024-06-24,Complexity of Symbolic Representation in Working Memory of Transformer Correlates with the Complexity of a Task,https://arxiv.org/abs/2406.14213
+2024-06-24,Towards Retrieval Augmented Generation over Large Video Libraries,https://arxiv.org/abs/2406.14938
+2024-06-24,Stylebreeder: Exploring and Democratizing Artistic Styles through Text-to-Image Models,https://arxiv.org/abs/2406.14599
+2024-06-24,Evaluating RAG-Fusion with RAGElo: an Automated Elo-based Framework,https://arxiv.org/abs/2406.14783
+2024-06-24,EvTexture: Event-driven Texture Enhancement for Video Super-Resolution,https://arxiv.org/abs/2406.13457
+2024-06-24,MantisScore: Building Automatic Metrics to Simulate Fine-grained Human Feedback for Video Generation,https://arxiv.org/abs/2406.15252
+2024-06-24,Reward Steering with Evolutionary Heuristics for Decoding-time Alignment,https://arxiv.org/abs/2406.15193
+2024-06-24,Jailbreaking as a Reward Misspecification Problem,https://arxiv.org/abs/2406.14393
+2024-06-24,Cognitive Map for Language Models: Optimal Planning via Verbally Representing the World Model,https://arxiv.org/abs/2406.15275
+2024-06-24,Two Giraffes in a Dirt Field: Using Game Play to Investigate Situation Modelling in Large Multimodal Models,https://arxiv.org/abs/2406.14035
+2024-06-24,Data Contamination Can Cross Language Barriers,https://arxiv.org/abs/2406.13236
+2024-06-24,DELLA-Merging: Reducing Interference in Model Merging through Magnitude-Based Sampling,https://arxiv.org/abs/2406.11617
+2024-06-24,Ruby Teaming: Improving Quality Diversity Search with Memory for Automated Red Teaming,https://arxiv.org/abs/2406.11654
+2024-06-24,A Tale of Trust and Accuracy: Base vs. Instruct LLMs in RAG Systems,https://arxiv.org/abs/2406.14972
+2024-06-24,Learning Molecular Representation in a Cell,https://arxiv.org/abs/2406.12056
+2024-06-24,4K4DGen: Panoramic 4D Generation at 4K Resolution,https://arxiv.org/abs/2406.13527
+2024-06-24,Style-NeRF2NeRF: 3D Style Transfer From Style-Aligned Multi-View Images,https://arxiv.org/abs/2406.13393
+2024-06-24,NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking,https://arxiv.org/abs/2406.15349
+2024-06-24,ICAL: Continual Learning of Multimodal Agents by Transforming Trajectories into Actionable Insights,https://arxiv.org/abs/2406.14596
+2024-06-24,RE-AdaptIR: Improving Information Retrieval through Reverse Engineered Adaptation,https://arxiv.org/abs/2406.14764
+2024-06-24,Multimodal Structured Generation: CVPR's 2nd MMFM Challenge Technical Report,https://arxiv.org/abs/2406.11403
+2024-06-24,Low-Resource Machine Translation through the Lens of Personalized Federated Learning,https://arxiv.org/abs/2406.12564
+2024-06-24,ToVo: Toxicity Taxonomy via Voting,https://arxiv.org/abs/2406.14835
+2024-06-24,How Well Do LLMs Represent Values Across Cultures? Empirical Analysis of LLM Responses Based on Hofstede Cultural Dimensions,https://arxiv.org/abs/2406.14805
+2024-06-25,DreamBench++: A Human-Aligned Benchmark for Personalized Image Generation,https://arxiv.org/abs/2406.16855
+2024-06-25,"Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs",https://arxiv.org/abs/2406.16860
+2024-06-25,BigCodeBench: Benchmarking Code Generation with Diverse Function Calls and Complex Instructions,https://arxiv.org/abs/2406.15877
+2024-06-25,Evaluating D-MERIT of Partial-annotation on Information Retrieval,https://arxiv.org/abs/2406.16048
+2024-06-25,Long Context Transfer from Language to Vision,https://arxiv.org/abs/2406.16852
+2024-06-25,Video-Infinity: Distributed Long Video Generation,https://arxiv.org/abs/2406.16260
+2024-06-25,VideoHallucer: Evaluating Intrinsic and Extrinsic Hallucinations in Large Video-Language Models,https://arxiv.org/abs/2406.16338
+2024-06-25,Scaling Laws for Linear Complexity Language Models,https://arxiv.org/abs/2406.16690
+2024-06-25,Efficient Continual Pre-training by Mitigating the Stability Gap,https://arxiv.org/abs/2406.14833
+2024-06-25,WARP: On the Benefits of Weight Averaged Rewarded Policies,https://arxiv.org/abs/2406.16768
+2024-06-25,Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters,https://arxiv.org/abs/2406.16758
+2024-06-25,Sparser is Faster and Less is More: Efficient Sparse Attention for Long-Range Transformers,https://arxiv.org/abs/2406.16747
+2024-06-25,Beyond the Turn-Based Game: Enabling Real-Time Conversations with Duplex Models,https://arxiv.org/abs/2406.15718
+2024-06-25,Semantic Entropy Probes: Robust and Cheap Hallucination Detection in LLMs,https://arxiv.org/abs/2406.15927
+2024-06-25,Preference Tuning For Toxicity Mitigation Generalizes Across Languages,https://arxiv.org/abs/2406.16235
+2024-06-25,AutoDetect: Towards a Unified Framework for Automated Weakness Detection in Large Language Models,https://arxiv.org/abs/2406.16714
+2024-06-25,Confidence Regulation Neurons in Language Models,https://arxiv.org/abs/2406.16254
+2024-06-25,How Many Parameters Does it Take to Change a Light Bulb? Evaluating Performance in Self-Play of Conversational Games as a Function of Model Characteristics,https://arxiv.org/abs/2406.14051
+2024-06-25,ClotheDreamer: Text-Guided Garment Generation with 3D Gaussians,https://arxiv.org/abs/2406.16815
+2024-06-25,IRASim: Learning Interactive Real-Robot Action Simulators,https://arxiv.org/abs/2406.14540
+2024-06-25,Found in the Middle: Calibrating Positional Attention Bias Improves Long Context Utilization,https://arxiv.org/abs/2406.16008
+2024-06-25,Can Few-shot Work in Long-Context? Recycling the Context to Generate Demonstrations,https://arxiv.org/abs/2406.13632
+2024-06-25,video-SALMONN: Speech-Enhanced Audio-Visual Large Language Models,https://arxiv.org/abs/2406.15704
+2024-06-25,Repulsive Score Distillation for Diverse Sampling of Diffusion Models,https://arxiv.org/abs/2406.16683
+2024-06-25,OlympicArena Medal Ranks: Who Is the Most Intelligent AI So Far?,https://arxiv.org/abs/2406.16772
+2024-06-27,Adam-mini: Use Fewer Learning Rates To Gain More,https://arxiv.org/abs/2406.16793
+2024-06-27,CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs,https://arxiv.org/abs/2406.18521
+2024-06-27,Octo-planner: On-device Language Model for Planner-Action Agents,https://arxiv.org/abs/2406.18082
+2024-06-27,EHRCon: Dataset for Checking Consistency between Unstructured Notes and Structured Tables in Electronic Health Records,https://arxiv.org/abs/2406.16341
+2024-06-27,Math-LLaVA: Bootstrapping Mathematical Reasoning for Multimodal Large Language Models,https://arxiv.org/abs/2406.17294
+2024-06-27,MatchTime: Towards Automatic Soccer Game Commentary Generation,https://arxiv.org/abs/2406.18530
+2024-06-27,A Closer Look into Mixture-of-Experts in Large Language Models,https://arxiv.org/abs/2406.18219
+2024-06-27,"WildGuard: Open One-Stop Moderation Tools for Safety Risks, Jailbreaks, and Refusals of LLMs",https://arxiv.org/abs/2406.18495
+2024-06-27,Understanding and Diagnosing Deep Reinforcement Learning,https://arxiv.org/abs/2406.16979
+2024-06-27,MemServe: Context Caching for Disaggregated LLM Serving with Elastic Memory Pool,https://arxiv.org/abs/2406.17565
+2024-06-27,Symbolic Learning Enables Self-Evolving Agents,https://arxiv.org/abs/2406.18532
+2024-06-27,ChronoMagic-Bench: A Benchmark for Metamorphic Evaluation of Text-to-Time-lapse Video Generation,https://arxiv.org/abs/2406.18522
