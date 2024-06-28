@@ -5,3 +5,4 @@ pandas
 pre-commit
 requests
 slack-sdk
+tiktoken
