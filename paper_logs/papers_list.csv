@@ -1703,3 +1703,29 @@ date,title,url
 2024-07-01,Arboretum: A Large Multimodal Dataset Enabling AI for Biodiversity,https://arxiv.org/abs/2406.17720
 2024-07-01,Efficient World Models with Context-Aware Tokenization,https://arxiv.org/abs/2406.19320
 2024-07-01,RaTEScore: A Metric for Radiology Report Generation,https://arxiv.org/abs/2406.16845
+2024-07-02,We-Math: Does Your Large Multimodal Model Achieve Human-like Mathematical Reasoning?,https://arxiv.org/abs/2407.01284
+2024-07-02,ROS-LLM: A ROS framework for embodied AI with task feedback and structured reasoning,https://arxiv.org/abs/2406.19741
+2024-07-02,MMEvalPro: Calibrating Multimodal Benchmarks Towards Trustworthy and Efficient Evaluation,https://arxiv.org/abs/2407.00468
+2024-07-02,LiteSearch: Efficacious Tree Search for LLM,https://arxiv.org/abs/2407.00320
+2024-07-02,RegMix: Data Mixture as Regression for Language Model Pre-training,https://arxiv.org/abs/2407.01492
+2024-07-02,Step-Controlled DPO: Leveraging Stepwise Error for Enhanced Mathematical Reasoning,https://arxiv.org/abs/2407.00782
+2024-07-02,ColPali: Efficient Document Retrieval with Vision Language Models,https://arxiv.org/abs/2407.01449
+2024-07-02,DiffIR2VR-Zero: Zero-Shot Video Restoration with Diffusion-based Image Restoration Models,https://arxiv.org/abs/2407.01519
+2024-07-02,Is It Really Long Context if All You Need Is Retrieval? Towards Genuinely Difficult Long Context NLP,https://arxiv.org/abs/2407.00402
+2024-07-02,MIRAI: Evaluating LLM Agents for Event Forecasting,https://arxiv.org/abs/2407.01231
+2024-07-02,E2 TTS: Embarrassingly Easy Fully Non-Autoregressive Zero-Shot TTS,https://arxiv.org/abs/2406.18009
+2024-07-02,InstantStyle-Plus: Style Transfer with Content-Preserving in Text-to-Image Generation,https://arxiv.org/abs/2407.00788
+2024-07-02,Wavelets Are All You Need for Autoregressive Image Generation,https://arxiv.org/abs/2406.19997
+2024-07-02,RealTalk: Real-time and Realistic Audio-driven Face Generation with 3D Facial Prior-guided Identity Alignment Network,https://arxiv.org/abs/2406.18284
+2024-07-02,OmniJARVIS: Unified Vision-Language-Action Tokenization Enables Open-World Instruction Following Agents,https://arxiv.org/abs/2407.00114
+2024-07-02,Chain-of-Knowledge: Integrating Knowledge Reasoning into Large Language Models by Learning from Knowledge Graphs,https://arxiv.org/abs/2407.00653
+2024-07-02,UnUnlearning: Unlearning is not sufficient for content regulation in advanced generative AI,https://arxiv.org/abs/2407.00106
+2024-07-02,T-MAC: CPU Renaissance via Table Lookup for Low-Bit LLM Deployment on Edge,https://arxiv.org/abs/2407.00088
+2024-07-02,Towards Robust Speech Representation Learning for Thousands of Languages,https://arxiv.org/abs/2407.00837
+2024-07-02,SVG: 3D Stereoscopic Video Generation via Denoising Frame Matrix,https://arxiv.org/abs/2407.00367
+2024-07-02,Token Erasure as a Footprint of Implicit Vocabulary Items in LLMs,https://arxiv.org/abs/2406.20086
+2024-07-02,Accurate Prediction of Ligand-Protein Interaction Affinities with Fine-Tuned Small Language Models,https://arxiv.org/abs/2407.00111
+2024-07-02,Auto Cherry-Picker: Learning from High-quality Generative Data Driven by Language,https://arxiv.org/abs/2406.20085
+2024-07-02,"Show Less, Instruct More: Enriching Prompts with Definitions and Guidelines for Zero-Shot NER",https://arxiv.org/abs/2407.01272
+2024-07-02,DogeRM: Equipping Reward Models with Domain Knowledge through Model Merging,https://arxiv.org/abs/2407.01470
+2024-07-02,ProgressGym: Alignment with a Millennium of Moral Progress,https://arxiv.org/abs/2406.20087
