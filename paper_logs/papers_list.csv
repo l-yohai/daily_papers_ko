@@ -1798,3 +1798,15 @@ date,title,url
 2024-07-10,BM25S: Orders of magnitude faster lexical search via eager sparse scoring,https://arxiv.org/abs/2407.03618
 2024-07-10,Graph-Based Captioning: Enhancing Visual Descriptions by Interconnecting Region Captions,https://arxiv.org/abs/2407.06723
 2024-07-10,How do you know that? Teaching Generative Language Models to Reference Answers to Biomedical Questions,https://arxiv.org/abs/2407.05015
+2024-07-11,PaliGemma: A versatile 3B VLM for transfer,https://arxiv.org/abs/2407.07726
+2024-07-11,"LLaVA-NeXT-Interleave: Tackling Multi-image, Video, and 3D in Large Multimodal Models",https://arxiv.org/abs/2407.07895
+2024-07-11,Controlling Space and Time with Diffusion Models,https://arxiv.org/abs/2407.07860
+2024-07-11,Video-to-Audio Generation with Hidden Alignment,https://arxiv.org/abs/2407.07464
+2024-07-11,VEnhancer: Generative Space-Time Enhancement for Video Generation,https://arxiv.org/abs/2407.07667
+2024-07-11,Inference Performance Optimization for Large Language Models on CPUs,https://arxiv.org/abs/2407.07304
+2024-07-11,On Leakage of Code Generation Evaluation Datasets,https://arxiv.org/abs/2407.07565
+2024-07-11,CosmoCLIP: Generalizing Large Vision-Language Models for Astronomical Imaging,https://arxiv.org/abs/2407.07315
+2024-07-11,This&That: Language-Gesture Controlled Video Generation for Robot Planning,https://arxiv.org/abs/2407.05530
+2024-07-11,An accurate detection is not all you need to combat label noise in web-noisy datasets,https://arxiv.org/abs/2407.05528
+2024-07-11,Do Vision and Language Models Share Concepts? A Vector Space Alignment Study,https://arxiv.org/abs/2302.06555
+2024-07-11,BiGym: A Demo-Driven Mobile Bi-Manual Manipulation Benchmark,https://arxiv.org/abs/2407.07788
