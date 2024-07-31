@@ -126,7 +126,7 @@ def make_summary(full_content, client):
     summarization_input = truncate_text(summarization_input)
 
     response = client.chat.completions.create(
-        model="gpt-4o-mini", 
+        model="gpt-4o", 
         messages=[
             {"role": "system", "content": SYSTEM_PROMPT_SUMMARIZATION},
             {"role": "user", "content": f"""{summarization_input}"""},
