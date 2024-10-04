@@ -2533,3 +2533,30 @@ date,title,url
 2024-10-02,DressRecon: Freeform 4D Human Reconstruction from Monocular Video,https://arxiv.org/abs/2409.20563
 2024-10-02,What the Harm? Quantifying the Tangible Impact of Gender Bias in Machine Translation with a Human-centered Study,https://arxiv.org/abs/2410.00545
 2024-10-02,Embodied-RAG: General non-parametric Embodied Memory for Retrieval and Generation,https://arxiv.org/abs/2409.18313
+2024-10-04,Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models,https://arxiv.org/abs/2410.02740
+2024-10-04,Video Instruction Tuning With Synthetic Data,https://arxiv.org/abs/2410.02713
+2024-10-04,Loong: Generating Minute-level Long Videos with Autoregressive Language Models,https://arxiv.org/abs/2410.02757
+2024-10-04,LLaVA-Critic: Learning to Evaluate Multimodal Models,https://arxiv.org/abs/2410.02712
+2024-10-04,Contrastive Localized Language-Image Pre-Training,https://arxiv.org/abs/2410.02746
+2024-10-04,Depth Pro: Sharp Monocular Metric Depth in Less Than a Second,https://arxiv.org/abs/2410.02073
+2024-10-04,VinePPO: Unlocking RL Potential For LLM Reasoning Through Refined Credit Assignment,https://arxiv.org/abs/2410.01679
+2024-10-04,Large Language Models as Markov Chains,https://arxiv.org/abs/2410.02724
+2024-10-04,Distilling an End-to-End Voice Assistant Without Instruction Training Data,https://arxiv.org/abs/2410.02678
+2024-10-04,Eliminating Oversaturation and Artifacts of High Guidance Scales in Diffusion Models,https://arxiv.org/abs/2410.02416
+2024-10-04,CLIP-MoE: Towards Building Mixture of Experts for CLIP with Diversified Multiplet Upcycling,https://arxiv.org/abs/2409.19291
+2024-10-04,Training Language Models on Synthetic Edit Sequences Improves Code Synthesis,https://arxiv.org/abs/2410.02749
+2024-10-04,SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration,https://arxiv.org/abs/2410.02367
+2024-10-04,MVGS: Multi-view-regulated Gaussian Splatting for Novel View Synthesis,https://arxiv.org/abs/2410.02103
+2024-10-04,L-CiteEval: Do Long-Context Models Truly Leverage Context for Responding?,https://arxiv.org/abs/2410.02115
+2024-10-04,Vinoground: Scrutinizing LMMs over Dense Temporal Reasoning with Short Videos,https://arxiv.org/abs/2410.02763
+2024-10-04,MedVisionLlama: Leveraging Pre-Trained Large Language Model Layers to Enhance Medical Image Segmentation,https://arxiv.org/abs/2410.02458
+2024-10-04,Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations,https://arxiv.org/abs/2410.02762
+2024-10-04,Improving Autonomous AI Agents with Reflective Tree Search and Self-Learning,https://arxiv.org/abs/2410.02052
+2024-10-04,Intelligence at the Edge of Chaos,https://arxiv.org/abs/2410.02536
+2024-10-04,Learning the Latent Rules of a Game from Data: A Chess Story,https://arxiv.org/abs/2410.02426
+2024-10-04,Synthio: Augmenting Small-Scale Audio Classification Datasets with Synthetic Data,https://arxiv.org/abs/2410.02056
+2024-10-04,Contextual Document Embeddings,https://arxiv.org/abs/2410.02525
+2024-10-04,Layer Swapping for Zero-Shot Cross-Lingual Transfer in Large Language Models,https://arxiv.org/abs/2410.01335
+2024-10-04,SciPrompt: Knowledge-augmented Prompting for Fine-grained Categorization of Scientific Topics,https://arxiv.org/abs/2410.01946
+2024-10-04,Robin3D: Improving 3D Large Language Model via Robust Instruction Tuning,https://arxiv.org/abs/2410.00255
+2024-10-04,Open-RAG: Enhanced Retrieval-Augmented Reasoning with Open-Source Large Language Models,https://arxiv.org/abs/2410.01782
