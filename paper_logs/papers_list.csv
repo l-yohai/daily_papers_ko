@@ -2576,3 +2576,26 @@ date,title,url
 2024-10-07,"AuroraCap: Efficient, Performant Video Detailed Captioning and a New Benchmark",https://arxiv.org/abs/2410.03051
 2024-10-07,CodeMMLU: A Multi-Task Benchmark for Assessing Code Understanding Capabilities of CodeLLMs,https://arxiv.org/abs/2410.01999
 2024-10-07,GenSim2: Scaling Robot Data Generation with Multi-modal and Reasoning LLMs,https://arxiv.org/abs/2410.03645
+2024-10-08,Differential Transformer,https://arxiv.org/abs/2410.05258
+2024-10-08,LLMs Know More Than They Show: On the Intrinsic Representation of LLM Hallucinations,https://arxiv.org/abs/2410.02707
+2024-10-08,VideoGuide: Improving Video Diffusion Models without Training Through a Teacher's Guide,https://arxiv.org/abs/2410.04364
+2024-10-08,FAN: Fourier Analysis Networks,https://arxiv.org/abs/2410.02675
+2024-10-08,Named Clinical Entity Recognition Benchmark,https://arxiv.org/abs/2410.05046
+2024-10-08,ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery,https://arxiv.org/abs/2410.05080
+2024-10-08,Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents,https://arxiv.org/abs/2410.05243
+2024-10-08,TLDR: Token-Level Detective Reward Model for Large Vision Language Models,https://arxiv.org/abs/2410.04734
+2024-10-08,Presto! Distilling Steps and Layers for Accelerating Music Generation,https://arxiv.org/abs/2410.05167
+2024-10-08,GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models,https://arxiv.org/abs/2410.05229
+2024-10-08,"UniMuMo: Unified Text, Music and Motion Generation",https://arxiv.org/abs/2410.04534
+2024-10-08,MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion,https://arxiv.org/abs/2410.03825
+2024-10-08,MathHay: An Automated Benchmark for Long-Context Mathematical Reasoning in LLMs,https://arxiv.org/abs/2410.04698
+2024-10-08,OmniBooth: Learning Latent Control for Image Synthesis with Multi-modal Instruction,https://arxiv.org/abs/2410.04932
+2024-10-08,LLaMA-Berry: Pairwise Optimization for O1-like Olympiad-Level Mathematical Reasoning,https://arxiv.org/abs/2410.02884
+2024-10-08,TurtleBench: Evaluating Top Language Models via Real-World Yes/No Puzzles,https://arxiv.org/abs/2410.05262
+2024-10-08,SELECT: A Large-Scale Benchmark of Data Curation Strategies for Image Classification,https://arxiv.org/abs/2410.05057
+2024-10-08,Autonomous Character-Scene Interaction Synthesis from Text Instruction,https://arxiv.org/abs/2410.03187
+2024-10-08,What Matters for Model Merging at Scale?,https://arxiv.org/abs/2410.03617
+2024-10-08,SePPO: Semi-Policy Preference Optimization for Diffusion Alignment,https://arxiv.org/abs/2410.05255
+2024-10-08,Grounding Language in Multi-Perspective Referential Communication,https://arxiv.org/abs/2410.03959
+2024-10-08,Redefining Temporal Modeling in Video Diffusion: The Vectorized Timestep Approach,https://arxiv.org/abs/2410.03160
+2024-10-08,SwiftKV: Fast Prefill-Optimized Inference with Knowledge-Preserving Model Transformation,https://arxiv.org/abs/2410.03960
