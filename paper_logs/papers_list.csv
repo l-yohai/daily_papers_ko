@@ -2611,3 +2611,51 @@ date,title,url
 2024-10-09,TidalDecode: Fast and Accurate LLM Decoding with Position Persistent Sparse Attention,https://arxiv.org/abs/2410.05076
 2024-10-09,EBES: Easy Benchmarking for Event Sequences,https://arxiv.org/abs/2410.03399
 2024-10-09,$ε$-VAE: Denoising as Visual Decoding,https://arxiv.org/abs/2410.04081
+2024-10-10,GLEE: A Unified Framework and Benchmark for Language-based Economic Environments,https://arxiv.org/abs/2410.05254
+2024-10-10,Personalized Visual Instruction Tuning,https://arxiv.org/abs/2410.07113
+2024-10-10,IterComp: Iterative Composition-Aware Feedback Learning from Model Gallery for Text-to-Image Generation,https://arxiv.org/abs/2410.07171
+2024-10-10,Aria: An Open Multimodal Native Mixture-of-Experts Model,https://arxiv.org/abs/2410.05993
+2024-10-10,Pixtral 12B,https://arxiv.org/abs/2410.07073
+2024-10-10,Towards World Simulator: Crafting Physical Commonsense-Based Benchmark for Video Generation,https://arxiv.org/abs/2410.05363
+2024-10-10,Deciphering Cross-Modal Alignment in Large Vision-Language Models with Modality Integration Rate,https://arxiv.org/abs/2410.07167
+2024-10-10,Pyramidal Flow Matching for Efficient Video Generative Modeling,https://arxiv.org/abs/2410.05954
+2024-10-10,Unveiling the Backbone-Optimizer Coupling Bias in Visual Representation Learning,https://arxiv.org/abs/2410.06373
+2024-10-10,Falcon Mamba: The First Competitive Attention-free 7B Language Model,https://arxiv.org/abs/2410.05355
+2024-10-10,MM-Ego: Towards Building Egocentric Multimodal LLMs,https://arxiv.org/abs/2410.07177
+2024-10-10,Story-Adapter: A Training-free Iterative Framework for Long Story Visualization,https://arxiv.org/abs/2410.06244
+2024-10-10,Self-Boosting Large Language Models with Synthetic Preference Data,https://arxiv.org/abs/2410.06961
+2024-10-10,One Initialization to Rule them All: Fine-tuning via Explained Variance Adaptation,https://arxiv.org/abs/2410.07170
+2024-10-10,TweedieMix: Improving Multi-Concept Fusion for Diffusion-based Image/Video Generation,https://arxiv.org/abs/2410.05591
+2024-10-10,Temporal Reasoning Transfer from Text to Video,https://arxiv.org/abs/2410.06166
+2024-10-10,CursorCore: Assist Programming through Aligning Anything,https://arxiv.org/abs/2410.07002
+2024-10-10,AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs,https://arxiv.org/abs/2410.05295
+2024-10-10,ViBiDSampler: Enhancing Video Interpolation Using Bidirectional Diffusion Sampler,https://arxiv.org/abs/2410.05651
+2024-10-10,Diversity-Rewarded CFG Distillation,https://arxiv.org/abs/2410.06084
+2024-10-10,F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching,https://arxiv.org/abs/2410.06885
+2024-10-10,"T2V-Turbo-v2: Enhancing Video Generation Model Post-Training through Data, Reward, and Conditional Guidance Design",https://arxiv.org/abs/2410.05677
+2024-10-10,TRACE: Temporal Grounding Video LLM via Causal Event Modeling,https://arxiv.org/abs/2410.05643
+2024-10-10,Data Selection via Optimal Control for Language Models,https://arxiv.org/abs/2410.07064
+2024-10-10,"LLM Self-Correction with DeCRIM: Decompose, Critique, and Refine for Enhanced Following of Instructions with Multiple Constraints",https://arxiv.org/abs/2410.06458
+2024-10-10,Response Tuning: Aligning Large Language Models without Instruction,https://arxiv.org/abs/2410.02465
+2024-10-10,Multimodal Large Language Models for Inverse Molecular Design with Retrosynthetic Planning,https://arxiv.org/abs/2410.04223
+2024-10-10,Mixed-Session Conversation with Egocentric Memory,https://arxiv.org/abs/2410.02503
+2024-10-10,ING-VP: MLLMs cannot Play Easy Vision-based Games Yet,https://arxiv.org/abs/2410.06555
+2024-10-10,FürElise: Capturing and Physically Synthesizing Hand Motions of Piano Performance,https://arxiv.org/abs/2410.05791
+2024-10-10,Multimodal Situational Safety,https://arxiv.org/abs/2410.06172
+2024-10-10,Holistic Unlearning Benchmark: A Multi-Faceted Evaluation for Text-to-Image Diffusion Model Unlearning,https://arxiv.org/abs/2410.05664
+2024-10-10,Collective Critics for Creative Story Generation,https://arxiv.org/abs/2410.02428
+2024-10-10,Retrieval-Augmented Decision Transformer: External Memory for In-context RL,https://arxiv.org/abs/2410.07071
+2024-10-10,BroadWay: Boost Your Text-to-Video Generation Model in a Training-free Way,https://arxiv.org/abs/2410.06241
+2024-10-10,Hallucinating AI Hijacking Attack: Large Language Models and Malicious Code Recommenders,https://arxiv.org/abs/2410.06462
+2024-10-10,Seeker: Enhancing Exception Handling in Code with LLM-based Multi-Agent Approach,https://arxiv.org/abs/2410.06949
+2024-10-10,Jointly Generating Multi-view Consistent PBR Textures using Collaborative Control,https://arxiv.org/abs/2410.06985
+2024-10-10,MentalArena: Self-play Training of Language Models for Diagnosis and Treatment of Mental Health Disorders,https://arxiv.org/abs/2410.06845
+2024-10-10,Do great minds think alike? Investigating Human-AI Complementarity in Question Answering with CAIMIRA,https://arxiv.org/abs/2410.06524
+2024-10-10,TinyEmo: Scaling down Emotional Reasoning via Metric Projection,https://arxiv.org/abs/2410.07062
+2024-10-10,TextToon: Real-Time Text Toonify Head Avatar from Single Video,https://arxiv.org/abs/2410.07160
+2024-10-10,MEXA: Multilingual Evaluation of English-Centric LLMs via Cross-Lingual Alignment,https://arxiv.org/abs/2410.05873
+2024-10-10,VHELM: A Holistic Evaluation of Vision Language Models,https://arxiv.org/abs/2410.07112
+2024-10-10,Does Spatial Cognition Emerge in Frontier Models?,https://arxiv.org/abs/2410.06468
+2024-10-10,MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering,https://arxiv.org/abs/2410.07095
+2024-10-10,VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks,https://arxiv.org/abs/2410.05160
+2024-10-10,Stuffed Mamba: State Collapse and State Capacity of RNN-Based Long-Context Modeling,https://arxiv.org/abs/2410.07145
