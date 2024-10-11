@@ -2659,3 +2659,28 @@ date,title,url
 2024-10-10,MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering,https://arxiv.org/abs/2410.07095
 2024-10-10,VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks,https://arxiv.org/abs/2410.05160
 2024-10-10,Stuffed Mamba: State Collapse and State Capacity of RNN-Based Long-Context Modeling,https://arxiv.org/abs/2410.07145
+2024-10-11,MathCoder2: Better Math Reasoning from Continued Pretraining on Model-translated Mathematical Code,https://arxiv.org/abs/2410.08196
+2024-10-11,PrefixQuant: Static Quantization Beats Dynamic through Prefixed Outliers in LLMs,https://arxiv.org/abs/2410.05265
+2024-10-11,MLLM as Retriever: Interactively Learning Multimodal Retrieval for Embodied Agents,https://arxiv.org/abs/2410.03450
+2024-10-11,DICE: Discrete Inversion Enabling Controllable Editing for Multinomial Diffusion and Masked Generative Models,https://arxiv.org/abs/2410.08207
+2024-10-11,Benchmarking Agentic Workflow Generation,https://arxiv.org/abs/2410.07869
+2024-10-11,Agent S: An Open Agentic Framework that Uses Computers Like a Human,https://arxiv.org/abs/2410.08164
+2024-10-11,Rectified Diffusion: Straightness Is Not Your Need in Rectified Flow,https://arxiv.org/abs/2410.07303
+2024-10-11,SFTMix: Elevating Language Model Instruction Tuning with Mixup Recipe,https://arxiv.org/abs/2410.05248
+2024-10-11,Intriguing Properties of Large Language and Vision Models,https://arxiv.org/abs/2410.04751
+2024-10-11,Progressive Autoregressive Video Diffusion Models,https://arxiv.org/abs/2410.08151
+2024-10-11,Towards Self-Improvement of LLMs via MCTS: Leveraging Stepwise Knowledge with Curriculum Preference Learning,https://arxiv.org/abs/2410.06508
+2024-10-11,Emergent properties with repeated examples,https://arxiv.org/abs/2410.07041
+2024-10-11,Preserving Multi-Modal Capabilities of Pre-trained VLMs for Improving Vision-Linguistic Compositionality,https://arxiv.org/abs/2410.05210
+2024-10-11,GLOV: Guided Large Language Models as Implicit Optimizers for Vision Language Models,https://arxiv.org/abs/2410.06154
+2024-10-11,Cheating Automatic LLM Benchmarks: Null Models Achieve High Win Rates,https://arxiv.org/abs/2410.07137
+2024-10-11,Scaling Up Your Kernels: Large Kernel Design in ConvNets towards Universal Representations,https://arxiv.org/abs/2410.08049
+2024-10-11,Optima: Optimizing Effectiveness and Efficiency for LLM-Based Multi-Agent System,https://arxiv.org/abs/2410.08115
+2024-10-11,WALL-E: World Alignment by Rule Learning Improves World Model-based LLM Agents,https://arxiv.org/abs/2410.07484
+2024-10-11,DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation,https://arxiv.org/abs/2410.08159
+2024-10-11,Everything Everywhere All at Once: LLMs can In-Context Learn Multiple Tasks in Superposition,https://arxiv.org/abs/2410.05603
+2024-10-11,LPZero: Language Model Zero-cost Proxy Search from Zero,https://arxiv.org/abs/2410.04808
+2024-10-11,MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting,https://arxiv.org/abs/2410.07707
+2024-10-11,Data Advisor: Dynamic Data Curation for Safety Alignment of Large Language Models,https://arxiv.org/abs/2410.05269
+2024-10-11,Vector-ICL: In-context Learning with Continuous Vector Representations,https://arxiv.org/abs/2410.05629
+2024-10-11,Zebra: In-Context and Generative Pretraining for Solving Parametric PDEs,https://arxiv.org/abs/2410.03437
