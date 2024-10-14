@@ -2685,3 +2685,23 @@ date,title,url
 2024-10-11,Vector-ICL: In-context Learning with Continuous Vector Representations,https://arxiv.org/abs/2410.05629
 2024-10-11,Zebra: In-Context and Generative Pretraining for Solving Parametric PDEs,https://arxiv.org/abs/2410.03437
 2024-10-12,Accelerated Preference Optimization for Large Language Model Alignment,https://arxiv.org/abs/2410.06293
+2024-10-14,Baichuan-Omni Technical Report,https://arxiv.org/abs/2410.08565
+2024-10-14,Meissonic: Revitalizing Masked Generative Transformers for Efficient High-Resolution Text-to-Image Synthesis,https://arxiv.org/abs/2410.08261
+2024-10-14,From Generalist to Specialist: Adapting Vision Language Models via Task-Specific Visual Instruction Tuning,https://arxiv.org/abs/2410.06456
+2024-10-14,EvolveDirector: Approaching Advanced Text-to-Image Generation with Large Vision-Language Models,https://arxiv.org/abs/2410.07133
+2024-10-14,StructRAG: Boosting Knowledge Intensive Reasoning of LLMs via Inference-time Hybrid Information Structurization,https://arxiv.org/abs/2410.08815
+2024-10-14,"PositionID: LLMs can Control Lengths, Copy and Paste with Explicit Positional Awareness",https://arxiv.org/abs/2410.07035
+2024-10-14,SuperCorrect: Supervising and Correcting Language Models with Error-Driven Insights,https://arxiv.org/abs/2410.09008
+2024-10-14,Semantic Score Distillation Sampling for Compositional Text-to-3D Generation,https://arxiv.org/abs/2410.09009
+2024-10-14,Mechanistic Permutability: Match Features Across Layers,https://arxiv.org/abs/2410.07656
+2024-10-14,Multi-Agent Collaborative Data Selection for Efficient LLM Pretraining,https://arxiv.org/abs/2410.08102
+2024-10-14,KV Prediction for Improved Time to First Token,https://arxiv.org/abs/2410.08391
+2024-10-14,ZeroComp: Zero-shot Object Compositing from Image Intrinsics via Diffusion,https://arxiv.org/abs/2410.08168
+2024-10-14,DA-Code: Agent Data Science Code Generation Benchmark for Large Language Models,https://arxiv.org/abs/2410.07331
+2024-10-14,Think While You Generate: Discrete Diffusion with Planned Denoising,https://arxiv.org/abs/2410.06264
+2024-10-14,MiRAGeNews: Multimodal Realistic AI-Generated News Detection,https://arxiv.org/abs/2410.09045
+2024-10-14,Synth-SONAR: Sonar Image Synthesis with Enhanced Diversity and Realism via Dual Diffusion Models and GPT Prompting,https://arxiv.org/abs/2410.08612
+2024-10-14,SimpleStrat: Diversifying Language Model Generation with Stratification,https://arxiv.org/abs/2410.09038
+2024-10-14,I-Max: Maximize the Resolution Potential of Pre-trained Rectified Flow Transformers with Projected Flow,https://arxiv.org/abs/2410.07536
+2024-10-14,Mentor-KD: Making Small Language Models Better Multi-step Reasoners,https://arxiv.org/abs/2410.09037
+2024-10-14,GenARM: Reward Guided Generation with Autoregressive Reward Model for Test-time Alignment,https://arxiv.org/abs/2410.08193
