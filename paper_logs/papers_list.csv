@@ -2725,3 +2725,21 @@ date,title,url
 2024-10-15,MMCOMPOSITION: Revisiting the Compositionality of Pre-trained Vision-Language Models,https://arxiv.org/abs/2410.09733
 2024-10-15,Thinking LLMs: General Instruction Following with Thought Generation,https://arxiv.org/abs/2410.10630
 2024-10-15,ReLU's Revival: On the Entropic Overload in Normalization-Free Large Language Models,https://arxiv.org/abs/2410.09637
+2024-10-16,Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free,https://arxiv.org/abs/2410.10814
+2024-10-16,What Matters in Transformers? Not All Attention is Needed,https://arxiv.org/abs/2406.15786
+2024-10-16,MLLM can see? Dynamic Correction Decoding for Hallucination Mitigation,https://arxiv.org/abs/2410.11779
+2024-10-16,MTU-Bench: A Multi-granularity Tool-Use Benchmark for Large Language Models,https://arxiv.org/abs/2410.11710
+2024-10-16,LLM$\times$MapReduce: Simplified Long-Sequence Processing using Large Language Models,https://arxiv.org/abs/2410.09342
+2024-10-16,Efficiently Democratizing Medical LLMs for 50 Languages via a Mixture of Language Family Experts,https://arxiv.org/abs/2410.10626
+2024-10-16,LVD-2M: A Long-take Video Dataset with Temporally Dense Captions,https://arxiv.org/abs/2410.10816
+2024-10-16,SecCodePLT: A Unified Platform for Evaluating the Security of Code GenAI,https://arxiv.org/abs/2410.11096
+2024-10-16,EchoPrime: A Multi-Video View-Informed Vision-Language Model for Comprehensive Echocardiography Interpretation,https://arxiv.org/abs/2410.09704
+2024-10-16,Efficient Diffusion Models: A Comprehensive Survey from Principles to Practices,https://arxiv.org/abs/2410.11795
+2024-10-16,NesTools: A Dataset for Evaluating Nested Tool Learning Abilities of Large Language Models,https://arxiv.org/abs/2410.11805
+2024-10-16,GS^3: Efficient Relighting with Triple Gaussian Splatting,https://arxiv.org/abs/2410.11419
+2024-10-16,Agent-as-a-Judge: Evaluate Agents with Agents,https://arxiv.org/abs/2410.10934
+2024-10-16,SimBa: Simplicity Bias for Scaling Up Parameters in Deep Reinforcement Learning,https://arxiv.org/abs/2410.09754
+2024-10-16,"Towards Synergistic, Generalized, and Efficient Dual-System for Robotic Manipulation",https://arxiv.org/abs/2410.08001
+2024-10-16,Empirical Study of Mutual Reinforcement Effect and Application in Few-shot Text Classification Tasks via Prompt,https://arxiv.org/abs/2410.09745
+2024-10-16,Towards Natural Image Matting in the Wild via Real-Scenario Prior,https://arxiv.org/abs/2410.06593
+2024-10-16,MultiVENT 2.0: A Massive Multilingual Benchmark for Event-Centric Video Retrieval,https://arxiv.org/abs/2410.11619
