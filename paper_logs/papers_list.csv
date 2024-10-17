@@ -2743,3 +2743,24 @@ date,title,url
 2024-10-16,Empirical Study of Mutual Reinforcement Effect and Application in Few-shot Text Classification Tasks via Prompt,https://arxiv.org/abs/2410.09745
 2024-10-16,Towards Natural Image Matting in the Wild via Real-Scenario Prior,https://arxiv.org/abs/2410.06593
 2024-10-16,MultiVENT 2.0: A Massive Multilingual Benchmark for Event-Centric Video Retrieval,https://arxiv.org/abs/2410.11619
+2024-10-17,VidEgoThink: Assessing Egocentric Video Understanding Capabilities for Embodied AI,https://arxiv.org/abs/2410.11623
+2024-10-17,HumanEval-V: Evaluating Visual Understanding and Reasoning Abilities of Large Multimodal Models Through Coding Tasks,https://arxiv.org/abs/2410.12381
+2024-10-17,"The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio",https://arxiv.org/abs/2410.12787
+2024-10-17,Revealing the Barriers of Language Agents in Planning,https://arxiv.org/abs/2410.12409
+2024-10-17,Large Language Model Evaluation via Matrix Nuclear-Norm,https://arxiv.org/abs/2410.10672
+2024-10-17,Exploring Model Kinship for Merging Large Language Models,https://arxiv.org/abs/2410.12613
+2024-10-17,DocLayout-YOLO: Enhancing Document Layout Analysis through Diverse Synthetic Data and Global-to-Local Adaptive Perception,https://arxiv.org/abs/2410.12628
+2024-10-17,ProSA: Assessing and Understanding the Prompt Sensitivity of LLMs,https://arxiv.org/abs/2410.12405
+2024-10-17,Controllable Safety Alignment: Inference-Time Adaptation to Diverse Safety Requirements,https://arxiv.org/abs/2410.08968
+2024-10-17,Improving Long-Text Alignment for Text-to-Image Diffusion Models,https://arxiv.org/abs/2410.11817
+2024-10-17,DyVo: Dynamic Vocabularies for Learned Sparse Retrieval with Entities,https://arxiv.org/abs/2410.07722
+2024-10-17,ZipVL: Efficient Large Vision-Language Models with Dynamic Token Sparsification and KV Cache Compression,https://arxiv.org/abs/2410.08584
+2024-10-17,"Simplifying, Stabilizing and Scaling Continuous-Time Consistency Models",https://arxiv.org/abs/2410.11081
+2024-10-17,ChroKnowledge: Unveiling Chronological Knowledge of Language Models in Multiple Domains,https://arxiv.org/abs/2410.09870
+2024-10-17,Tracking Universal Features Through Fine-Tuning and Model Merging,https://arxiv.org/abs/2410.12391
+2024-10-17,Neural Metamorphosis,https://arxiv.org/abs/2410.11878
+2024-10-17,"WorldMedQA-V: a multilingual, multimodal medical examination dataset for multimodal language models evaluation",https://arxiv.org/abs/2410.12722
+2024-10-17,OMCAT: Omni Context Aware Transformer,https://arxiv.org/abs/2410.12109
+2024-10-17,Insights from the Inverse: Reconstructing LLM Training Goals Through Inverse RL,https://arxiv.org/abs/2410.12491
+2024-10-17,Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective,https://arxiv.org/abs/2410.12490
+2024-10-17,Taming Overconfidence in LLMs: Reward Calibration in RLHF,https://arxiv.org/abs/2410.09724
