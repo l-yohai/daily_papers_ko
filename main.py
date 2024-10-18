@@ -1,76 +1,95 @@
 import argparse
+import asyncio
+import json
 import os
 
 import openai
-import json
+from tqdm import tqdm
 
-from request import get_abstract_and_authors, get_papers, make_summary, get_paper_full_content
-from slackbot import make_template_for_slackbot, send
-from utils import get_today, update_paper_list, get_html_experimental_link
+from constant import MARKDOWN_END, MARKDOWN_START
+from request import get_paper_info_per_type, get_papers, make_summary_async
+from slackbot import send
+from utils import get_paper_list, get_today, make_markdown_template, make_slack_template
 
 
-def main(args):
-    # OpenAI API 키 설정
-    client = openai.OpenAI(api_key=args.api_key)
+async def process_paper_async(client, paper_info, paper_list):
+    title = get_paper_info_per_type(paper_info, "title")
+    paper_url = get_paper_info_per_type(paper_info, "paper_url")
 
-    target_papers = []
+    if title in paper_list["title"].values:
+        print(f"{title} is already in the list")
+        return None, None, None
+
+    abstract = get_paper_info_per_type(paper_info, "abstract")
+
+    response_summary = await make_summary_async(
+        client=client,
+        title=title,
+        paper_url=paper_url,
+        abstract=abstract,
+    )
+
+    try:
+        summary = json.loads(response_summary)
+    except Exception as e:
+        print(f"Error: {e}\n{response_summary}")
+        return None, None, None
+
+    summary = "\n".join([f"- **{k}**: {v}" for k, v in summary.items()])
+
+    markdown_summary = make_markdown_template(paper_info=paper_info, summary=summary)
+
+    slack_summary = make_slack_template(paper_info=paper_info, summary=summary)
+
+    return paper_info, markdown_summary, slack_summary
+
+
+async def main(args):
+    client = openai.AsyncOpenAI(api_key=args.api_key)
+
+    today = get_today()
+    markdown_summaries = [f"## Daily Papers ({get_today()})\n\n"]
+    slack_summaries = []
 
     daily_papers = get_papers()
 
-    for daily_paper in daily_papers:
-        paper_title = daily_paper["title"]
-        thumbnail = daily_paper["thumbnail"]
-        paper_url = daily_paper["url"]
-        vote = daily_paper["vote"]
-        is_updated = update_paper_list(paper_title=paper_title, paper_url=paper_url)
-        if is_updated:
-            abstract, authors = get_abstract_and_authors(paper_url=paper_url)
-            if abstract is not None and authors is not None:
-                target_papers.append(
-                    (paper_title, thumbnail, authors, paper_url, vote, abstract)
-                )
+    paper_list = get_paper_list()
 
-    # 업데이트된 논문이 있을 경우
-    if len(target_papers) > 0:
-        # OpenAI API로 요약문 생성
-        summaries = [f"## Daily Papers ({get_today()})\n\n"]
-        to_slack_summaries = []
-        for paper_title, thumbnail, authors, paper_url, vote, abstract in target_papers:
-            paper_url = f"https://arxiv.org/abs/{paper_url.split('/papers/')[-1]}"
-            html_experimental_link = get_html_experimental_link(paper_url)
+    new_papers = []
 
-            if html_experimental_link == "Link not found":
-                summary = json.loads(make_summary(abstract, client))
-            else:
-                full_content = get_paper_full_content(html_experimental_link)
-                summary = json.loads(make_summary(full_content, client))
+    tasks = [
+        process_paper_async(client, paper_info, paper_list)
+        for paper_info in daily_papers
+    ]
 
-            summary = "\n".join([f"- **{k}**: {v}" for k, v in summary.items()])
-            if thumbnail.split(".")[-1] == "mp4":
-                summary = f"### [{paper_title}]({paper_url})\n\n[Watch Video]({thumbnail})\n<div><video controls src=\"{thumbnail}\" muted=\"false\"></video></div>\n\nVote: {vote}\n\nAuthors: {', '.join(authors)}\n\n{summary}"
-            else:
-                summary = f"### [{paper_title}]({paper_url})\n\n![]({thumbnail})\n\nVote: {vote}\n\nAuthors: {', '.join(authors)}\n\n{summary}"
-            summaries.append(summary + "\n\n")
-            to_slack_summary = make_template_for_slackbot(summary)
-            to_slack_summaries.append(to_slack_summary[0])
+    for task in tqdm(asyncio.as_completed(tasks), total=len(daily_papers)):
+        paper_info, markdown_summary, slack_summary = await task
+        if paper_info:
+            new_papers.append(paper_info)
+            markdown_summaries.append(markdown_summary)
+            slack_summaries.append(slack_summary)
 
-        yy, mm, dd = get_today().split("-")
-        os.makedirs(f"paper_logs/{yy}/{mm}", exist_ok=True)
+    for paper_info in new_papers:
+        paper_list.loc[len(paper_list)] = [
+            get_today(),
+            get_paper_info_per_type(paper_info, "title"),
+            get_paper_info_per_type(paper_info, "paper_url"),
+        ]
 
-        with open(f"paper_logs/{yy}/{mm}/{dd}.md", "w") as f:
-            f.writelines(summaries)
+    paper_list.to_csv("paper_logs/papers_list.csv", index=False, encoding="utf-8")
 
-        with open("readme_start", "r") as f:
-            start_content = f.read()
-        with open("readme_end", "r") as f:
-            end_content = f.read()
-        with open("README.md", "w") as f:
-            f.writelines(start_content + "\n\n")
-            f.writelines(summaries)
-            f.writelines("\n\n")
-            f.writelines(end_content)
+    yy, mm, dd = get_today().split("-")
+    os.makedirs(f"paper_logs/{yy}/{mm}", exist_ok=True)
 
-        send(args, to_slack_summaries)
+    with open(f"paper_logs/{yy}/{mm}/{dd}.md", "a") as f:
+        f.writelines(markdown_summaries)
+
+    with open("README.md", "w") as f:
+        f.writelines(MARKDOWN_START.format(today=today))
+        f.writelines(markdown_summaries)
+        f.writelines(MARKDOWN_END)
+
+    send(args, slack_summaries)
 
 
 if __name__ == "__main__":
@@ -90,4 +109,4 @@ if __name__ == "__main__":
     )
     args = parser.parse_args()
 
-    main(args)
+    asyncio.run(main(args))

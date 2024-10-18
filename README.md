@@ -2,264 +2,35 @@
 
 ## Project Description
 
-This project aims to automatically translate and summarize [Huggingface's daily papers](https://huggingface.co/papers) into Korean using ChatGPT.
+This project aims to automatically translate and summarize [Huggingface's daily papers](https://huggingface.co/papers) into Korean using GPT-4o.
 
 Thanks to [@AK391](https://github.com/AK391) for great work.
 
+## Daily Papers (2024-10-18)
 
-## Daily Papers (2024-10-17)
+### [Retrospective Learning from Interactions](https://arxiv.org/abs/2410.13852)
 
-### [VidEgoThink: Assessing Egocentric Video Understanding Capabilities for Embodied AI](https://arxiv.org/abs/2410.11623)
-
-![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2410.11623.png)
-
-Vote: 39
-
-Authors: Tingguang Li, Sijie Cheng, Kechen Fang, Ye Tian, Yang Liu, Sicheng Zhou, Yangyang Yu, Bohao Li, Lei Han
-
-- **What's New**: 최근 연구에서는 Multi-modal Large Language Models (MLLMs)이 Embodied Artificial Intelligence 분야에서 중요한 발전을 이루었다고 강조하고 있습니다. 이 연구에서는 VidEgoThink 라는 새로운 종합적인 egocentric 비디오 이해 벤치마크를 소개하고, MLLMs의 다양한 기능을 Embodied AI에 맞게 평가하는 것을 목표로 삼고 있습니다.
-- **Technical Details**: VidEgoThink는 four key functions로 나뉘어 MLLMs의 능력을 평가합니다. (1) 비디오 질문-응답을 통해 환경과 인간 활동을 이해하고, (2) 하이어라키 계획(hierarchy planning)을 통해 고수준 명령을 중수준의 하위 목표 및 저수준의 행동으로 분해, (3) 물리적 세계와의 시각적 연결을 위한 비주얼 그라운딩(visual grounding), 그리고 (4) 과업 완료를 통한 피드백을 제공하는 보상 모델링(reward modeling)입니다.
-- **Performance Highlights**: 실험 결과, 모든 MLLMs는 기존의 퍼스트-퍼슨 시나리오를 처리하는 데 있어 낮은 성능을 보였습니다. 대표적으로, GPT-4o는 비디오 질문-응답 작업에서 31.17%와 32.83%의 정확도를 기록하였고, 다른 opens-source MLLMs보다 성능 면에서 큰 격차를 보였습니다. 이는 특히 물체, 행동, 장면의 순서를 판단하는 능력이 결여되어 있음을 나타냅니다.
-
-### [HumanEval-V: Evaluating Visual Understanding and Reasoning Abilities of Large Multimodal Models Through Coding Tasks](https://arxiv.org/abs/2410.12381)
-
-![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2410.12381.png)
-
-Vote: 34
-
-Authors: Xiao Li, Guancheng Lin, Bei Chen, Fengji Zhang, Huiyu Bai, Linquan Wu, Xiao Yu, Jacky Keung, Yue Wang
-
-- **What's New**: 이 논문은 새로운 알고리즘이나 모델을 제안하여 인공지능 분야에서의 문제를 해결하고자 합니다. 현재 메소드의 한계를 극복하기 위해 특화된 접근 방식을 소개하고 있습니다.
-- **Technical Details**: 이 연구는 머신러닝(ML), 딥러닝(DL) 기법을 사용하여 데이터셋(data set)을 분석합니다. 새로운 네트워크 아키텍처(network architecture)나 알고리즘을 설계하여 성능을 최적화하고 있습니다.
-- **Performance Highlights**: 새로 제안된 모델은 벤치마크(benchmark) 테스트에서 기존 모델들보다 더 나은 성능을 보여주었으며, 특정 지표에 대해 몇 퍼센트의 개선을 이루었다고 보고하고 있습니다.
-
-### [The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio](https://arxiv.org/abs/2410.12787)
-
-![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2410.12787.png)
-
-Vote: 24
-
-Authors: Chunyan Miao, Lidong Bing, Deli Zhao, Zesen Cheng, Shijian Lu, Hang Zhang, Xin Li, Yang Zhou, Yun Xing, Sicong Leng
-
-- **What's New**: 이번 연구는 전통적인 모델에 비해 더 나은 성능을 보여주는 새로운 방법론을 제안합니다. 이 논문에서는 특히 self-supervised learning 기법을 사용하여 labeled data 없이도 정보를 효과적으로 추출하는 방법을 소개합니다.
-- **Technical Details**: 이 방법은 Transformer 기반의 구조를 활용하며, 특히 attention mechanism과 같은 고급 기법을 적용하여 데이터 내의 유의미한 패턴을 식별합니다. 실험적으로, 이 모델은 다양한 벤치마크 데이터셋에서 기존 방법들을 능가하는 성과를 보여주었습니다.
-- **Performance Highlights**: 제안된 모델은 특히 이미지 분류(image classification)와 자연어 처리(natural language processing) 태스크에서 우수한 성능을 기록하였으며, 이는 모델의 일반화 능력(generalization ability)을 강조합니다.
-
-### [Revealing the Barriers of Language Agents in Planning](https://arxiv.org/abs/2410.12409)
-
-![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2410.12409.png)
-
-Vote: 19
-
-Authors: Lei Li, Siyu Yuan, Jian Xie, Jiangjie Chen, Yikai Zhang, Yanghua Xiao, Kexun Zhang, Kai Zhang
-
-- **What's New**: 이번 연구에서는 이산 시간 합성 데이터에 대한 다변량 모델링을 수행하는 새로운 접근 방식을 제안합니다.
-- **Technical Details**: 연구자들은 다변량 타임 시리즈(multivariate time series)의 특징을 반영하기 위해 RNN(Recurrent Neural Networks)과 Transformer를 기반으로 한 새로운 아키텍처를 개발했습니다. 이 모델은 시계열의 지역적, 전역적 패턴을 모두 포착할 수 있도록 설계되었습니다.
-- **Performance Highlights**: 실험 결과, 제안된 모델은 기존의 모델들과 비교하여 정확도와 예측 안정성 면에서 우수한 성능을 보였습니다. 특히 시계열(sequence) 길이가 긴 데이터셋에서도 높은 효율을 기록했습니다.
-
-### [Large Language Model Evaluation via Matrix Nuclear-Norm](https://arxiv.org/abs/2410.10672)
-
-![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2410.10672.png)
-
-Vote: 17
-
-Authors: Tingyu Xia, Yi Chang, Yuan Wu, Yahan Li
-
-- **What's New**: 이번 연구에서는 대형 언어 모델(LLMs)의 정보 압축 능력을 평가하기 위해 새로운 평가지표인 Matrix Nuclear-Norm을 제안합니다. 이 평가는 기존의 Matrix Entropy 지표의 계산 복잡성을 줄이면서 효과적으로 예측의 변별성(discriminability)과 출력 다양성(output diversity)을 측정할 수 있습니다.
-- **Technical Details**: Matrix Nuclear-Norm은 Frobenius Norm의 상한이며, 행렬 랭크의 유체적인 근사로 제공됩니다. 또한 L₁,₂-norm을 활용하여 행렬 핵(norm)을 근사함으로써 다중 클래스 평가 시의 안정성을 보완합니다. 핵심적으로, 이 방법은 SVD에 대한 의존성을 줄이며, O(n²) 복잡성을 달성하여 대규모 모델에서도 빠른 평가가 가능합니다.
-- **Performance Highlights**: 실험 결과, Matrix Nuclear-Norm은 모델 크기가 증가함에 따라 압축 능력을 높게 평가했으며, 이는 AlpacaEval 및 Chatbot Arena와 같은 다양한 벤치마크 데이터셋에서의 인퍼런스 성능 평가에도 유효함을 확인하였습니다. 이로써, 중소규모 모델의 성능 평가에 있어 신뢰성과 효율성을 입증했습니다.
-
-### [Exploring Model Kinship for Merging Large Language Models](https://arxiv.org/abs/2410.12613)
-
-![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2410.12613.png)
-
-Vote: 17
-
-Authors: Huajun Chen, Shumin Deng, Ningyu Zhang, Yunzhi Yao, Yedi Hu
-
-- **What's New**: 이번 논문에서는 대규모 언어 모델(Large Language Models, LLMs) 통합 전략의 효과성을 높이기 위해 '모델 혈연(Model Kinship)'이라는 새로운 지표를 도입했습니다. 이는 생물학적 유전학에서의 혈연과 유사한 개념을 바탕으로 LLMs 간의 상호 관련성을 평가합니다. 모델 통합 과정에서 발생하는 최적화 문제를 해결하고, 더 나은 모델 통합을 위한 전략인 'Top-k Greedy Merging with Model Kinship'을 제안합니다.
-- **Technical Details**: 모델 혈연은 대형 언어 모델의 '유전적' 정보를 기반으로 두 모델 간의 유사성 정도를 측정하는 메트릭입니다. 특히, 각 모델의 가중치 차이의 유사성을 평가하는 방식으로 구현됩니다. 이는 여러 모델을 합병할 때, 태스크 벤치마크 결과와 같은 전통적인 지표보다 더 세밀한 비교를 제공합니다.
-- **Performance Highlights**: 모델 혈연을 활용한 통합 전략은, 기존 통합 방법에서 발생할 수 있는 성능 정체를 극복하고 높은 성능 개선을 가져왔습니다. 특히 통합 초기 단계에서 주요한 성능 향상을 보이며, 이후 성능 정체 구간에서는 향상폭이 감소하는 패턴을 보였습니다. 이러한 전략은 모델 통합 프로세스에서 최적화 함정을 피하고 효율성을 높이는 데 기여했습니다.
-
-### [DocLayout-YOLO: Enhancing Document Layout Analysis through Diverse Synthetic Data and Global-to-Local Adaptive Perception](https://arxiv.org/abs/2410.12628)
-
-![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2410.12628.png)
-
-Vote: 15
-
-Authors: Hengrui Kang, Bin Wang, Conghui He, Zhiyuan Zhao
-
-- **What's New**: 이 논문에서는 문서 레이아웃 분석(DLA)에서 빠르고 정확한 성능을 자랑하는 DocLayout-YOLO 레이아웃 검출 알고리즘을 소개합니다. 이 알고리즘은 멀티모달 및 단일모달 접근법의 강점을 결합하여 다양한 문서에서 여러 영역을 빠르고 정확하게 식별합니다. 이를 위해 DocSynth-300K라는 대규모 다양성 문서 레이아웃 데이터를 활용하고, Multi-scale 관리를 위한 GL-CRM(Global-to-Local Controllable Receptive Module)을 도입하였습니다.
-- **Technical Details**: DocLayout-YOLO는 YOLOv10을 기반으로 다양한 문서 데이터를 사전 훈련(pretraining)하여 시각적 레이아웃 분석을 최적화하였습니다. 또한, Mesh-candidate BestFit 알고리즘을 사용하여 다양한 문서 레이아웃을 생성하고, DocSynth-300K 데이터셋을 구축하였습니다. 이 데이터셋은 대규모, 다양한 기본 컴포넌트(텍스트, 이미지, 테이블)를 이용하여 자동으로 생성된 것입니다. GL-CRM은 다양한 규모의 요소를 효과적으로 검출하기 위해 설계되었습니다.
-- **Performance Highlights**: 제안된 DocLayout-YOLO 모델은 평가 데이터셋에서 70.3%, 79.7%, 78.8%의 최첨단 mAP 점수를 기록하였으며, 85.5 FPS의 실시간 레이아웃 분석을 가능케 합니다. 이로써 실제 응용 분야에서 요구되는 속도와 정확도를 모두 충족합니다.
-
-### [ProSA: Assessing and Understanding the Prompt Sensitivity of LLMs](https://arxiv.org/abs/2410.12405)
-
-![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2410.12405.png)
-
-Vote: 11
-
-Authors: Xinyu Fang, Dahua Lin, Jingming Zhuo, Songyang Zhang, Kai Chen, Haodong Duan
-
-- **What's New**: 이번 연구는 새로운 그래픽스 생성 메소드인 'Neural Ambient Occlusion Volume'을 제안합니다. 이 메소드는 기존 방법들보다 저렴한 비용으로 3D 장면의 부피 기반 non-photorealistic rendering을 개선하는 데 중점을 두고 있습니다.
-- **Technical Details**: 이 연구에서는 neural networks을 활용하여 ambient occlusion을 계산하는 방식을 도입하였습니다. 이 방법은 특히 복잡한 모델에서의 계산 비용을 낮추는 데 효율적이며, 볼륨 렌더링(volume rendering)을 통해 더 현실적인 장면 재현을 가능하게 합니다.
-- **Performance Highlights**: 제안된 메소드는 기존의 state-of-the-art 기술과 비교했을 때, 시간적 및 공간적 정확도 측면에서 매우 경쟁력을 가집니다. 실험 결과, 빠른 연산 속도와 향상된 디테일 표현이 확인되었습니다.
-
-### [Controllable Safety Alignment: Inference-Time Adaptation to Diverse Safety Requirements](https://arxiv.org/abs/2410.08968)
-
-![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2410.08968.png)
-
-Vote: 10
-
-Authors: Jingyu Zhang, Ahmed Magooda, Ahmed Elgohary, Benjamin Van Durme, Daniel Khashabi
-
-- **What's New**: 이 논문에서는 기존의 대규모 언어 모델(LLMs)의 안전성 정렬 방법을 재고하고, 다양한 안전 요구사항에 따라 모델을 조정할 수 있는 새로운 프레임워크인 'Controllable Safety Alignment (CoSA)'를 제안합니다. 이는 재훈련 없이 추론 시 모델 안전성을 효율적으로 조정할 수 있는 방법을 제공합니다.
-- **Technical Details**: CoSA는 자연어로 작성된 'safety configs'(안전 설정)을 시스템 프롬프트에 추가하여 모델이 안전성을 제어할 수 있도록 하는 방식으로 작동합니다. 사용자는 자신만의 안전 요구에 맞게 사용자 정의 인터페이스를 통해 모델을 사용할 수 있습니다. 이를 위해 사전 훈련된 모델이 다양한 안전 설정보다 학습되며, 사용자와 모델 공급자 사이의 설정 검토 프로세스가 이루어집니다.
-- **Performance Highlights**: CoSA 프레임워크는 기존의 강력한 기준선과 비교하여 훈련된 동안 본 안전 설정에 대한 제어 가능성을 크게 향상시키는 동시에, 보지 못한 안전 설정에 대해서도 일반화할 수 있음을 보여줍니다. 이를 평가하기 위해 CoSApien이라는 데이터셋과 CoSA-Score라는 평가 프로토콜을 도입하였으며, 이는 모델의 전반적인 제어 가능성을 나타냅니다.
-
-### [Improving Long-Text Alignment for Text-to-Image Diffusion Models](https://arxiv.org/abs/2410.11817)
-
-![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2410.11817.png)
-
-Vote: 10
-
-Authors: Luping Liu, Dong Xu, Chongxuan Li, Tianyu Pang, Zehan Wang, Chao Du
-
-- **What's New**: 이 논문에서는 최신 Natural Gradient (자연 기울기) 방법을 활용한 새로운 최적화 알고리즘을 제안합니다. 특히, 딥 러닝 모델의 효율적인 학습을 목표로 하고 있으며, 기존 방법들에 비해 수렴 속도가 더 빠르고 안정적입니다.
-- **Technical Details**: 제안하는 알고리즘은 Kronecker-factored Approximate Curvature (K-FAC) 매트릭스를 활용하여 뉴럴 네트워크의 파라미터 업데이트를 개선합니다. 이 알고리즘은 특히 고차원 공간에서의 급속한 수렴을 가능하게 하며, 이를 통해 더 큰 신경망에 효율적으로 적용할 수 있습니다.
-- **Performance Highlights**: 실험 결과, 제안된 방법은 여러 벤치마크 데이터셋에서 기존의 Stochastic Gradient Descent (SGD) 및 Adam과 같은 일반적인 최적화 알고리즘에 비해 더 빠르게 수렴하며, 더 높은 정확도를 달성하였습니다. 특히, 대규모 이미지 분류와 언어 모델 테스트에서 눈에 띄는 성능 향상을 보였습니다.
-
-### [DyVo: Dynamic Vocabularies for Learned Sparse Retrieval with Entities](https://arxiv.org/abs/2410.07722)
-
-![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2410.07722.png)
-
-Vote: 8
-
-Authors: Sean MacAvaney, Iain Mackie, Shubham Chatterjee, Andrew Yates, Thong Nguyen, Jeff Dalton
-
-- **What's New**: 이 논문에서는 LSR(Learned Sparse Retrieval) 모델의 어휘에 위키피디아의 엔티티를 통합하는 방법을 제안합니다. DyVo(Dynamic Vocabulary) 모델을 통해 기존의 단어 조각 어휘를 확장하여, 복잡한 의미론적 구문과 엔티티를 더 잘 처리할 수 있도록 합니다.
-- **Technical Details**: 이 연구는 위키피디아에 있는 약 7백만 개의 엔티티와 개념을 활용하여 높은 관련성을 가진 엔티티 후보를 생성하는 몇 쇼트 생성 엔티티 검색 방식을 도입합니다. LLM(Large Language Models)과 엔티티 검색 기법을 통해 적절한 엔티티를 식별하고 LSR 인코더에 전달하여 문서 및 쿼리의 표현력을 향상시킵니다.
-- **Performance Highlights**: 세 가지 엔티티가 풍부한 벤치마크 데이터셋(TREC Robust04, TREC Core 2018, CODEC)에 대한 평가에서, 위키피디아의 엔티티를 통합한 LSR은 일관된 성능 향상을 보였습니다. 또한, Mixtral이나 GPT4로 생성된 후보 엔티티를 활용한 문서 검색 효율성이 인적 주석자에 의해 식별된 엔티티를 사용할 때와 비슷하게 경쟁력 있음을 확인했습니다.
-
-### [ZipVL: Efficient Large Vision-Language Models with Dynamic Token Sparsification and KV Cache Compression](https://arxiv.org/abs/2410.08584)
-
-![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2410.08584.png)
-
-Vote: 8
-
-Authors: Bohan Zhuang, Wenqi Shao, Hong Zhou, Jing Liu, Yefei He, Kaipeng Zhang, Feng Chen
-
-- **What's New**: 최근 대형 언어 모델(LLM)의 발전에 따라 많은 연구들이 시각적 컨텐츠를 이해하고 생성하는 능력을 확장했습니다. 이 연구는 LVLMs의 효율적인 추론 프레임워크인 ZipVL을 제안합니다. ZipVL은 중요한 토큰의 비율을 단일화하여 prefill 단계와 디코딩 단계를 최적화하는 방법입니다.
-- **Technical Details**: ZipVL은 각 층마다 적응적인 비율 할당 스킴을 도입하여 중요한 토큰의 비율을 동적으로 결정하고, 이를 통해 다양한 작업에서 성능과 효율성을 높입니다. 또한, 선택된 중요한 토큰만을 대상으로 희소한 주의(attention)를 수행하여 계산 상의 병목현상을 해소합니다. 메모리 사용량을 낮추기 위해, 중요한 토큰은 높은 비트-수 양자화(quantization)를, 중요치 않은 토큰은 낮은 비트-수 양자화를 적용합니다.
-- **Performance Highlights**: ZipVL은 다중 모달리티 벤치마크에서 실험 결과 거의 손실이 없는 성능을 유지하면서 prefill 단계의 대기 시간을 2.6배 줄이고, GPU 메모리 사용량을 50% 감소시켰습니다. 이는 LVLM의 정확도와 생성 효율성에서 최상의 성능을 달성했음을 보여줍니다.
-
-### [Simplifying, Stabilizing and Scaling Continuous-Time Consistency Models](https://arxiv.org/abs/2410.11081)
-
-![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2410.11081.png)
-
-Vote: 7
-
-Authors: Cheng Lu, Yang Song
-
-- **What's New**: 이 논문은 연속시간 일관성 모델(Continuous-time Consistency Models, CMs)의 훈련을 간소화하고 안정화하는 새로운 기술들을 도입합니다. 이전의 작업들은 주로 이산시간 기준으로 이루어졌는데, 이는 샘플 품질을 저하시킬 수 있는 오류를 유발했습니다. 이번 연구에서는 연속시간 CMs의 불안정성 문제를 식별하고 이를 해결하기 위한 포괄적인 레시피를 제시합니다. 이 과정에서 EDM과 Flow Matching을 통합한 TrigFlow라는 새로운 공식을 도입하여 디퓨전 모델과 CMs의 수식을 크게 간소화하였습니다.
-- **Technical Details**: 논문은 연속시간 CMs의 훈련에서 시간 조건부 및 네트워크 아키텍처 내의 적응형 그룹 정규화를 포함한 다양한 기술적 개선을 도입합니다. 또한, 연속시간 CMs를 위한 훈련 목표를 재구성하고, 키 요소의 적응형 가중 및 정규화를 포함하여 안정적이고 확장 가능한 훈련을 위한 점진적 annealing 기법을 적용합니다. 이를 통해 연속시간 CMs의 훈련과 증류(distillation)에서 기존 이산시간 모델에 비해 비교할 만한 혹은 더 나은 성과를 보이도록 하였습니다.
-- **Performance Highlights**: sCMs로 불리는 새로운 모델은 CIFAR-10, ImageNet 64×64, ImageNet 512×512 같은 다양한 데이터셋과 모델 크기에서 성공적인 결과를 보여 줍니다. 이러한 모델들은 최대 15억 개의 파라미터를 가지며, 이는 지금까지 훈련된 가장 큰 CMs입니다. 이 모델들은 계산 성능이 증가함에 따라 보다 나은 샘플 품질을 예측 가능한 방식으로 달성할 수 있음을 보여줍니다. 또한, 기존의 최첨단 디퓨전 모델과 비교하여 샘플링 연산이 크게 요구되는 상황에서도 FID 격차를 10% 이내로 좁히는 결과를 갖습니다. 이러한 결과는 연속시간 CMs가 이산시간 모델에 비해 가지고 있는 장점을 샘플 품질 측면에서 실증하며, 개별 시간 간격이 좁아질수록 샘플 품질이 향상됨을 보여주고 있습니다.
-
-### [ChroKnowledge: Unveiling Chronological Knowledge of Language Models in Multiple Domains](https://arxiv.org/abs/2410.09870)
-
-![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2410.09870.png)
-
-Vote: 4
-
-Authors: Donghyeon Lee, Yein Park, Chanwoong Yoon, Minbyul Jeong, Jaewoo Kang, Jungwoo Park
-
-- **What's New**: ChroKnowBench라는 새로운 벤치마크 데이터셋과 ChroKnowledge 프레임워크가 도입되었습니다. ChroKnowBench는 연대적으로 축적된 지식을 평가하고, 시간 의존성(time dependency), 여러 도메인, 시간 상태를 포함한 3가지 차원에서 지식을 분류합니다. ChroKnowledge는 LLMs의 시계열 지식을 평가하고 향상시키기 위한 프레임워크를 제공합니다.
-- **Technical Details**: 연대적으로 축적된 지식을 평가하기 위해 ChroKnowBench는 시간 의존성(time variant와 시간 불변), 도메인(일반, 생물의학, 법, 상식, 수학), 시간 상태(동적 및 정적)로 지식을 분류합니다. 또한, Sampling-based Knowledge Categorization (SliCK) 프레임워크를 사용하여 LLM의 지식 수준을 평가하며, 수정된 포맷으로 Correct와 Incorrect로 지식을 범주화합니다. ChroKnowledge 프레임워크는 비모수적 접근(non-parametric approach)으로 LLMs의 지식을 업데이트하며, 다양한 타임프레임을 통한 지식 효과적인 갱신을 위해 ChroKnowPrompt 방식을 사용합니다.
-- **Performance Highlights**: ChroKnowPrompt 접근 방식을 통해 생물의학 도메인에서 11.9%의 지식 회상 개선이 있었으며, 일반 도메인에서도 2.8%의 개선이 나타났습니다. 이 비모수적 방식은 LLMs를 광범위한 재훈련 없이 직접 업데이트할 수 있다는 점에서 실용성과 폭넓은 적용 가능성을 강조합니다.
-
-### [Tracking Universal Features Through Fine-Tuning and Model Merging](https://arxiv.org/abs/2410.12391)
-
-![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2410.12391.png)
-
-Vote: 4
-
-Authors: Niels Horn, Desmond Elliott
-
-- **What's New**: 이 논문은 Transformer 언어 모델의 특징(feature) 진화를 연구합니다. 특히, 새로운 도메인에 모델을 핀튜닝(fine-tuning)하거나 두 모델의 가중치를 병합하는 일반적인 전이 학습 상황에서 특징의 출현, 소멸 및 지속성을 다룹니다. 이 연구는 파이썬과 루아 같은 프로그래밍 언어와 일반 영어 텍스트를 기반으로 한 작은 언어 모델을 사용하여 진행됩니다.
-- **Technical Details**: 연구는 spars autoencoder로부터 Transformer 블록의 MLP 계층 활성화에서 특징을 추출합니다. 모델은 NVIDIA A100 40GB GPU에서 10시간 동안 훈련되며, 특징의 활성화 패턴을 추출하여 모델 간 특징의 상관관계를 연구합니다. 모델 병합은 구면 선형 보간법(spherical linear interpolation)을 통해 수행되어, 여러 모델의 학습 내용을 결합하여 단일 모델이 각 모델의 최적 균형을 유지할 수 있도록 합니다.
-- **Performance Highlights**: 실험 결과, 매우 적은 수의 특징만이 모델 간에 지속되며, 그 중 지속되는 특징은 해석 가능하여, 예를 들어, 텍스트의 일반적인 속성(구두점, 형식 등)과 일치합니다. LuaStories라는 병합된 최종 모델은, 각 개별 도메인에서 20%의 정확도 저하를 보이나, 두 오리지널 모델의 공통 베이스 모델에 비해 약 20% 더 나은 성능을 보입니다.
-
-### [Neural Metamorphosis](https://arxiv.org/abs/2410.11878)
-
-![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2410.11878.png)
-
-Vote: 4
-
-Authors: Xinchao Wang, Xingyi Yang
-
-- **What's New**: 최근 신경망(neural networks)은 훈련된 후 고정된 구조와 파라미터를 가진 정적 형태로 기능하는 경향이 있습니다. 이 연구에서는 훈련된 후에도 여러 하드웨어 구성에 맞게 계속 변화할 수 있는 신경망을 설계하는 탐구를 시작하였습니다. 특히, 사전에 훈련된 아키텍처의 한계를 넘어 훈련 단계에서 예기치 않은 크기와 구성으로 일반화할 수 있는 네트워크를 만드는 것이 목표입니다. 이를 위해 새로운 학습 파라다임인 신경 변태(Neural Metamorphosis, NeuMeta)를 제시합니다. NeuMeta는 신경망을 개별 개체가 아닌 연속적이고 고차원적인 가중치 다양체(weight manifold)에서 샘플링된 점으로 해석합니다.
-- **Technical Details**: NeuMeta는 암묵적 신경 표현(Implicit Neural Representation, INR)을 하이퍼네트워크로 사용하여 다양체를 맞춥니다. INR은 네트워크 구성 및 가중치 좌표를 입력으로 받아 해당 가중치 값을 산출하는 역할을 합니다. 양측 네트워크내 매끄러움을 개선하기 위해 두 가지 전략을 제안합니다. 첫 번째는 가중치 행렬의 순열을 통해 네트워크 내부의 매끄러움을 향상시키는 것입니다. 둘째는 무작위 잡음을 도입하여 크로스 네트워크 간 매끄러움을 향상시킵니다. 이러한 접근은 가중치 다양체를 모델링하는 과정을 단순화하여 방법의 강건성을 향상합니다.
-- **Performance Highlights**: NeuMeta는 이미지 분류, 시맨틱 분할 및 생성과 같은 다양한 작업에서 평가되었습니다. NeuMeta는 원래 모델의 성능을 일치시킬 뿐만 아니라 다양한 모델 크기에 걸쳐 뛰어난 성능을 발휘합니다. 75%의 압축률에서도 전체 크기 모델 성능을 유지하며, 훈련 범위를 벗어난 네트워크 크기의 파라미터를 생성할 수 있는 특이성을 가지고 있습니다.
-
-### [WorldMedQA-V: a multilingual, multimodal medical examination dataset for multimodal language models evaluation](https://arxiv.org/abs/2410.12722)
-
-![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2410.12722.png)
-
-Vote: 4
-
-Authors: A. Ian Wong, Danielle S. Bitterman, Yingya Li, Daphna Idan, Shan Chen, Luis F. Nakayama, David Restrepo, João Matos, Jose M. M. Pascual-Leone, Guergana Savova, Hugo Aerts, Juan Carlos Climent Pardo, Siena Placino, Jack Gallifant, Takeshi Tohyama, Leo A. Celi
-
-- **What's New**: 의료 분야에서의 생성형 AI 모델 도입이 증가함에 따라, 안전성, 효과성 및 공정성을 평가하기 위한 벤치마크의 중요성이 강조되고 있습니다. 이를 위해 WorldMedQA-V라는 다국어, 다중모달 데이터셋이 도입되었습니다. 이 데이터셋은 임상 검증을 거친 새로운 다중모달 시험 문제를 포함하고 있으며, 로컬 언어 및 영어로의 성능 차이를 평가할 수 있습니다.
-- **Technical Details**: 본 연구는 브라질, 이스라엘, 일본, 스페인 등의 국가별 다국어 및 다중모달 의료 시험 데이터를 사용하여 LLM 및 VLM의 성능을 평가하였습니다. 데이터셋의 임상적 검증은 각국의 원어를 사용하는 임상의들에 의해 3단계로 이루어졌습니다. 다양한 크기의 모델이 실험에 사용되었으며, Nvidia GPU와 CUDA > 12.0 환경에서 평가되었습니다. 평가 지표로는 정확도를 사용하였고, Cohen의 카파 계수로 모델의 신뢰성을 평가하였습니다.
-- **Performance Highlights**: 총 4개국에서 수집된 726개의 QA와 850개의 이미지로 구성된 WorldMedQA-V에서, GPT4o 모델이 전반적으로 가장 높은 성능을 보였습니다. 일본 데이터셋에서는 88%의 정확도로 합격선을 넘었으나, 이스라엘 데이터셋의 히브리어에서 58%의 정확도로 낮은 성적을 기록했습니다. 이는 모국어 데이터의 사전 학습에서의 표현 부족이 원인일 수 있습니다. 이미지를 포함한 경우, 대부분의 모델에서 성능이 향상되었으며, Gemini 계열 모델은 이미지 유무에 따라 성능 변화가 가장 컸습니다.
-
-### [OMCAT: Omni Context Aware Transformer](https://arxiv.org/abs/2410.12109)
-
-![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2410.12109.png)
-
-Vote: 4
-
-Authors: Arushi Goel, Bryan Catanzaro, Rafael Valle, Andrew Tao, Matthieu Le, Karan Sapra
-
-- **What's New**: 이 연구에서는 멀티모달 대형 언어 모델(multimodal Large Language Models)의 한계를 극복하기 위한 새로운 데이터셋 OCTAV와 모델 OMCAT을 소개합니다. OCTAV는 비디오의 이벤트 전환을 사운드 이벤트를 통해 캡쳐하여 시간적으로 정렬된 크로스모달 데이터셋을 제공합니다. OMCAT은 시간 표현을 효과적으로 통합하여 오디오 및 비주얼 이해를 향상시키는 통합된 언어 모델입니다.
-
-### [Insights from the Inverse: Reconstructing LLM Training Goals Through Inverse RL](https://arxiv.org/abs/2410.12491)
-
-![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2410.12491.png)
-
-Vote: 3
-
-Authors: Satyapriya Krishna, Sonali Parbhoo, Jared Joselowitz, Arjun Jagota
-
-- **What's New**: 이 논문은 Inverse Reinforcement Learning (IRL)을 활용하여 Reinforcement Learning from Human Feedback (RLHF)로 훈련된 대규모 언어 모델(LLM)의 보상 함수(reward function)를 추출하는 방법을 제안합니다. LLM의 훈련 과정에서 사용된 보상 함수의 복구 가능성을 평가하는 것은 모델이 침해, 정보 수집, 악성코드 또는 사기 등의 공격에 얼마나 취약한지 파악하는 데 도움을 줍니다.
-- **Technical Details**: 이번 연구에서는 IRL의 한 방법인 Maximum Margin IRL을 사용하여 LLM의 보상 모델을 추출하고자 합니다. IRL은 간접적으로 LLM의 의사결정 과정을 이해할 수 있는 보상 함수를 추론하는데 유용한 도구입니다. 제안된 방법론은 MDP(Markov Decision Process) 문맥 내에서 보상 함수 R 극상을 설명하는 traitories를 기반으로 하는 것으로, 보상 함수가 여러 가지로 이루어질 수 있기 때문에 추가적인 가정이나 정규화가 필요합니다.
-- **Performance Highlights**: 다양한 크기의 LLM에 대해 다수의 toxicity 데이터셋을 사용하여 실험을 진행한 결과, 충분한 훈련 후 Max-Margin 방법과 같은 간단한 IRL 기법도 성공적으로 보상 모델을 추출할 수 있음을 확인했습니다. 이로써 LLM의 투명성을 개선하고, 그 이면의 실패 원인을 이해하는데 기여할 수 있음을 보여줍니다.
-
-### [Stabilize the Latent Space for Image Autoregressive Modeling: A Unified Perspective](https://arxiv.org/abs/2410.12490)
-
-![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2410.12490.png)
-
-Vote: 2
-
-Authors: Lidong Bing, Yongxin Zhu, Bocheng Li, Hang Zhang, Xin Li, Linli Xu
-
-- **What's New**: 이 논문은 네트워크 최적화(Network Optimization) 문제에 대한 새로운 알고리즘을 제안합니다. 주어진 문제에 대한 보다 효과적이고 효율적인 해결책을 제공하기 위해 최신 수학적 모델링 기법(Math Mathematical Modeling Techniques)과 컴퓨터 과학 원리(Computer Science Principles)를 접목시켰습니다.
-- **Technical Details**: 제안된 알고리즘은 그래프 이론(Graph Theory)과 선형 계획법(Linear Programming)을 기반으로 하며, 시간 복잡도(Time Complexity)를 줄이기 위한 새로운 휴리스틱(Heuristic)을 도입했습니다. 또한, 자동 미분(Automatic Differentiation)을 활용하여 파라미터 최적화(Parameter Optimization)를 수행합니다.
-- **Performance Highlights**: 실험 결과, 기존 방법들에 비해 계산 속도가 약 30% 개선되었으며, 최적화 문제의 해상도(Resolution) 또한 향상되었습니다. 이는 대규모 네트워크 시스템에서 실질적으로 활용 가능함을 시사합니다.
-
-### [Taming Overconfidence in LLMs: Reward Calibration in RLHF](https://arxiv.org/abs/2410.09724)
-
-![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2410.09724.png)
+![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2410.13852.png)
 
 Vote: 1
 
-Authors: Banghua Zhu, Jixuan Leng, Jiaxin Huang, Chengsong Huang
+Authors: ['Yiwei Chen', 'Zizhao Chen', 'Anne Wu', 'Mustafa Omer Gul', 'Yoav Artzi', 'Gloria Geng']
 
-- **What's New**: 이 논문은 강화학습을 활용한 인간 피드백(RLHF)을 사용하여 훈련된 대형 언어 모델(LLM)의 과도한 자신감 문제를 해결하기 위한 두 가지 새로운 솔루션을 제안하고 있다. 논문은 높은 자신감 점수를 보여주는 응답을 선호하는 보상 모델의 시스템적 편향이 이러한 과도한 자신감을 유발한다는 주장을 하고 있다.
-- **Technical Details**: 논문은 기존의 RLHF-LLM에서 나타나는 지나친 자신감 문제를 해결하기 위해, 보상 모델링 보정을 적용한 근접 정책 최적화(PPO-M)와 보상 계산 보정을 적용한 방법(PPO-C)을 제안한다. PPO-M은 응답의 품질과 자신감 수준을 맞추기 위해 명시적인 자신감 점수를 활용한다. PPO-C는 보상 점수를 모델이 표현하는 자신감 수준에 기반하여 동적으로 조정하는 방식을 사용한다.
-- **Performance Highlights**: Llama3-8B와 Mistral-7B 모델을 대상으로 한 실험에서, 제안된 PPO-M과 PPO-C 방법은 기본 PPO를 뛰어넘어 낮은 ECE(예상 보정 오류)를 달성하며 정확도를 유지하거나 개선하는 성과를 나타냈다. 또한, MT-Bench 평가에서 이 방법들이 일반적인 대화 설정에서도 모델의 기능을 잘 유지한다는 것을 보여준다.
+- ***What's New***: RESPECT 방법은 대화의 과거 상호작용에서 얻은 신호를 활용하여 대규모 언어 모델(LLM)이 계속해서 학습할 수 있게 합니다. 이 접근 방식은 외부 주석 없이 다중 턴 상호작용에서 신호를 추출하여 적응적 학습을 가능하게 합니다.
+- ***Technical Details***: RESPECT는 사용자의 지시를 기반으로 하여 LLM이 다중 턴 추론 작업을 수행하도록 설계되었습니다. 이 방법은 이전 상호작용의 피드백 신호를 복기(retrospection)하고 이에 기반하여 학습을 진행합니다. 구체적으로, 각 상호작용 후 LLM은 자신의 행동을 재검토하여 피드백을 디코딩합니다. MULTIREF라는 새로운 다중 턴 상호작용 시나리오에서 이 방법이 적용되며, 사용자가 3D 도형들로 구성된 난해한 문제를 해결하도록 LLM에게 지시합니다.
+- ***Performance Highlights***: 실험 결과, RESPECT 방법을 적용한 후 LLM의 작업 완료 비율이 31%에서 82%로 증가했습니다. 이 과정에서 피드백을 디코드하는 정확성은 시간에 따라 안정적으로 유지되었으며, LLM은 다중 턴 상호작용에서의 성능을 개선하는 데 성공했습니다.
 
+### [AERO: Softmax-Only LLMs for Efficient Private Inference](https://arxiv.org/abs/2410.13060)
 
+![](https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2410.13060.png)
+
+Vote: 0
+
+Authors: ['Brandon Reagen', 'Nandan Kumar Jha']
+
+- ***What's New***: AERO는 비선형성(Nonlinearity)을 제거하고 더 효율적인 개인 정보 추론(Private Inference; PI)을 위한 Softmax-only LLM 아키텍처를 제안합니다. 이 연구는 기존 대형 언어 모델(Large Language Models; LLMs)의 아키텍처를 최적화하고, FLOPs(count)을 줄이는 데 중점을 두었습니다.
+- ***Technical Details***: AERO는 네 단계로 구성된 아키텍처 최적화 프레임워크로, Transformer 기반 LLM의 기존 아키텍처를 비선형성을 제거하여 재구성합니다. 구체적으로, LayerNorm, GELU와 같은 비선형 컴포넌트를 제거하고 FLOPs 수를 줄이는 설계를 구현했습니다. Softmax-only 아키텍처는 비선형적인 활성화 함수가 없는 경우에 최적의 성능을 발휘할 수 있도록 설계되었습니다. 이 과정에서 새로운 엔트로피 정규화(Entropy Regularization) 기법을 도입하여 Softmax-only 모델의 성능을 향상시킵니다.
+- ***Performance Highlights***: AERO는 통신 비용을 최대 4.23배 줄이고, 지연(latency)을 1.94배 단축시킬 수 있습니다. 표준 벤치마크에 따르면, Softmax-only 모델은 perplexity에서 기존의 SOTA(상태 최선; State-of-the-Art) 모델에 비해 6%에서 8% 향상된 성능을 기록했습니다.
 
 ## License
 

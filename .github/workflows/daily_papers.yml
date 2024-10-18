@@ -25,12 +25,13 @@ jobs:
 
     - name: Get Daily Papers and Summarize
       run: |
-        python main.py --api_key ${{secrets.OPENAI_API_KEY}} --workspace_name ${{secrets.WORKSPACE_NAME}} --target_channel_name ${{secrets.TARGET_CHANNEL_NAME}} --target_channel_id ${{secrets.TARGET_CHANNEL_ID}} --slack_api_token ${{secrets.SLACK_API_TOKEN}}
+        python main.py --api_key ${{secrets.OPENAI_API_KEY}} --workspace_name ${{secrets.WORKSPACE_NAME}} --target_channel_name ${{secrets.TARGET_CHANNEL_NAME}} --target_channel_id ${{secrets.TARGET_CHANNEL_ID}} --slack_api_token ${{secrets.SLACK_API_TOKEN}} --huggingface_auth_token ${{secrets.HUGGINGFACE_AUTH_TOKEN}}
 
     - name: Commit and Push Changes
       run: |
         git config --local user.name 'l-yohai'
         git config --local user.email 'yohan9612@naver.com'
+        rm tmp.pdf
         git add .
         git commit -m "Update README and daily papers"
         git push origin main
