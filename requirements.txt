@@ -7,5 +7,4 @@ requests
 slack-sdk
 tiktoken
 PyMuPDF
-fitz
 aiohttp
