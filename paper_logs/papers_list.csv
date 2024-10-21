@@ -2773,3 +2773,35 @@ date,title,url
 2024-10-18,Latent Action Pretraining from Videos,https://arxiv.org/abs/2410.11758
 2024-10-18,Retrospective Learning from Interactions,https://arxiv.org/abs/2410.13852
 2024-10-18,AERO: Softmax-Only LLMs for Efficient Private Inference,https://arxiv.org/abs/2410.13060
+2024-10-21,Minimum Tuning to Unlock Long Output from LLMs with High Quality Data as the Key,https://arxiv.org/abs/2410.10210
+2024-10-21,LoLDU: Low-Rank Adaptation via Lower-Diag-Upper Decomposition for Parameter-Efficient Fine-Tuning,https://arxiv.org/abs/2410.13618
+2024-10-21,MuVi: Video-to-Music Generation with Semantic Alignment and Rhythmic Synchronization,https://arxiv.org/abs/2410.12957
+2024-10-21,A Comparative Study on Reasoning Patterns of OpenAI's o1 Model,https://arxiv.org/abs/2410.13639
+2024-10-21,MedMobile: A mobile-sized language model with expert-level clinical capabilities,https://arxiv.org/abs/2410.09019
+2024-10-21,MoH: Multi-Head Attention as Mixture-of-Head Attention,https://arxiv.org/abs/2410.11842
+2024-10-21,DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control,https://arxiv.org/abs/2410.13830
+2024-10-21,PopAlign: Diversifying Contrasting Patterns for a More Comprehensive Alignment,https://arxiv.org/abs/2410.13785
+2024-10-21,Do LLMs Have Political Correctness? Analyzing Ethical Biases and Jailbreak Vulnerabilities in AI Systems,https://arxiv.org/abs/2410.13334
+2024-10-21,MobA: A Two-Level Agent System for Efficient Mobile Task Automation,https://arxiv.org/abs/2410.13757
+2024-10-21,TransAgent: Transfer Vision-Language Foundation Models with Heterogeneous Agent Collaboration,https://arxiv.org/abs/2410.12183
+2024-10-21,WorldCuisines: A Massive-Scale Benchmark for Multilingual and Multicultural Visual Question Answering on Global Cuisines,https://arxiv.org/abs/2410.12705
+2024-10-21,Roadmap towards Superhuman Speech Understanding using Large Language Models,https://arxiv.org/abs/2410.13268
+2024-10-21,Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens,https://arxiv.org/abs/2410.13863
+2024-10-21,γ-MoD: Exploring Mixture-of-Depth Adaptation for Multimodal Large Language Models,https://arxiv.org/abs/2410.13859
+2024-10-21,JudgeBench: A Benchmark for Evaluating LLM-based Judges,https://arxiv.org/abs/2410.12784
+2024-10-21,Can MLLMs Understand the Deep Implication Behind Chinese Images?,https://arxiv.org/abs/2410.13854
+2024-10-21,Toward Guidance-Free AR Visual Generation via Condition Contrastive Alignment,https://arxiv.org/abs/2410.09347
+2024-10-21,A Unified View of Delta Parameter Editing in Post-Trained Large-Scale Models,https://arxiv.org/abs/2410.13841
+2024-10-21,SBI-RAG: Enhancing Math Word Problem Solving for Students through Schema-Based Instruction and Retrieval-Augmented Generation,https://arxiv.org/abs/2410.13293
+2024-10-21,BenTo: Benchmark Task Reduction with In-Context Transferability,https://arxiv.org/abs/2410.13804
+2024-10-21,MMed-RAG: Versatile Multimodal RAG System for Medical Vision Language Models,https://arxiv.org/abs/2410.13085
+2024-10-21,Harnessing Webpage UIs for Text-Rich Visual Understanding,https://arxiv.org/abs/2410.13824
+2024-10-21,Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation,https://arxiv.org/abs/2410.13848
+2024-10-21,Long-LRM: Long-sequence Large Reconstruction Model for Wide-coverage Gaussian Splats,https://arxiv.org/abs/2410.12781
+2024-10-21,"Remember, Retrieve and Generate: Understanding Infinite Visual Concepts as Your Personalized Assistant",https://arxiv.org/abs/2410.13360
+2024-10-21,MixEval-X: Any-to-Any Evaluations from Real-World Data Mixtures,https://arxiv.org/abs/2410.13754
+2024-10-21,Open Materials 2024 (OMat24) Inorganic Materials Dataset and Models,https://arxiv.org/abs/2410.12771
+2024-10-21,MagicTailor: Component-Controllable Personalization in Text-to-Image Diffusion Models,https://arxiv.org/abs/2410.13370
+2024-10-21,VidPanos: Generative Panoramic Videos from Casual Panning Videos,https://arxiv.org/abs/2410.13832
+2024-10-21,Diffusion Curriculum: Synthetic-to-Real Generative Curriculum Learning via Image-Guided Diffusion,https://arxiv.org/abs/2410.13674
+2024-10-21,Movie Gen: A Cast of Media Foundation Models,https://arxiv.org/abs/2410.13720
