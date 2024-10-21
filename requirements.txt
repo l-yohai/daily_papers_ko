@@ -6,6 +6,6 @@ pre-commit
 requests
 slack-sdk
 tiktoken
+PyMuPDF
 fitz
-pymupdf
 aiohttp
