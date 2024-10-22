@@ -2823,3 +2823,26 @@ date,title,url
 2024-10-21,NaturalBench: Evaluating Vision-Language Models on Natural Adversarial Samples,https://arxiv.org/abs/2410.14669
 2024-10-21,HART: Efficient Visual Generation with Hybrid Autoregressive Transformer,https://arxiv.org/abs/2410.10812
 2024-10-21,DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework for Talking Head Video Generation,https://arxiv.org/abs/2410.13726
+2024-10-22,Router-Tuning: A Simple and Effective Approach for Enabling Dynamic-Depth in Transformers,https://arxiv.org/abs/2410.13184
+2024-10-22,Zero-shot Model-based Reinforcement Learning using Large Language Models,https://arxiv.org/abs/2410.11711
+2024-10-22,CompassJudger-1: All-in-one Judge Model Helps Model Evaluation and Evolution,https://arxiv.org/abs/2410.16256
+2024-10-22,AutoTrain: No-code training for state-of-the-art models,https://arxiv.org/abs/2410.15735
+2024-10-22,Alchemy: Amplifying Theorem-Proving Capability through Symbolic Mutation,https://arxiv.org/abs/2410.15748
+2024-10-22,SAM2Long: Enhancing SAM 2 for Long Video Segmentation with a Training-Free Memory Tree,https://arxiv.org/abs/2410.16268
+2024-10-22,SemiEvol: Semi-supervised Fine-tuning for LLM Adaptation,https://arxiv.org/abs/2410.14745
+2024-10-22,PUMA: Empowering Unified MLLM with Multi-granular Visual Generation,https://arxiv.org/abs/2410.13861
+2024-10-22,Cross-Lingual Auto Evaluation for Assessing Multilingual LLMs,https://arxiv.org/abs/2410.13394
+2024-10-22,Pre-training Distillation for Large Language Models: A Design Space Exploration,https://arxiv.org/abs/2410.16215
+2024-10-22,Selecting Influential Samples for Long Context Alignment via Homologous Models' Guidance and Contextual Awareness Measurement,https://arxiv.org/abs/2410.15633
+2024-10-22,Baichuan Alignment Technical Report,https://arxiv.org/abs/2410.14940
+2024-10-22,Meta-Chunking: Learning Efficient Text Segmentation via Logical Perception,https://arxiv.org/abs/2410.12788
+2024-10-22,In-context learning and Occam's razor,https://arxiv.org/abs/2410.14086
+2024-10-22,DM-Codec: Distilling Multimodal Representations for Speech Tokenization,https://arxiv.org/abs/2410.15017
+2024-10-22,CBT-Bench: Evaluating Large Language Models on Assisting Cognitive Behavior Therapy,https://arxiv.org/abs/2410.13218
+2024-10-22,Hallucination Detox: Sensitive Neuron Dropout (SeND) for Large Language Model Training,https://arxiv.org/abs/2410.15460
+2024-10-22,Agent-to-Sim: Learning Interactive Behavior Models from Casual Longitudinal Videos,https://arxiv.org/abs/2410.16259
+2024-10-22,Ichigo: Mixed-Modal Early-Fusion Realtime Voice Assistant,https://arxiv.org/abs/2410.15316
+2024-10-22,RM-Bench: Benchmarking Reward Models of Language Models with Subtlety and Style,https://arxiv.org/abs/2410.16184
+2024-10-22,Pangea: A Fully Open Multilingual Multimodal LLM for 39 Languages,https://arxiv.org/abs/2410.16153
+2024-10-22,How Many Van Goghs Does It Take to Van Gogh? Finding the Imitation Threshold,https://arxiv.org/abs/2410.15002
+2024-10-22,FrugalNeRF: Fast Convergence for Few-shot Novel View Synthesis without Learned Priors,https://arxiv.org/abs/2410.16271
