@@ -31,7 +31,7 @@ jobs:
       run: |
         git config --local user.name 'l-yohai'
         git config --local user.email 'yohan9612@naver.com'
-        rm tmp.pdf
+        rm -f tmp.pdf
         git add .
         git commit -m "Update README and daily papers"
         git push origin main
