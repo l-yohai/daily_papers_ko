@@ -69,27 +69,28 @@ async def main(args):
             markdown_summaries.append(markdown_summary)
             slack_summaries.append(slack_summary)
 
-    for paper_info in new_papers:
-        paper_list.loc[len(paper_list)] = [
-            get_today(),
-            get_paper_info_per_type(paper_info, "title"),
-            get_paper_info_per_type(paper_info, "paper_url"),
-        ]
+    if new_papers:
+        for paper_info in new_papers:
+            paper_list.loc[len(paper_list)] = [
+                get_today(),
+                get_paper_info_per_type(paper_info, "title"),
+                get_paper_info_per_type(paper_info, "paper_url"),
+            ]
 
-    paper_list.to_csv("paper_logs/papers_list.csv", index=False, encoding="utf-8")
+        paper_list.to_csv("paper_logs/papers_list.csv", index=False, encoding="utf-8")
 
-    yy, mm, dd = get_today().split("-")
-    os.makedirs(f"paper_logs/{yy}/{mm}", exist_ok=True)
+        yy, mm, dd = get_today().split("-")
+        os.makedirs(f"paper_logs/{yy}/{mm}", exist_ok=True)
 
-    with open(f"paper_logs/{yy}/{mm}/{dd}.md", "a") as f:
-        f.writelines(markdown_summaries)
+        with open(f"paper_logs/{yy}/{mm}/{dd}.md", "a") as f:
+            f.writelines(markdown_summaries)
 
-    with open("README.md", "w") as f:
-        f.writelines(MARKDOWN_START.format(today=today))
-        f.writelines(markdown_summaries)
-        f.writelines(MARKDOWN_END)
+        with open("README.md", "w") as f:
+            f.writelines(MARKDOWN_START.format(today=today))
+            f.writelines(markdown_summaries)
+            f.writelines(MARKDOWN_END)
 
-    send(args, slack_summaries)
+        send(args, slack_summaries)
 
 
 if __name__ == "__main__":

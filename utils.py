@@ -12,7 +12,7 @@ def make_markdown_template(paper_info: dict, summary: str):
     paper_url = get_paper_info_per_type(paper_info, "paper_url")
     thumbnail = get_paper_info_per_type(paper_info, "thumbnail")
     upvotes = get_paper_info_per_type(paper_info, "upvotes")
-    authors = get_paper_info_per_type(paper_info, "authors")
+    authors = ", ".join(get_paper_info_per_type(paper_info, "authors"))
 
     thumbnail_extension = thumbnail.split(".")[-1]
 
