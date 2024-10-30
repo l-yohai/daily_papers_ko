@@ -2937,3 +2937,18 @@ date,title,url
 2024-10-29,"Document Parsing Unveiled: Techniques, Challenges, and Prospects for Structured Information Extraction",https://arxiv.org/abs/2410.21169
 2024-10-29,Relaxed Recursive Transformers: Effective Parameter Sharing with Layer-wise LoRA,https://arxiv.org/abs/2410.20672
 2024-10-29,DreamClear: High-Capacity Real-World Image Restoration with Privacy-Safe Dataset Curation,https://arxiv.org/abs/2410.18666
+2024-10-30,Flow-DPO: Improving LLM Mathematical Reasoning through Online Multi-Agent Learning,https://arxiv.org/abs/2410.22304
+2024-10-30,Zero-Shot Dense Retrieval with Embeddings from Relevance Feedback,https://arxiv.org/abs/2410.21242
+2024-10-30,ShadowKV: KV Cache in Shadows for High-Throughput Long-Context LLM Inference,https://arxiv.org/abs/2410.21465
+2024-10-30,Mind Your Step (by Step): Chain-of-Thought can Reduce Performance on Tasks where Thinking Makes Humans Worse,https://arxiv.org/abs/2410.21333
+2024-10-30,Measuring memorization through probabilistic discoverable extraction,https://arxiv.org/abs/2410.19482
+2024-10-30,CLEAR: Character Unlearning in Textual and Visual Modalities,https://arxiv.org/abs/2410.18057
+2024-10-30,EoRA: Training-free Compensation for Compressed LLM with Eigenspace Low-Rank Approximation,https://arxiv.org/abs/2410.21271
+2024-10-30,Can Language Models Replace Programmers? REPOCOD Says 'Not Yet',https://arxiv.org/abs/2410.21647
+2024-10-30,"OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization",https://arxiv.org/abs/2410.19609
+2024-10-30,Accelerating Direct Preference Optimization with Prefix Sharing,https://arxiv.org/abs/2410.20305
+2024-10-30,AutoKaggle: A Multi-Agent Framework for Autonomous Data Science Competitions,https://arxiv.org/abs/2410.20424
+2024-10-30,SocialGPT: Prompting LLMs for Social Relation Reasoning via Greedy Segment Optimization,https://arxiv.org/abs/2410.21411
+2024-10-30,RARe: Retrieval Augmented Retrieval with In-Context Examples,https://arxiv.org/abs/2410.20088
+2024-10-30,Robots Pre-train Robots: Manipulation-Centric Robotic Representation from Large-Scale Robot Dataset,https://arxiv.org/abs/2410.22325
+2024-10-30,Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning,https://arxiv.org/abs/2410.21845
