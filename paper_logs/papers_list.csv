@@ -2999,3 +2999,53 @@ date,title,url
 2024-11-04,GPT or BERT: why not both?,https://arxiv.org/abs/2410.24159
 2024-11-04,Personalization of Large Language Models: A Survey,https://arxiv.org/abs/2411.00027
 2024-11-04,TOMATO: Assessing Visual Temporal Reasoning Capabilities in Multimodal Foundation Models,https://arxiv.org/abs/2410.23266
+2024-11-08,Both Text and Images Leaked! A Systematic Analysis of Multimodal LLM Data Contamination,https://arxiv.org/abs/2411.03823
+2024-11-08,RetrieveGPT: Merging Prompts and Mathematical Models for Enhanced Code-Mixed Information Retrieval,https://arxiv.org/abs/2411.04752
+2024-11-08,SALSA: Soup-based Alignment Learning for Stronger Adaptation in RLHF,https://arxiv.org/abs/2411.01798
+2024-11-08,Correlation of Object Detection Performance with Visual Saliency and Depth Estimation,https://arxiv.org/abs/2411.02844
+2024-11-08,BitNet a4.8: 4-bit Activations for 1-bit LLMs,https://arxiv.org/abs/2411.04965
+2024-11-08,Sparsing Law: Towards Large Language Models with Greater Activation Sparsity,https://arxiv.org/abs/2411.02335
+2024-11-08,Diff-2-in-1: Bridging Generation and Dense Perception with Diffusion Models,https://arxiv.org/abs/2411.05005
+2024-11-08,"""Give Me BF16 or Give Me Death""? Accuracy-Performance Trade-Offs in LLM Quantization",https://arxiv.org/abs/2411.02355
+2024-11-08,Hunyuan-Large: An Open-Source MoE Model with 52 Billion Activated Parameters by Tencent,https://arxiv.org/abs/2411.02265
+2024-11-08,From Medprompt to o1: Exploration of Run-Time Strategies for Medical Challenge Problems and Beyond,https://arxiv.org/abs/2411.03590
+2024-11-08,Polynomial Composition Activations: Unleashing the Dynamics of Large Language Models,https://arxiv.org/abs/2411.03884
+2024-11-08,Training-free Regional Prompting for Diffusion Transformers,https://arxiv.org/abs/2411.02395
+2024-11-08,Zebra-Llama: A Context-Aware Large Language Model for Democratizing Rare Disease Knowledge,https://arxiv.org/abs/2411.02657
+2024-11-08,M3DocRAG: Multi-modal Retrieval is What You Need for Multi-page Multi-document Understanding,https://arxiv.org/abs/2411.04952
+2024-11-08,TIP-I2V: A Million-Scale Real Text and Image Prompt Dataset for Image-to-Video Generation,https://arxiv.org/abs/2411.04709
+2024-11-08,Self-Consistency Preference Optimization,https://arxiv.org/abs/2411.04109
+2024-11-08,DynaSaur: Large Language Agents Beyond Predefined Actions,https://arxiv.org/abs/2411.01747
+2024-11-08,Thanos: Enhancing Conversational Agents with Skill-of-Mind-Infused Large Language Model,https://arxiv.org/abs/2411.04496
+2024-11-08,OpenCoder: The Open Cookbook for Top-Tier Code Large Language Models,https://arxiv.org/abs/2411.04905
+2024-11-08,SG-I2V: Self-Guided Trajectory Control in Image-to-Video Generation,https://arxiv.org/abs/2411.04989
+2024-11-08,MVPaint: Synchronized Multi-View Diffusion for Painting Anything 3D,https://arxiv.org/abs/2411.02336
+2024-11-08,GenXD: Generating Any 3D and 4D Scenes,https://arxiv.org/abs/2411.02319
+2024-11-08,AndroidLab: Training and Systematic Benchmarking of Android Autonomous Agents,https://arxiv.org/abs/2410.24024
+2024-11-08,Large Language Models Orchestrating Structured Reasoning Achieve Kaggle Grandmaster Level,https://arxiv.org/abs/2411.03562
+2024-11-08,HtmlRAG: HTML is Better Than Plain Text for Modeling Retrieved Knowledge in RAG Systems,https://arxiv.org/abs/2411.02959
+2024-11-08,DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution,https://arxiv.org/abs/2411.02359
+2024-11-08,LoRA-Contextualizing Adaptation of Large Multimodal Models for Long Document Understanding,https://arxiv.org/abs/2411.01106
+2024-11-08,Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models,https://arxiv.org/abs/2411.04996
+2024-11-08,Adaptive Length Image Tokenization via Recurrent Allocation,https://arxiv.org/abs/2411.02393
+2024-11-08,Needle Threading: Can LLMs Follow Threads through Near-Million-Scale Haystacks?,https://arxiv.org/abs/2411.05000
+2024-11-08,Constrained Diffusion Implicit Models,https://arxiv.org/abs/2411.00359
+2024-11-08,PPLLaVA: Varied Video Sequence Understanding With Prompt Guidance,https://arxiv.org/abs/2411.02327
+2024-11-08,LLaMo: Large Language Model-based Molecular Graph Assistant,https://arxiv.org/abs/2411.00871
+2024-11-08,M3SciQA: A Multi-Modal Multi-Document Scientific QA Benchmark for Evaluating Foundation Models,https://arxiv.org/abs/2411.04075
+2024-11-08,DreamPolish: Domain Score Distillation With Progressive Geometry Generation,https://arxiv.org/abs/2411.01602
+2024-11-08,ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning,https://arxiv.org/abs/2411.05003
+2024-11-08,"Swan and ArabicMTEB: Dialect-Aware, Arabic-Centric, Cross-Lingual, and Cross-Cultural Embedding Models and Benchmarks",https://arxiv.org/abs/2411.01192
+2024-11-08,DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion,https://arxiv.org/abs/2411.04928
+2024-11-08,SVDQunat: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models,https://arxiv.org/abs/2411.05007
+2024-11-08,VideoGLaMM: A Large Multimodal Model for Pixel-Level Visual Grounding in Videos,https://arxiv.org/abs/2411.04923
+2024-11-08,Inference Optimal VLMs Need Only One Visual Token but Larger Models,https://arxiv.org/abs/2411.03312
+2024-11-08,GazeGen: Gaze-Driven User Interaction for Visual Content Generation,https://arxiv.org/abs/2411.04335
+2024-11-08,DynaMem: Online Dynamic Spatio-Semantic Memory for Open World Mobile Manipulation,https://arxiv.org/abs/2411.04999
+2024-11-08,Sample-Efficient Alignment for LLMs,https://arxiv.org/abs/2411.01493
+2024-11-08,GarVerseLOD: High-Fidelity 3D Garment Reconstruction from a Single In-the-Wild Image using a Dataset with Levels of Details,https://arxiv.org/abs/2411.03047
+2024-11-08,"Multi-expert Prompting Improves Reliability, Safety, and Usefulness of Large Language Models",https://arxiv.org/abs/2411.00492
+2024-11-08,Survey of Cultural Awareness in Language Models: Text and Beyond,https://arxiv.org/abs/2411.00860
+2024-11-08,Controlling Language and Diffusion Models by Transporting Activations,https://arxiv.org/abs/2410.23054
+2024-11-08,AutoVFX: Physically Realistic Video Editing from Natural Language Instructions,https://arxiv.org/abs/2411.02394
+2024-11-08,IGOR: Image-GOal Representations are the Atomic Control Units for Foundation Models in Embodied AI,https://arxiv.org/abs/2411.00785
