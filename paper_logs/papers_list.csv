@@ -3059,3 +3059,20 @@ date,title,url
 2024-11-11,RaVL: Discovering and Mitigating Spurious Correlations in Fine-Tuned Vision-Language Models,https://arxiv.org/abs/2411.04097
 2024-11-11,StdGEN: Semantic-Decomposed 3D Character Generation from Single Images,https://arxiv.org/abs/2411.05738
 2024-11-11,The Semantic Hub Hypothesis: Language Models Share Semantic Representations Across Languages and Modalities,https://arxiv.org/abs/2411.04986
+2024-11-12,KMM: Key Frame Mask Mamba for Extended Motion Generation,https://arxiv.org/abs/2411.06481
+2024-11-12,IOPO: Empowering LLMs with Complex Instruction Following via Input-Output Preference Optimization,https://arxiv.org/abs/2411.06208
+2024-11-12,Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models,https://arxiv.org/abs/2411.07232
+2024-11-12,Chinese SimpleQA: A Chinese Factuality Evaluation for Large Language Models,https://arxiv.org/abs/2411.07140
+2024-11-12,Watermark Anything with Localized Messages,https://arxiv.org/abs/2411.07231
+2024-11-12,Ablation is Not Enough to Emulate DPO: How Neuron Dynamics Drive Toxicity Reduction,https://arxiv.org/abs/2411.06424
+2024-11-12,Golden Touchstone: A Comprehensive Bilingual Benchmark for Evaluating Financial Large Language Models,https://arxiv.org/abs/2411.06272
+2024-11-12,Energy Efficient Protein Language Models: Leveraging Small Language Models with LoRA for Controllable Protein Generation,https://arxiv.org/abs/2411.05966
+2024-11-12,Counterfactual Generation from Language Models,https://arxiv.org/abs/2411.07180
+2024-11-12,GitChameleon: Unmasking the Version-Switching Capabilities of Code Generation Models,https://arxiv.org/abs/2411.05830
+2024-11-12,OmniEdit: Building Image Editing Generalist Models Through Specialist Supervision,https://arxiv.org/abs/2411.07199
+2024-11-12,CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM,https://arxiv.org/abs/2411.04954
+2024-11-12,Autoregressive Models in Vision: A Survey,https://arxiv.org/abs/2411.05902
+2024-11-12,Game-theoretic LLM: Agent Workflow for Negotiation Games,https://arxiv.org/abs/2411.05990
+2024-11-12,Edify Image: High-Quality Image Generation with Pixel Space Laplacian Diffusion Models,https://arxiv.org/abs/2411.07126
+2024-11-12,NeKo: Toward Post Recognition Generative Correction Large Language Models with Task-Oriented Experts,https://arxiv.org/abs/2411.05945
+2024-11-12,M-Longdoc: A Benchmark For Multimodal Super-Long Document Understanding And A Retrieval-Aware Tuning Framework,https://arxiv.org/abs/2411.06176
