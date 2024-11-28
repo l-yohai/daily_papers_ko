@@ -3212,3 +3212,26 @@ date,title,url
 2024-11-27,SketchAgent: Language-Driven Sequential Sketch Generation,https://arxiv.org/abs/2411.17673
 2024-11-27,Star Attention: Efficient LLM Inference over Long Sequences,https://arxiv.org/abs/2411.17116
 2024-11-27,All Languages Matter: Evaluating LMMs on Culturally Diverse 100 Languages,https://arxiv.org/abs/2411.16508
+2024-11-28,Training and Evaluating Language Models with Template-based Data Generation,https://arxiv.org/abs/2411.18104
+2024-11-28,Identity-Preserving Text-to-Video Generation by Frequency Decomposition,https://arxiv.org/abs/2411.17440
+2024-11-28,EfficientViM: Efficient Vision Mamba with Hidden State Mixer based State Space Duality,https://arxiv.org/abs/2411.15241
+2024-11-28,Adaptive Blind All-in-One Image Restoration,https://arxiv.org/abs/2411.18412
+2024-11-28,Draft Model Knows When to Stop: A Self-Verification Length Policy for Speculative Decoding,https://arxiv.org/abs/2411.18462
+2024-11-28,Video-Guided Foley Sound Generation with Multimodal Controls,https://arxiv.org/abs/2411.17698
+2024-11-28,"UniPose: A Unified Multimodal Framework for Human Pose Comprehension, Generation and Editing",https://arxiv.org/abs/2411.16781
+2024-11-28,DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving,https://arxiv.org/abs/2411.15139
+2024-11-28,Optimizing Brain Tumor Segmentation with MedNeXt: BraTS 2024 SSA and Pediatrics,https://arxiv.org/abs/2411.15872
+2024-11-28,Edit Away and My Face Will not Stay: Personal Biometric Defense against Malicious Generative Editing,https://arxiv.org/abs/2411.16832
+2024-11-28,ROICtrl: Boosting Instance Control for Visual Generation,https://arxiv.org/abs/2411.17949
+2024-11-28,Diffusion Self-Distillation for Zero-Shot Customized Image Generation,https://arxiv.org/abs/2411.18616
+2024-11-28,Omegance: A Single Parameter for Various Granularities in Diffusion-Based Synthesis,https://arxiv.org/abs/2411.17769
+2024-11-28,ChatRex: Taming Multimodal LLM for Joint Perception and Understanding,https://arxiv.org/abs/2411.18363
+2024-11-28,DreamCache: Finetuning-Free Lightweight Personalized Image Generation via Feature Caching,https://arxiv.org/abs/2411.17786
+2024-11-28,CAT4D: Create Anything in 4D with Multi-View Video Diffusion Models,https://arxiv.org/abs/2411.18613
+2024-11-28,Interleaved Scene Graph for Interleaved Text-and-Image Generation Assessment,https://arxiv.org/abs/2411.17188
+2024-11-28,3D Convex Splatting: Radiance Field Rendering with 3D Smooth Convexes,https://arxiv.org/abs/2411.14974
+2024-11-28,Collaborative Decoding Makes Visual Auto-Regressive Modeling Efficient,https://arxiv.org/abs/2411.17787
+2024-11-28,MARVEL-40M+: Multi-Level Visual Elaboration for High-Fidelity Text-to-3D Content Creation,https://arxiv.org/abs/2411.17945
+2024-11-28,Make-It-Animatable: An Efficient Framework for Authoring Animation-Ready 3D Characters,https://arxiv.org/abs/2411.18197
+2024-11-28,Large Language Model-Brained GUI Agents: A Survey,https://arxiv.org/abs/2411.18279
+2024-11-28,VideoLLM Knows When to Speak: Enhancing Time-Sensitive Video Comprehension with Video-Text Duet Interaction Format,https://arxiv.org/abs/2411.17991
