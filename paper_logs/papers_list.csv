@@ -3243,3 +3243,53 @@ date,title,url
 2024-11-29,Critic-V: VLM Critics Help Catch VLM Errors in Multimodal Reasoning,https://arxiv.org/abs/2411.18203
 2024-11-29,Free^2Guide: Gradient-Free Path Integral Control for Enhancing Text-to-Video Generation with Large Vision-Language Models,https://arxiv.org/abs/2411.17041
 2024-11-30,SelfSplat: Pose-Free and 3D Prior-Free Generalizable 3D Gaussian Splatting,https://arxiv.org/abs/2411.17190
+2024-12-04,DeMo: Decoupled Momentum Optimization,https://arxiv.org/abs/2411.19870
+2024-12-04,Yi-Lightning Technical Report,https://arxiv.org/abs/2412.01253
+2024-12-04,A dynamic parallel method for performance optimization on hybrid CPUs,https://arxiv.org/abs/2411.19542
+2024-12-04,SpotLight: Shadow-Guided Object Relighting via Diffusion,https://arxiv.org/abs/2411.18665
+2024-12-04,Free Process Rewards without Process Labels,https://arxiv.org/abs/2412.01981
+2024-12-04,Collaborative Instance Navigation: Leveraging Agent Self-Dialogue to Minimize User Input,https://arxiv.org/abs/2412.01250
+2024-12-04,A Simple and Provable Scaling Law for the Test-Time Compute of Large Language Models,https://arxiv.org/abs/2411.19477
+2024-12-04,VISTA: Enhancing Long-Duration and High-Resolution Video Understanding by Video Spatiotemporal Augmentation,https://arxiv.org/abs/2412.00927
+2024-12-04,Open-Sora Plan: Open-Source Large Video Generation Model,https://arxiv.org/abs/2412.00131
+2024-12-04,Steering Rectified Flow Models in the Vector Field for Controlled Image Generation,https://arxiv.org/abs/2412.00100
+2024-12-04,LSceneLLM: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preferences,https://arxiv.org/abs/2412.01292
+2024-12-04,X-Prompt: Towards Universal In-Context Image Generation in Auto-Regressive Vision Language Foundation Models,https://arxiv.org/abs/2412.01824
+2024-12-04,World-consistent Video Diffusion with Explicit 3D Modeling,https://arxiv.org/abs/2412.01821
+2024-12-04,TinyFusion: Diffusion Transformers Learned Shallow,https://arxiv.org/abs/2412.01199
+2024-12-04,Motion Prompting: Controlling Video Generation with Motion Trajectories,https://arxiv.org/abs/2412.02700
+2024-12-04,o1-Coder: an o1 Replication for Coding,https://arxiv.org/abs/2412.00154
+2024-12-04,"HUGSIM: A Real-Time, Photo-Realistic and Closed-Loop Simulator for Autonomous Driving",https://arxiv.org/abs/2412.01718
+2024-12-04,VideoGen-of-Thought: A Collaborative Framework for Multi-Shot Video Generation,https://arxiv.org/abs/2412.02259
+2024-12-04,MaskRIS: Semantic Distortion-aware Data Augmentation for Referring Image Segmentation,https://arxiv.org/abs/2411.19067
+2024-12-04,Switti: Designing Scale-Wise Transformers for Text-to-Image Synthesis,https://arxiv.org/abs/2412.01819
+2024-12-04,Art-Free Generative Models: Art Creation Without Graphic Art Knowledge,https://arxiv.org/abs/2412.00176
+2024-12-04,VLsI: Verbalized Layers-to-Interactions from Large to Small Vision Language Models,https://arxiv.org/abs/2412.01822
+2024-12-04,AV-Odyssey Bench: Can Your Multimodal LLMs Really Understand Audio-Visual Information?,https://arxiv.org/abs/2412.02611
+2024-12-04,Scaling Image Tokenizers with Grouped Spherical Quantization,https://arxiv.org/abs/2412.02632
+2024-12-04,WF-VAE: Enhancing Video VAE by Wavelet-Driven Energy Flow for Latent Video Diffusion Model,https://arxiv.org/abs/2411.17459
+2024-12-04,PhysGame: Uncovering Physical Commonsense Violations in Gameplay Videos,https://arxiv.org/abs/2412.01800
+2024-12-04,VLSBench: Unveiling Visual Leakage in Multimodal Safety,https://arxiv.org/abs/2411.19939
+2024-12-04,Exploring the Abilities of Large Language Models to Solve Proportional Analogies via Knowledge-Enhanced Prompting,https://arxiv.org/abs/2412.00869
+2024-12-04,Efficient Track Anything,https://arxiv.org/abs/2411.18933
+2024-12-04,AMO Sampler: Enhancing Text Rendering with Overshooting,https://arxiv.org/abs/2411.19415
+2024-12-04,Long Video Diffusion Generation with Segmented Cross-Attention and Content-Rich Video Data Curation,https://arxiv.org/abs/2412.01316
+2024-12-04,MALT: Improving Reasoning with Multi-Agent LLM Training,https://arxiv.org/abs/2412.01928
+2024-12-04,TAPTRv3: Spatial and Temporal Context Foster Robust Tracking of Any Point in Long Video,https://arxiv.org/abs/2411.18671
+2024-12-04,MATATA: a weak-supervised MAthematical Tool-Assisted reasoning for Tabular Applications,https://arxiv.org/abs/2411.18915
+2024-12-04,FLOAT: Generative Motion Latent Flow Matching for Audio-driven Talking Portrait,https://arxiv.org/abs/2412.01064
+2024-12-04,Towards Cross-Lingual Audio Abuse Detection in Low-Resource Settings with Few-Shot Learning,https://arxiv.org/abs/2412.01408
+2024-12-04,Truth or Mirage? Towards End-to-End Factuality Evaluation with LLM-OASIS,https://arxiv.org/abs/2411.19655
+2024-12-04,INCLUDE: Evaluating Multilingual Language Understanding with Regional Knowledge,https://arxiv.org/abs/2411.19799
+2024-12-04,Generating a Low-code Complete Workflow via Task Decomposition and RAG,https://arxiv.org/abs/2412.00239
+2024-12-04,Improving speaker verification robustness with synthetic emotional utterances,https://arxiv.org/abs/2412.00319
+2024-12-04,SOLAMI: Social Vision-Language-Action Modeling for Immersive Interaction with 3D Autonomous Characters,https://arxiv.org/abs/2412.00174
+2024-12-04,VisOnlyQA: Large Vision Language Models Still Struggle with Visual Perception of Geometric Information,https://arxiv.org/abs/2412.00947
+2024-12-04,GRAPE: Generalizing Robot Policy via Preference Alignment,https://arxiv.org/abs/2411.19309
+2024-12-04,OmniCreator: Self-Supervised Unified Generation with Universal Editing,https://arxiv.org/abs/2412.02114
+2024-12-04,OCR Hinders RAG: Evaluating the Cascading Impact of OCR on Retrieval-Augmented Generation,https://arxiv.org/abs/2412.02592
+2024-12-04,VideoLights: Feature Refinement and Cross-Task Alignment Transformer for Joint Video Highlight Detection and Moment Retrieval,https://arxiv.org/abs/2412.01558
+2024-12-04,The Well: a Large-Scale Collection of Diverse Physics Simulations for Machine Learning,https://arxiv.org/abs/2412.00568
+2024-12-04,Critical Tokens Matter: Token-Level Contrastive Estimation Enhence LLM's Reasoning Capability,https://arxiv.org/abs/2411.19943
+2024-12-04,GATE OpenING: A Comprehensive Benchmark for Judging Open-ended Interleaved Image-Text Generation,https://arxiv.org/abs/2411.18499
+2024-12-04,Training Noise Token Pruning,https://arxiv.org/abs/2411.18092
