@@ -3312,3 +3312,34 @@ date,title,url
 2024-12-05,TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation,https://arxiv.org/abs/2412.03069
 2024-12-05,CleanDIFT: Diffusion Features without Noise,https://arxiv.org/abs/2412.03439
 2024-12-05,Inst-IT: Boosting Multimodal Instance Understanding via Explicit Visual Prompt Instruction Tuning,https://arxiv.org/abs/2412.03565
+2024-12-06,Personalized Multimodal Large Language Models: A Survey,https://arxiv.org/abs/2412.02142
+2024-12-06,SynFinTabs: A Dataset of Synthetic Financial Tables for Information and Table Extraction,https://arxiv.org/abs/2412.04262
+2024-12-06,Densing Law of LLMs,https://arxiv.org/abs/2412.04315
+2024-12-06,p-MoD: Building Mixture-of-Depths MLLMs via Progressive Ratio Decay,https://arxiv.org/abs/2412.04449
+2024-12-06,Scaling Inference-Time Search with Vision Value Model for Improved Visual Comprehension,https://arxiv.org/abs/2412.03704
+2024-12-06,KV Shifting Attention Enhances Language Modeling,https://arxiv.org/abs/2411.19574
+2024-12-06,Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion,https://arxiv.org/abs/2412.04424
+2024-12-06,A Noise is Worth Diffusion Guidance,https://arxiv.org/abs/2412.03895
+2024-12-06,Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis,https://arxiv.org/abs/2412.04431
+2024-12-06,OmniFlow: Any-to-Any Generation with Multi-Modal Rectified Flows,https://arxiv.org/abs/2412.01169
+2024-12-06,HumanEdit: A High-Quality Human-Rewarded Dataset for Instruction-based Image Editing,https://arxiv.org/abs/2412.04280
+2024-12-06,4Real-Video: Learning Generalizable Photo-Realistic 4D Video Diffusion,https://arxiv.org/abs/2412.04462
+2024-12-06,MV-Adapter: Multi-view Consistent Image Generation Made Easy,https://arxiv.org/abs/2412.03632
+2024-12-06,MEMO: Memory-Guided Diffusion for Expressive Talking Video Generation,https://arxiv.org/abs/2412.04448
+2024-12-06,Marco-LLM: Bridging Languages via Massive Multilingual Training for Cross-Lingual Enhancement,https://arxiv.org/abs/2412.04003
+2024-12-06,Challenges in Trustworthy Human Evaluation of Chatbots,https://arxiv.org/abs/2412.04363
+2024-12-06,Monet: Mixture of Monosemantic Experts for Transformers,https://arxiv.org/abs/2412.04139
+2024-12-06,NVILA: Efficient Frontier Visual Language Models,https://arxiv.org/abs/2412.04468
+2024-12-06,Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction,https://arxiv.org/abs/2412.04454
+2024-12-06,AnyDressing: Customizable Multi-Garment Virtual Dressing via Latent Diffusion Models,https://arxiv.org/abs/2412.04146
+2024-12-06,Evaluating Language Models as Synthetic Data Generators,https://arxiv.org/abs/2412.03679
+2024-12-06,VisionZip: Longer is Better but Not Necessary in Vision Language Models,https://arxiv.org/abs/2412.04467
+2024-12-06,ZipAR: Accelerating Autoregressive Image Generation through Spatial Locality,https://arxiv.org/abs/2412.04062
+2024-12-06,Structured 3D Latents for Scalable and Versatile 3D Generation,https://arxiv.org/abs/2412.01506
+2024-12-06,Code-as-Monitor: Constraint-aware Visual Programming for Reactive and Proactive Robotic Failure Detection,https://arxiv.org/abs/2412.04455
+2024-12-06,Discriminative Fine-tuning of LVLMs,https://arxiv.org/abs/2412.04378
+2024-12-06,Negative Token Merging: Image-based Adversarial Feature Guidance,https://arxiv.org/abs/2412.01339
+2024-12-06,MRGen: Diffusion-based Controllable Data Engine for MRI Segmentation towards Unannotated Modalities,https://arxiv.org/abs/2412.04106
+2024-12-06,Towards Universal Soccer Video Understanding,https://arxiv.org/abs/2412.01820
+2024-12-06,Global MMLU: Understanding and Addressing Cultural and Linguistic Biases in Multilingual Evaluation,https://arxiv.org/abs/2412.03304
+2024-12-06,VideoICL: Confidence-based Iterative In-context Learning for Out-of-Distribution Video Understanding,https://arxiv.org/abs/2412.02186
