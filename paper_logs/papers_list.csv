@@ -3344,3 +3344,18 @@ date,title,url
 2024-12-06,Global MMLU: Understanding and Addressing Cultural and Linguistic Biases in Multilingual Evaluation,https://arxiv.org/abs/2412.03304
 2024-12-06,VideoICL: Confidence-based Iterative In-context Learning for Out-of-Distribution Video Understanding,https://arxiv.org/abs/2412.02186
 2024-12-07,Establishing Task Scaling Laws via Compute-Efficient Model Ladders,https://arxiv.org/abs/2412.04403
+2024-12-09,Momentum-GS: Momentum Gaussian Self-Distillation for High-Quality Large Scene Reconstruction,https://arxiv.org/abs/2412.04887
+2024-12-09,SwiftEdit: Lightning Fast Text-Guided Image Editing via One-Step Diffusion,https://arxiv.org/abs/2412.04301
+2024-12-09,PanoDreamer: 3D Panorama Synthesis from a Single Image,https://arxiv.org/abs/2412.04827
+2024-12-09,EXAONE 3.5: Series of Large Language Models for Real-world Use Cases,https://arxiv.org/abs/2412.04862
+2024-12-09,GenMAC: Compositional Text-to-Video Generation with Multi-Agent Collaboration,https://arxiv.org/abs/2412.04440
+2024-12-09,"Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling",https://arxiv.org/abs/2412.05271
+2024-12-09,BigDocs: An Open and Permissively-Licensed Dataset for Training Multimodal Models on Document and Code Tasks,https://arxiv.org/abs/2412.04626
+2024-12-09,DEMO: Reframing Dialogue Interaction with Fine-grained Element Modeling,https://arxiv.org/abs/2412.04905
+2024-12-09,Mind the Time: Temporally-Controlled Multi-Event Video Generation,https://arxiv.org/abs/2412.05263
+2024-12-09,2DGS-Room: Seed-Guided 2D Gaussian Splatting with Geometric Constrains for High-Fidelity Indoor Scene Reconstruction,https://arxiv.org/abs/2412.03428
+2024-12-09,"APOLLO: SGD-like Memory, AdamW-level Performance",https://arxiv.org/abs/2412.05270
+2024-12-09,Moto: Latent Motion Token as the Bridging Language for Robot Manipulation,https://arxiv.org/abs/2412.04445
+2024-12-09,LiFT: Leveraging Human Feedback for Text-to-Video Model Alignment,https://arxiv.org/abs/2412.04814
+2024-12-09,MAmmoTH-VL: Eliciting Multimodal Reasoning with Instruction Tuning at Scale,https://arxiv.org/abs/2412.05237
+2024-12-09,CompCap: Improving Multimodal Large Language Models with Composite Captions,https://arxiv.org/abs/2412.05243
