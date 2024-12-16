@@ -3446,3 +3446,20 @@ date,title,url
 2024-12-13,PIG: Physics-Informed Gaussians as Adaptive Parametric Mesh Representations,https://arxiv.org/abs/2412.05994
 2024-12-13,AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials,https://arxiv.org/abs/2412.09605
 2024-12-13,ONEBench to Test Them All: Sample-Level Benchmarking Over Open-Ended Capabilities,https://arxiv.org/abs/2412.06745
+2024-12-16,Prompt2Perturb (P2P): Text-Guided Diffusion-Based Adversarial Attacks on Breast Ultrasound Images,https://arxiv.org/abs/2412.09910
+2024-12-16,GReaTer: Gradients over Reasoning Makes Smaller Language Models Strong Prompt Optimizers,https://arxiv.org/abs/2412.09722
+2024-12-16,GenEx: Generating an Explorable World,https://arxiv.org/abs/2412.09624
+2024-12-16,Multimodal Music Generation with Explicit Bridges and Retrieval Augmentation,https://arxiv.org/abs/2412.09428
+2024-12-16,FreeScale: Unleashing the Resolution of Diffusion Models via Tuning-Free Scale Fusion,https://arxiv.org/abs/2412.09626
+2024-12-16,BiMediX2: Bio-Medical EXpert LMM for Diverse Medical Modalities,https://arxiv.org/abs/2412.07769
+2024-12-16,SmolTulu: Higher Learning Rate to Batch Size Ratios Can Lead to Better Reasoning in SLMs,https://arxiv.org/abs/2412.08347
+2024-12-16,SCBench: A KV Cache-Centric Analysis of Long-Context Methods,https://arxiv.org/abs/2412.10319
+2024-12-16,FluxSpace: Disentangled Semantic Editing in Rectified Flow Transformers,https://arxiv.org/abs/2412.09611
+2024-12-16,LinGen: Towards High-Resolution Minute-Length Text-to-Video Generation with Linear Computational Complexity,https://arxiv.org/abs/2412.09856
+2024-12-16,ObjectMate: A Recurrence Prior for Object Insertion and Subject-Driven Generation,https://arxiv.org/abs/2412.08645
+2024-12-16,Large Action Models: From Inception to Implementation,https://arxiv.org/abs/2412.10047
+2024-12-16,TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies,https://arxiv.org/abs/2412.10345
+2024-12-16,InstanceCap: Improving Text-to-Video Generation via Instance-aware Structured Caption,https://arxiv.org/abs/2412.09283
+2024-12-16,SynerGen-VL: Towards Synergistic Image Understanding and Generation with Vision Experts and Token Folding,https://arxiv.org/abs/2412.09604
+2024-12-16,Apollo: An Exploration of Video Understanding in Large Multimodal Models,https://arxiv.org/abs/2412.10360
+2024-12-16,FireFlow: Fast Inversion of Rectified Flow for Image Semantic Editing,https://arxiv.org/abs/2412.07517
