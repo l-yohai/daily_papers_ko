@@ -3503,3 +3503,26 @@ date,title,url
 2024-12-18,Feather the Throttle: Revisiting Visual Token Pruning for Vision-Language Model Acceleration,https://arxiv.org/abs/2412.13180
 2024-12-18,Compressed Chain of Thought: Efficient Reasoning Through Dense Representations,https://arxiv.org/abs/2412.13171
 2024-12-18,RLDG: Robotic Generalist Policy Distillation via Reinforcement Learning,https://arxiv.org/abs/2412.09858
+2024-12-19,Mix-LN: Unleashing the Power of Deeper Layers by Combining Pre-LN and Post-LN,https://arxiv.org/abs/2412.13795
+2024-12-19,Marigold-DC: Zero-Shot Monocular Depth Completion with Guided Diffusion,https://arxiv.org/abs/2412.13389
+2024-12-19,AniDoc: Animation Creation Made Easier,https://arxiv.org/abs/2412.14173
+2024-12-19,VidTok: A Versatile and Open-Source Video Tokenizer,https://arxiv.org/abs/2412.13061
+2024-12-19,GUI Agents: A Survey,https://arxiv.org/abs/2412.13501
+2024-12-19,Efficient Diffusion Transformer Policies with Mixture of Expert Denoisers for Multitask Learning,https://arxiv.org/abs/2412.12953
+2024-12-19,Autoregressive Video Generation without Vector Quantization,https://arxiv.org/abs/2412.14169
+2024-12-19,LLaVA-UHD v2: an MLLM Integrating High-Resolution Feature Pyramid via Hierarchical Window Transformer,https://arxiv.org/abs/2412.13871
+2024-12-19,No More Adam: Learning Rate Scaling at Initialization is All You Need,https://arxiv.org/abs/2412.11768
+2024-12-19,ChatDiT: A Training-Free Baseline for Task-Agnostic Free-Form Chatting with Diffusion Transformers,https://arxiv.org/abs/2412.12571
+2024-12-19,FashionComposer: Compositional Fashion Image Generation,https://arxiv.org/abs/2412.14168
+2024-12-19,TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks,https://arxiv.org/abs/2412.14161
+2024-12-19,"Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces",https://arxiv.org/abs/2412.14171
+2024-12-19,FastVLM: Efficient Vision Encoding for Vision Language Models,https://arxiv.org/abs/2412.13303
+2024-12-19,"AnySat: An Earth Observation Model for Any Resolutions, Scales, and Modalities",https://arxiv.org/abs/2412.14123
+2024-12-19,CAD-Recode: Reverse Engineering CAD Code from Point Clouds,https://arxiv.org/abs/2412.14042
+2024-12-19,Prompting Depth Anything for 4K Resolution Accurate Metric Depth Estimation,https://arxiv.org/abs/2412.14015
+2024-12-19,SUGAR: Subject-Driven Video Customization in a Zero-Shot Manner,https://arxiv.org/abs/2412.10533
+2024-12-19,Learning from Massive Human Videos for Universal Humanoid Pose Control,https://arxiv.org/abs/2412.14172
+2024-12-19,RAG-RewardBench: Benchmarking Reward Models in Retrieval Augmented Generation for Preference Alignment,https://arxiv.org/abs/2412.13746
+2024-12-19,"Smarter, Better, Faster, Longer: A Modern Bidirectional Encoder for Fast, Memory Efficient, and Long Context Finetuning and Inference",https://arxiv.org/abs/2412.13663
+2024-12-19,AntiLeak-Bench: Preventing Data Contamination by Automatically Constructing Benchmarks with Updated Real-World Knowledge,https://arxiv.org/abs/2412.13670
+2024-12-19,Alignment faking in large language models,https://arxiv.org/abs/2412.14093
