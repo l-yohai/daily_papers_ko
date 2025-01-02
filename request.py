@@ -71,7 +71,10 @@ def get_papers() -> list[dict]:
     """
 
     papers = requests.get(PAPER_PAGES_API).json()
-    return papers
+
+    # upvotes 순으로 정렬
+    sorted_papers = sorted(papers, key=lambda x: x["paper"]["upvotes"], reverse=True)
+    return sorted_papers
 
 
 def get_paper_info_per_type(paper_info: dict, info_type: str) -> str | list[str] | int:
