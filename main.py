@@ -70,11 +70,12 @@ async def main(args):
             slack_summaries.append(slack_summary)
 
     if new_papers:
-        for paper_info in new_papers:
+        sorted_new_papers = sorted(new_papers, key=lambda x: x["paper"]["upvotes"], reverse=True)
+        for new_paper_info in sorted_new_papers:
             paper_list.loc[len(paper_list)] = [
                 get_today(),
-                get_paper_info_per_type(paper_info, "title"),
-                get_paper_info_per_type(paper_info, "paper_url"),
+                get_paper_info_per_type(new_paper_info, "title"),
+                get_paper_info_per_type(new_paper_info, "paper_url"),
             ]
 
         paper_list.to_csv("paper_logs/papers_list.csv", index=False, encoding="utf-8")
