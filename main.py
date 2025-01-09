@@ -65,18 +65,21 @@ async def main(args):
     for task in tqdm(asyncio.as_completed(tasks), total=len(daily_papers)):
         paper_info, markdown_summary, slack_summary = await task
         if paper_info:
-            new_papers.append(paper_info)
-            markdown_summaries.append(markdown_summary)
-            slack_summaries.append(slack_summary)
+            new_papers.append((paper_info, markdown_summary, slack_summary))
 
     if new_papers:
-        sorted_new_papers = sorted(new_papers, key=lambda x: x["paper"]["upvotes"], reverse=True)
-        for new_paper_info in sorted_new_papers:
+        # Sort new_papers by upvotes
+        sorted_new_papers = sorted(new_papers, key=lambda x: x[0]["paper"]["upvotes"], reverse=True)
+
+        # Separate sorted papers into their respective summaries
+        for new_paper_info, markdown_summary, slack_summary in sorted_new_papers:
             paper_list.loc[len(paper_list)] = [
                 get_today(),
                 get_paper_info_per_type(new_paper_info, "title"),
                 get_paper_info_per_type(new_paper_info, "paper_url"),
             ]
+            markdown_summaries.append(markdown_summary)
+            slack_summaries.append(slack_summary)
 
         paper_list.to_csv("paper_logs/papers_list.csv", index=False, encoding="utf-8")
 
