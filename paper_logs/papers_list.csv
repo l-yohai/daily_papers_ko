@@ -3845,3 +3845,17 @@ date,title,url
 2025-01-27,Multiview Equivariance Improves 3D Correspondence Understanding with Minimal Feature Finetuning,https://arxiv.org/abs/2411.19458
 2025-01-27,Denoising as Adaptation: Noise-Space Domain Adaptation for Image Restoration,https://arxiv.org/abs/2406.18516
 2025-01-27,CatV2TON: Taming Diffusion Transformers for Vision-Based Virtual Try-On with Temporal Concatenation,https://arxiv.org/abs/2501.11325
+2025-01-28,Baichuan-Omni-1.5 Technical Report,https://arxiv.org/abs/2501.15368
+2025-01-28,Qwen2.5-1M Technical Report,https://arxiv.org/abs/2501.15383
+2025-01-28,Towards General-Purpose Model-Free Reinforcement Learning,https://arxiv.org/abs/2501.16142
+2025-01-28,"ARWKV: Pretrain is not what we need, an RNN-Attention-Based Language Model Born from Transformer",https://arxiv.org/abs/2501.15570
+2025-01-28,"Emilia: A Large-Scale, Extensive, Multilingual, and Diverse Dataset for Speech Generation",https://arxiv.org/abs/2501.15907
+2025-01-28,iFormer: Integrating ConvNet and Transformer for Mobile Application,https://arxiv.org/abs/2501.15369
+2025-01-28,Mixture-of-Mamba: Enhancing Multi-Modal State-Space Models with Modality-Aware Sparsity,https://arxiv.org/abs/2501.16295
+2025-01-28,Are Vision Language Models Texture or Shape Biased and Can We Steer Them?,https://arxiv.org/abs/2403.09193
+2025-01-28,CodeMonkeys: Scaling Test-Time Compute for Software Engineering,https://arxiv.org/abs/2501.14723
+2025-01-28,Parameters vs FLOPs: Scaling Laws for Optimal Sparsity for Mixture-of-Experts Language Models,https://arxiv.org/abs/2501.12370
+2025-01-28,OpenCharacter: Training Customizable Role-Playing LLMs with Large-Scale Synthetic Personas,https://arxiv.org/abs/2501.15427
+2025-01-28,Feasible Learning,https://arxiv.org/abs/2501.14912
+2025-01-28,Visual Generation Without Guidance,https://arxiv.org/abs/2501.15420
+2025-01-28,Return of the Encoder: Maximizing Parameter Efficiency for SLMs,https://arxiv.org/abs/2501.16273
