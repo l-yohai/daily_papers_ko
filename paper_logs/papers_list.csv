@@ -3875,3 +3875,53 @@ date,title,url
 2025-01-30,People who frequently use ChatGPT for writing tasks are accurate and robust detectors of AI-generated text,https://arxiv.org/abs/2501.15654
 2025-01-30,TAID: Temporally Adaptive Interpolated Distillation for Efficient Knowledge Transfer in Language Models,https://arxiv.org/abs/2501.16937
 2025-01-30,DeepFlow: Serverless Large Language Model Serving at Scale,https://arxiv.org/abs/2501.14417
+2025-02-05,OmniHuman-1: Rethinking the Scaling-Up of One-Stage Conditioned Human Animation Models,https://arxiv.org/abs/2502.01061
+2025-02-05,The Differences Between Direct Alignment Algorithms are a Blur,https://arxiv.org/abs/2502.01237
+2025-02-05,Process Reinforcement through Implicit Rewards,https://arxiv.org/abs/2502.01456
+2025-02-05,Preference Leakage: A Contamination Problem in LLM-as-a-judge,https://arxiv.org/abs/2502.01534
+2025-02-05,AlignVLM: Bridging Vision and Language Latent Spaces for Multimodal Understanding,https://arxiv.org/abs/2502.01341
+2025-02-05,SafeRAG: Benchmarking Security in Retrieval-Augmented Generation of Large Language Model,https://arxiv.org/abs/2501.18636
+2025-02-05,VideoJAM: Joint Appearance-Motion Representations for Enhanced Motion Generation in Video Models,https://arxiv.org/abs/2502.02492
+2025-02-05,MatAnyone: Stable Video Matting with Consistent Memory Propagation,https://arxiv.org/abs/2501.14677
+2025-02-05,Inverse Bridge Matching Distillation,https://arxiv.org/abs/2502.01362
+2025-02-05,SliderSpace: Decomposing the Visual Capabilities of Diffusion Models,https://arxiv.org/abs/2502.01639
+2025-02-05,Self-supervised Quantized Representation for Seamlessly Integrating Knowledge Graphs with Large Language Models,https://arxiv.org/abs/2501.18119
+2025-02-05,MM-IQ: Benchmarking Human-Like Abstraction and Reasoning in Multimodal Models,https://arxiv.org/abs/2502.00698
+2025-02-05,Scalable-Softmax Is Superior for Attention,https://arxiv.org/abs/2501.19399
+2025-02-05,ACECODER: Acing Coder RL via Automated Test-Case Synthesis,https://arxiv.org/abs/2502.01718
+2025-02-05,PixelWorld: Towards Perceiving Everything as Pixels,https://arxiv.org/abs/2501.19339
+2025-02-05,MakeAnything: Harnessing Diffusion Transformers for Multi-Domain Procedural Sequence Generation,https://arxiv.org/abs/2502.01572
+2025-02-05,AIN: The Arabic INclusive Large Multimodal Model,https://arxiv.org/abs/2502.00094
+2025-02-05,FastKV: KV Cache Compression for Fast Long-Context Processing with Token-Selective Propagation,https://arxiv.org/abs/2502.01068
+2025-02-05,Scaling Embedding Layers in Language Models,https://arxiv.org/abs/2502.01637
+2025-02-05,DeepRAG: Thinking to Retrieval Step by Step for Large Language Models,https://arxiv.org/abs/2502.01142
+2025-02-05,QLASS: Boosting Language Agent Inference via Q-Guided Stepwise Search,https://arxiv.org/abs/2502.02584
+2025-02-05,ZebraLogic: On the Scaling Limits of LLMs for Logical Reasoning,https://arxiv.org/abs/2502.01100
+2025-02-05,Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search,https://arxiv.org/abs/2502.02508
+2025-02-05,The Jumping Reasoning Curve? Tracking the Evolution of Reasoning Performance in GPT-[n] and o-[n] Models on Multimodal Puzzles,https://arxiv.org/abs/2502.01081
+2025-02-05,Improving Transformer World Models for Data-Efficient RL,https://arxiv.org/abs/2502.01591
+2025-02-05,Almost Surely Safe Alignment of Large Language Models at Inference-Time,https://arxiv.org/abs/2502.01208
+2025-02-05,PhD Knowledge Not Required: A Reasoning Challenge for Large Language Models,https://arxiv.org/abs/2502.01584
+2025-02-05,Improved Training Technique for Latent Consistency Models,https://arxiv.org/abs/2502.01441
+2025-02-05,RandLoRA: Full-rank parameter-efficient fine-tuning of large models,https://arxiv.org/abs/2502.00987
+2025-02-05,Can LLMs Maintain Fundamental Abilities under KV Cache Compression?,https://arxiv.org/abs/2502.01941
+2025-02-05,COCONut-PanCap: Joint Panoptic Segmentation and Grounded Captions for Fine-Grained Understanding and Generation,https://arxiv.org/abs/2502.02589
+2025-02-05,SAeUron: Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders,https://arxiv.org/abs/2501.18052
+2025-02-05,The Surprising Agreement Between Convex Optimization Theory and Learning-Rate Scheduling for Large Model Training,https://arxiv.org/abs/2501.18965
+2025-02-05,Rethinking Mixture-of-Agents: Is Mixing Different Large Language Models Beneficial?,https://arxiv.org/abs/2502.00674
+2025-02-05,Zero-Shot Novel View and Depth Synthesis with Multi-View Geometric Diffusion,https://arxiv.org/abs/2501.18804
+2025-02-05,Lifelong Sequential Knowledge Editing without Model Degradation,https://arxiv.org/abs/2502.01636
+2025-02-05,Concept Steerers: Leveraging K-Sparse Autoencoders for Controllable Generations,https://arxiv.org/abs/2501.19066
+2025-02-05,Fast Encoder-Based 3D from Casual Videos via Point Track Processing,https://arxiv.org/abs/2404.07097
+2025-02-05,A Study on the Performance of U-Net Modifications in Retroperitoneal Tumor Segmentation,https://arxiv.org/abs/2502.00314
+2025-02-05,LongDPO: Unlock Better Long-form Generation Abilities for LLMs via Critique-augmented Stepwise Information,https://arxiv.org/abs/2502.02095
+2025-02-05,Learning to Generate Unit Tests for Automated Debugging,https://arxiv.org/abs/2502.01619
+2025-02-05,Unraveling the Capabilities of Language Models in News Summarization,https://arxiv.org/abs/2501.18128
+2025-02-05,INT: Instance-Specific Negative Mining for Task-Generic Promptable Segmentation,https://arxiv.org/abs/2501.18753
+2025-02-05,Generating Multi-Image Synthetic Data for Text-to-Image Customization,https://arxiv.org/abs/2502.01720
+2025-02-05,Current Pathology Foundation Models are unrobust to Medical Center Differences,https://arxiv.org/abs/2501.18055
+2025-02-05,Language Models Prefer What They Know: Relative Confidence Estimation via Confidence Preferences,https://arxiv.org/abs/2502.01126
+2025-02-05,ChunkKV: Semantic-Preserving KV Cache Compression for Efficient Long-Context LLM Inference,https://arxiv.org/abs/2502.00299
+2025-02-05,Federated Sketching LoRA: On-Device Collaborative Fine-Tuning of Large Language Models,https://arxiv.org/abs/2501.19389
+2025-02-05,"Sample, Scrutinize and Scale: Effective Inference-Time Search by Scaling Verification",https://arxiv.org/abs/2502.01839
+2025-02-05,Activation Approximations Can Incur Safety Vulnerabilities Even in Aligned LLMs: Comprehensive Analysis and Defense,https://arxiv.org/abs/2502.00840
