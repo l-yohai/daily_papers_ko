@@ -3962,3 +3962,27 @@ date,title,url
 2025-02-07,PlotGen: Multi-Agent LLM-based Scientific Data Visualization via Multimodal Feedback,https://arxiv.org/abs/2502.00988
 2025-02-07,Speak Easy: Eliciting Harmful Jailbreaks from LLMs with Simple Interactions,https://arxiv.org/abs/2502.04322
 2025-02-07,Learning Real-World Action-Video Dynamics with Heterogeneous Masked Autoregression,https://arxiv.org/abs/2502.04296
+2025-02-10,VideoRoPE: What Makes for Good Video Rotary Position Embedding?,https://arxiv.org/abs/2502.05173
+2025-02-10,Fast Video Generation with Sliding Tile Attention,https://arxiv.org/abs/2502.04507
+2025-02-10,Goku: Flow Based Video Generative Foundation Models,https://arxiv.org/abs/2502.04896
+2025-02-10,QuEST: Stable Training of LLMs with 1-Bit Weights and Activations,https://arxiv.org/abs/2502.05003
+2025-02-10,Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach,https://arxiv.org/abs/2502.05171
+2025-02-10,AuraFusion360: Augmented Unseen Region Alignment for Reference-based 360° Unbounded Scene Inpainting,https://arxiv.org/abs/2502.05176
+2025-02-10,DuoGuard: A Two-Player RL-Driven Framework for Multilingual LLM Guardrails,https://arxiv.org/abs/2502.05163
+2025-02-10,Agency Is Frame-Dependent,https://arxiv.org/abs/2502.04403
+2025-02-10,Generating Symbolic World Models via Test-time Scaling of Large Language Models,https://arxiv.org/abs/2502.04728
+2025-02-10,FlashVideo:Flowing Fidelity to Detail for Efficient High-Resolution Video Generation,https://arxiv.org/abs/2502.05179
+2025-02-10,No Task Left Behind: Isotropic Model Merging with Common and Task-Specific Subspaces,https://arxiv.org/abs/2502.04959
+2025-02-10,Linear Correlation in LM's Compositional Generalization and Hallucination,https://arxiv.org/abs/2502.04520
+2025-02-10,Step Back to Leap Forward: Self-Backtracking for Boosting Reasoning of Language Models,https://arxiv.org/abs/2502.04404
+2025-02-10,CMoE: Fast Carving of Mixture-of-Experts for Efficient LLM Inference,https://arxiv.org/abs/2502.04416
+2025-02-10,"Scaling Laws in Patchification: An Image Is Worth 50,176 Tokens And More",https://arxiv.org/abs/2502.03738
+2025-02-10,On-device Sora: Enabling Diffusion-Based Text-to-Video Generation for Mobile Devices,https://arxiv.org/abs/2502.04363
+2025-02-10,QLIP: Text-Aligned Visual Tokenization Unifies Auto-Regressive Multimodal Understanding and Generation,https://arxiv.org/abs/2502.05178
+2025-02-10,Lost in Time: Clock and Calendar Understanding Challenges in Multimodal LLMs,https://arxiv.org/abs/2502.05092
+2025-02-10,CodeSteer: Symbolic-Augmented Language Models via Code/Text Guidance,https://arxiv.org/abs/2502.04350
+2025-02-10,YINYANG-ALIGN: Benchmarking Contradictory Objectives and Proposing Multi-Objective Optimization based DPO for Text-to-Image Alignment,https://arxiv.org/abs/2502.03512
+2025-02-10,Value-Based Deep RL Scales Predictably,https://arxiv.org/abs/2502.04327
+2025-02-10,MEETING DELEGATE: Benchmarking LLMs on Attending Meetings on Our Behalf,https://arxiv.org/abs/2502.04376
+2025-02-10,"ARR: Question Answering with Large Language Models via Analyzing, Retrieving, and Reasoning",https://arxiv.org/abs/2502.04689
+2025-02-10,Continuous 3D Perception Model with Persistent State,https://arxiv.org/abs/2501.12387
