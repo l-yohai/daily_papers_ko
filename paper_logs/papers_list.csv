@@ -3986,3 +3986,30 @@ date,title,url
 2025-02-10,MEETING DELEGATE: Benchmarking LLMs on Attending Meetings on Our Behalf,https://arxiv.org/abs/2502.04376
 2025-02-10,"ARR: Question Answering with Large Language Models via Analyzing, Retrieving, and Reasoning",https://arxiv.org/abs/2502.04689
 2025-02-10,Continuous 3D Perception Model with Persistent State,https://arxiv.org/abs/2501.12387
+2025-02-11,SynthDetoxM: Modern LLMs are Few-Shot Parallel Detoxification Data Annotators,https://arxiv.org/abs/2502.06394
+2025-02-11,Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling,https://arxiv.org/abs/2502.06703
+2025-02-11,Exploring the Limit of Outcome Reward for Learning Mathematical Reasoning,https://arxiv.org/abs/2502.06781
+2025-02-11,Training Language Models for Social Deduction with Multi-Agent Reinforcement Learning,https://arxiv.org/abs/2502.06060
+2025-02-11,CODESIM: Multi-Agent Code Generation and Problem Solving through Simulation-Driven Planning and Debugging,https://arxiv.org/abs/2502.05664
+2025-02-11,LM2: Large Memory Models,https://arxiv.org/abs/2502.06049
+2025-02-11,Show-o Turbo: Towards Accelerated Unified Multimodal Understanding and Generation,https://arxiv.org/abs/2502.05415
+2025-02-11,Lossless Acceleration of Large Language Models with Hierarchical Drafting based on Temporal Locality in Speculative Decoding,https://arxiv.org/abs/2502.05609
+2025-02-11,ReasonFlux: Hierarchical LLM Reasoning via Scaling Thought Templates,https://arxiv.org/abs/2502.06772
+2025-02-11,Matryoshka Quantization,https://arxiv.org/abs/2502.06786
+2025-02-11,The Hidden Life of Tokens: Reducing Hallucination of Large Vision-Language Models via Visual Information Steering,https://arxiv.org/abs/2502.03628
+2025-02-11,EVEv2: Improved Baselines for Encoder-Free Vision-Language Models,https://arxiv.org/abs/2502.06788
+2025-02-11,History-Guided Video Diffusion,https://arxiv.org/abs/2502.06764
+2025-02-11,Lumina-Video: Efficient and Flexible Video Generation with Multi-scale Next-DiT,https://arxiv.org/abs/2502.06782
+2025-02-11,MetaChain: A Fully-Automated and Zero-Code Framework for LLM Agents,https://arxiv.org/abs/2502.05957
+2025-02-11,Dual Caption Preference Optimization for Diffusion Models,https://arxiv.org/abs/2502.06023
+2025-02-11,The Curse of Depth in Large Language Models,https://arxiv.org/abs/2502.05795
+2025-02-11,Efficient-vDiT: Efficient Video Diffusion Transformers With Attention Tile,https://arxiv.org/abs/2502.06155
+2025-02-11,CustomVideoX: 3D Reference Attention Driven Dynamic Adaptation for Zero-Shot Customized Video Diffusion Transformers,https://arxiv.org/abs/2502.06527
+2025-02-11,APE: Faster and Longer Context-Augmented Generation via Adaptive Parallel Encoding,https://arxiv.org/abs/2502.05431
+2025-02-11,Steel-LLM:From Scratch to Open Source -- A Personal Journey in Building a Chinese-Centric LLM,https://arxiv.org/abs/2502.06635
+2025-02-11,DreamDPO: Aligning Text-to-3D Generation with Human Preferences via Direct Preference Optimization,https://arxiv.org/abs/2502.04370
+2025-02-11,Adaptive Semantic Prompt Caching with VectorQ,https://arxiv.org/abs/2502.03771
+2025-02-11,SPARC: Subspace-Aware Prompt Adaptation for Robust Continual Learning in LLMs,https://arxiv.org/abs/2502.02909
+2025-02-11,Towards Internet-Scale Training For Agents,https://arxiv.org/abs/2502.06776
+2025-02-11,Intelligent Sensing-to-Action for Robust Autonomy at the Edge: Opportunities and Challenges,https://arxiv.org/abs/2502.02692
+2025-02-11,Embodied Red Teaming for Auditing Robotic Foundation Models,https://arxiv.org/abs/2411.18676
