@@ -4013,3 +4013,30 @@ date,title,url
 2025-02-11,Towards Internet-Scale Training For Agents,https://arxiv.org/abs/2502.06776
 2025-02-11,Intelligent Sensing-to-Action for Robust Autonomy at the Edge: Opportunities and Challenges,https://arxiv.org/abs/2502.02692
 2025-02-11,Embodied Red Teaming for Auditing Robotic Foundation Models,https://arxiv.org/abs/2411.18676
+2025-02-12,Expect the Unexpected: FailSafe Long Context QA for Finance,https://arxiv.org/abs/2502.06329
+2025-02-12,Competitive Programming with Large Reasoning Models,https://arxiv.org/abs/2502.06807
+2025-02-12,Retrieval-augmented Large Language Models for Financial Time Series Forecasting,https://arxiv.org/abs/2502.05878
+2025-02-12,CodeI/O: Condensing Reasoning Patterns via Code Input-Output Prediction,https://arxiv.org/abs/2502.07316
+2025-02-12,Magic 1-For-1: Generating One Minute Video Clips within One Minute,https://arxiv.org/abs/2502.07701
+2025-02-12,"LLMs Can Easily Learn to Reason from Demonstrations Structure, not content, is what matters!",https://arxiv.org/abs/2502.07374
+2025-02-12,Gemstones: A Model Suite for Multi-Faceted Scaling Laws,https://arxiv.org/abs/2502.06857
+2025-02-12,Teaching Language Models to Critique via Reinforcement Learning,https://arxiv.org/abs/2502.03492
+2025-02-12,Scaling Pre-training to One Hundred Billion Data for Vision Language Models,https://arxiv.org/abs/2502.07617
+2025-02-12,Enhance-A-Video: Better Generated Video for Free,https://arxiv.org/abs/2502.07508
+2025-02-12,Hephaestus: Improving Fundamental Agent Capabilities of Large Language Models through Continual Pre-Training,https://arxiv.org/abs/2502.06589
+2025-02-12,Éclair -- Extracting Content and Layout with Integrated Reading Order for Documents,https://arxiv.org/abs/2502.04223
+2025-02-12,NatureLM: Deciphering the Language of Nature for Scientific Discovery,https://arxiv.org/abs/2502.07527
+2025-02-12,CAD-Editor: A Locate-then-Infill Framework with Automated Training Data Synthesis for Text-Based CAD Editing,https://arxiv.org/abs/2502.03997
+2025-02-12,Mask-Enhanced Autoregressive Prediction: Pay Less Attention to Learn More,https://arxiv.org/abs/2502.07490
+2025-02-12,"VidCRAFT3: Camera, Object, and Lighting Control for Image-to-Video Generation",https://arxiv.org/abs/2502.07531
+2025-02-12,CoS: Chain-of-Shot Prompting for Long Video Understanding,https://arxiv.org/abs/2502.06428
+2025-02-12,Hypencoder: Hypernetworks for Information Retrieval,https://arxiv.org/abs/2502.05364
+2025-02-12,Pippo: High-Resolution Multi-View Humans from a Single Image,https://arxiv.org/abs/2502.07785
+2025-02-12,Forget What You Know about LLMs Evaluations - LLMs are Like a Chameleon,https://arxiv.org/abs/2502.07445
+2025-02-12,Jakiro: Boosting Speculative Decoding with Decoupled Multi-Head via MoE,https://arxiv.org/abs/2502.06282
+2025-02-12,Sparse Autoencoders for Scientifically Rigorous Interpretation of Vision Models,https://arxiv.org/abs/2502.06755
+2025-02-12,Auditing Prompt Caching in Language Model APIs,https://arxiv.org/abs/2502.07776
+2025-02-12,Skill Expansion and Composition in Parameter Space,https://arxiv.org/abs/2502.05932
+2025-02-12,FocalCodec: Low-Bitrate Speech Coding via Focal Modulation Networks,https://arxiv.org/abs/2502.04465
+2025-02-12,Goedel-Prover: A Frontier Model for Open-Source Automated Theorem Proving,https://arxiv.org/abs/2502.07640
+2025-02-12,Forbidden Science: Dual-Use AI Challenge Benchmark and Scientific Refusal Tests,https://arxiv.org/abs/2502.06867
