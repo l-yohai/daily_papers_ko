@@ -27,7 +27,7 @@ async def get_paper_full_content_async(paper_url: str, session: aiohttp.ClientSe
         text = page.get_text()
         full_content += text
 
-    encoded_text = encoding.encode(full_content)
+    encoded_text = encoding.encode(full_content, disallowed_special=())
     if len(encoded_text) > 100_000:
         encoded_text = encoded_text[:100_000]
         full_content = encoding.decode(encoded_text)
