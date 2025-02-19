@@ -4107,3 +4107,41 @@ date,title,url
 2025-02-17,V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multi-Modal Large Language Models,https://arxiv.org/abs/2502.09980
 2025-02-17,CLaMP 3: Universal Music Information Retrieval Across Unaligned Modalities and Unseen Languages,https://arxiv.org/abs/2502.10362
 2025-02-17,Agentic End-to-End De Novo Protein Design for Tailored Dynamics Using a Language Diffusion Model,https://arxiv.org/abs/2502.10173
+2025-02-19,Native Sparse Attention: Hardware-Aligned and Natively Trainable Sparse Attention,https://arxiv.org/abs/2502.11089
+2025-02-19,Learning Getting-Up Policies for Real-World Humanoid Robots,https://arxiv.org/abs/2502.12152
+2025-02-19,SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?,https://arxiv.org/abs/2502.12115
+2025-02-19,ReLearn: Unlearning via Learning for Large Language Models,https://arxiv.org/abs/2502.11190
+2025-02-19,CRANE: Reasoning with constrained LLM generation,https://arxiv.org/abs/2502.09061
+2025-02-19,IHEval: Evaluating Language Models on Following the Instruction Hierarchy,https://arxiv.org/abs/2502.08745
+2025-02-19,HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and Generation,https://arxiv.org/abs/2502.12148
+2025-02-19,How Do LLMs Acquire New Knowledge? A Knowledge Circuits Perspective on Continual Pre-Training,https://arxiv.org/abs/2502.11196
+2025-02-19,SURGE: On the Potential of Large Language Models as General-Purpose Surrogate Code Executors,https://arxiv.org/abs/2502.11167
+2025-02-19,"I Think, Therefore I Diffuse: Enabling Multimodal In-Context Reasoning in Diffusion Models",https://arxiv.org/abs/2502.10458
+2025-02-19,Diffusion-Sharpening: Fine-tuning Diffusion Models with Denoising Trajectory Sharpening,https://arxiv.org/abs/2502.12146
+2025-02-19,The Mirage of Model Editing: Revisiting Evaluation in the Wild,https://arxiv.org/abs/2502.11177
+2025-02-19,Intuitive physics understanding emerges from self-supervised pretraining on natural videos,https://arxiv.org/abs/2502.11831
+2025-02-19,SAFE-SQL: Self-Augmented In-Context Learning with Fine-grained Example Selection for Text-to-SQL,https://arxiv.org/abs/2502.11438
+2025-02-19,Explorer: Scaling Exploration-driven Web Trajectory Synthesis for Multimodal Web Agents,https://arxiv.org/abs/2502.11357
+2025-02-19,MagicArticulate: Make Your 3D Models Articulation-Ready,https://arxiv.org/abs/2502.12135
+2025-02-19,video-SALMONN-o1: Reasoning-enhanced Audio-visual Large Language Model,https://arxiv.org/abs/2502.11775
+2025-02-19,Cuckoo: An IE Free Rider Hatched by Massive Nutrition in LLM's Nest,https://arxiv.org/abs/2502.11275
+2025-02-19,Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation,https://arxiv.org/abs/2502.08826
+2025-02-19,Building A Proof-Oriented Programmer That Is 64% Better Than GPT-4o Under Data Scarsity,https://arxiv.org/abs/2502.11901
+2025-02-19,Dyve: Thinking Fast and Slow for Dynamic Process Verification,https://arxiv.org/abs/2502.11157
+2025-02-19,"Talk Structurally, Act Hierarchically: A Collaborative Framework for LLM Multi-Agent Systems",https://arxiv.org/abs/2502.11098
+2025-02-19,PhysReason: A Comprehensive Benchmark towards Physics-Based Reasoning,https://arxiv.org/abs/2502.12054
+2025-02-19,System Message Generation for User Preferences using Open-Source Models,https://arxiv.org/abs/2502.11330
+2025-02-19,"Memory, Benchmark & Robots: A Benchmark for Solving Complex Tasks with Reinforcement Learning",https://arxiv.org/abs/2502.10550
+2025-02-19,"One Example Shown, Many Concepts Known! Counterexample-Driven Conceptual Reasoning in Mathematical LLMs",https://arxiv.org/abs/2502.10454
+2025-02-19,Can a Single Model Master Both Multi-turn Conversations and Tool Use? CALM: A Unified Conversational Agentic Language Model,https://arxiv.org/abs/2502.08820
+2025-02-19,ILIAS: Instance-Level Image retrieval At Scale,https://arxiv.org/abs/2502.11748
+2025-02-19,EQ-VAE: Equivariance Regularized Latent Space for Improved Generative Image Modeling,https://arxiv.org/abs/2502.09509
+2025-02-19,Towards Data-Efficient Pretraining for Atomic Property Prediction,https://arxiv.org/abs/2502.11085
+2025-02-19,Large Language Models and Mathematical Reasoning Failures,https://arxiv.org/abs/2502.11574
+2025-02-19,Diffusion Models without Classifier-free Guidance,https://arxiv.org/abs/2502.12154
+2025-02-19,Data Valuation using Neural Networks for Efficient Instruction Fine-Tuning,https://arxiv.org/abs/2502.09969
+2025-02-19,Show Me the Work: Fact-Checkers' Requirements for Explainable Automated Fact-Checking,https://arxiv.org/abs/2502.09083
+2025-02-19,Better Embeddings with Coupled Adam,https://arxiv.org/abs/2502.08441
+2025-02-19,ExaGPT: Example-Based Machine-Generated Text Detection for Human Interpretability,https://arxiv.org/abs/2502.11336
+2025-02-19,Language Complexity Measurement as a Noisy Zero-Shot Proxy for Evaluating LLM Performance,https://arxiv.org/abs/2502.11578
+2025-02-19,Sailor2: Sailing in South-East Asia with Inclusive Multilingual LLMs,https://arxiv.org/abs/2502.12982
