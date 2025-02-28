@@ -4349,3 +4349,26 @@ date,title,url
 2025-02-27,Scaling LLM Pre-training with Vocabulary Curriculum,https://arxiv.org/abs/2502.17910
 2025-02-27,PosterSum: A Multimodal Benchmark for Scientific Poster Summarization,https://arxiv.org/abs/2502.17540
 2025-02-27,DOEI: Dual Optimization of Embedding Information for Attention-Enhanced Class Activation Maps,https://arxiv.org/abs/2502.15885
+2025-02-28,Self-rewarding correction for mathematical reasoning,https://arxiv.org/abs/2502.19613
+2025-02-28,MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning,https://arxiv.org/abs/2502.19634
+2025-02-28,R2-T2: Re-Routing in Test-Time for Multimodal Mixture-of-Experts,https://arxiv.org/abs/2502.20395
+2025-02-28,LongRoPE2: Near-Lossless LLM Context Window Scaling,https://arxiv.org/abs/2502.20082
+2025-02-28,FINEREASON: Evaluating and Improving LLMs' Deliberate Reasoning through Reflective Puzzle Solving,https://arxiv.org/abs/2502.20238
+2025-02-28,CODESYNC: Synchronizing Large Language Models with Dynamic Code Evolution at Scale,https://arxiv.org/abs/2502.16645
+2025-02-28,UniTok: A Unified Tokenizer for Visual Generation and Understanding,https://arxiv.org/abs/2502.20321
+2025-02-28,NeoBERT: A Next-Generation BERT,https://arxiv.org/abs/2502.19587
+2025-02-28,Multimodal Representation Alignment for Image Generation: Text-Image Interleaved Control Is Easier Than You Think,https://arxiv.org/abs/2502.20172
+2025-02-28,Lean and Mean: Decoupled Value Policy Optimization with Global Value Guidance,https://arxiv.org/abs/2502.16944
+2025-02-28,FlexiDiT: Your Diffusion Transformer Can Easily Generate High-Quality Samples with Less Compute,https://arxiv.org/abs/2502.20126
+2025-02-28,Guardians of the Agentic System: Preventing Many Shots Jailbreak with Agentic System,https://arxiv.org/abs/2502.16750
+2025-02-28,SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning,https://arxiv.org/abs/2502.20127
+2025-02-28,Mobius: Text to Seamless Looping Video Generation via Latent Shift,https://arxiv.org/abs/2502.20307
+2025-02-28,Building Interactable Replicas of Complex Articulated Objects via Gaussian Splatting,https://arxiv.org/abs/2502.19459
+2025-02-28,R1-T1: Fully Incentivizing Translation Capability in LLMs via Reasoning Learning,https://arxiv.org/abs/2502.19735
+2025-02-28,Beyond Next-Token: Next-X Prediction for Autoregressive Visual Generation,https://arxiv.org/abs/2502.20388
+2025-02-28,On Relation-Specific Neurons in Large Language Models,https://arxiv.org/abs/2502.17355
+2025-02-28,Training Consistency Models with Variational Noise Coupling,https://arxiv.org/abs/2502.18197
+2025-02-28,MMKE-Bench: A Multimodal Editing Benchmark for Diverse Visual Knowledge,https://arxiv.org/abs/2502.19870
+2025-02-28,Adapting Automatic Speech Recognition for Accented Air Traffic Control Communications,https://arxiv.org/abs/2502.20311
+2025-02-28,Efficient Gaussian Splatting for Monocular Dynamic Scene Rendering via Sparse Time-Variant Attribute Modeling,https://arxiv.org/abs/2502.20378
+2025-02-28,PlanGEN: A Multi-Agent Framework for Generating Planning and Reasoning Trajectories for Complex Problem Solving,https://arxiv.org/abs/2502.16111
