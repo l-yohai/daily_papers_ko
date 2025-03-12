@@ -4510,3 +4510,53 @@ date,title,url
 2025-03-10,EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test,https://arxiv.org/abs/2503.01840
 2025-03-10,LoRACode: LoRA Adapters for Code Embeddings,https://arxiv.org/abs/2503.05315
 2025-03-10,AnyAnomaly: Zero-Shot Customizable Video Anomaly Detection with LVLM,https://arxiv.org/abs/2503.04504
+2025-03-12,"Crowdsource, Crawl, or Generate? Creating SEA-VL, a Multicultural Vision-Language Dataset for Southeast Asia",https://arxiv.org/abs/2503.07920
+2025-03-12,LMM-R1: Empowering 3B LMMs with Strong Reasoning Abilities Through Two-Stage Rule-Based RL,https://arxiv.org/abs/2503.07536
+2025-03-12,YuE: Scaling Open Foundation Models for Long-Form Music Generation,https://arxiv.org/abs/2503.08638
+2025-03-12,MagicInfinite: Generating Infinite Talking Videos with Your Words and Voice,https://arxiv.org/abs/2503.05978
+2025-03-12,UniF^2ace: Fine-grained Face Understanding and Generation with Unified Multimodal Models,https://arxiv.org/abs/2503.08120
+2025-03-12,SegAgent: Exploring Pixel Understanding Capabilities in MLLMs by Imitating Human Annotator Trajectories,https://arxiv.org/abs/2503.08625
+2025-03-12,VACE: All-in-One Video Creation and Editing,https://arxiv.org/abs/2503.07598
+2025-03-12,Seedream 2.0: A Native Chinese-English Bilingual Image Generation Foundation Model,https://arxiv.org/abs/2503.07703
+2025-03-12,Video Action Differencing,https://arxiv.org/abs/2503.07860
+2025-03-12,Gemini Embedding: Generalizable Embeddings from Gemini,https://arxiv.org/abs/2503.07891
+2025-03-12,Optimizing Test-Time Compute via Meta Reinforcement Fine-Tuning,https://arxiv.org/abs/2503.07572
+2025-03-12,Implicit Reasoning in Transformers is Reasoning through Shortcuts,https://arxiv.org/abs/2503.07604
+2025-03-12,Tuning-Free Multi-Event Long Video Generation via Synchronized Coupled Sampling,https://arxiv.org/abs/2503.08605
+2025-03-12,LightGen: Efficient Image Generation through Knowledge Distillation and Direct Preference Optimization,https://arxiv.org/abs/2503.08619
+2025-03-12,OmniMamba: Efficient and Unified Multimodal Understanding and Generation via State Space Models,https://arxiv.org/abs/2503.08686
+2025-03-12,Exploiting Instruction-Following Retrievers for Malicious Information Retrieval,https://arxiv.org/abs/2503.08644
+2025-03-12,Unleashing the Potential of Large Language Models for Text-to-Image Generation through Autoregressive Representation Alignment,https://arxiv.org/abs/2503.07334
+2025-03-12,CineBrain: A Large-Scale Multi-Modal Brain Dataset During Naturalistic Audiovisual Narrative Processing,https://arxiv.org/abs/2503.06940
+2025-03-12,Robusto-1 Dataset: Comparing Humans and VLMs on real out-of-distribution Autonomous Driving VQA from Peru,https://arxiv.org/abs/2503.07587
+2025-03-12,^RFLAV: Rolling Flow matching for infinite Audio Video generation,https://arxiv.org/abs/2503.08307
+2025-03-12,BiasEdit: Debiasing Stereotyped Language Models via Model Editing,https://arxiv.org/abs/2503.08588
+2025-03-12,"""Principal Components"" Enable A New Language of Images",https://arxiv.org/abs/2503.08685
+2025-03-12,Perplexity Trap: PLM-Based Retrievers Overrate Low Perplexity Documents,https://arxiv.org/abs/2503.08684
+2025-03-12,RayFlow: Instance-Aware Diffusion Acceleration via Adaptive Flow Trajectories,https://arxiv.org/abs/2503.07699
+2025-03-12,"Benchmarking AI Models in Software Engineering: A Review, Search Tool, and Enhancement Protocol",https://arxiv.org/abs/2503.05860
+2025-03-12,QuoTA: Query-oriented Token Assignment via CoT Query Decouple for Long Video Comprehension,https://arxiv.org/abs/2503.08689
+2025-03-12,AnyMoLe: Any Character Motion In-betweening Leveraging Video Diffusion Models,https://arxiv.org/abs/2503.08417
+2025-03-12,Referring to Any Person,https://arxiv.org/abs/2503.08507
+2025-03-12,DiffCLIP: Differential Attention Meets CLIP,https://arxiv.org/abs/2503.06626
+2025-03-12,Evaluating Intelligence via Trial and Error,https://arxiv.org/abs/2502.18858
+2025-03-12,VisualSimpleQA: A Benchmark for Decoupled Evaluation of Large Vision-Language Models in Fact-Seeking Question Answering,https://arxiv.org/abs/2503.06492
+2025-03-12,Beyond Decoder-only: Large Language Models Can be Good Encoders for Machine Translation,https://arxiv.org/abs/2503.06594
+2025-03-12,"Promote, Suppress, Iterate: How Language Models Answer One-to-Many Factual Queries",https://arxiv.org/abs/2502.20475
+2025-03-12,AI-native Memory 2.0: Second Me,https://arxiv.org/abs/2503.08102
+2025-03-12,NullFace: Training-Free Localized Face Anonymization,https://arxiv.org/abs/2503.08478
+2025-03-12,Capacity-Aware Inference: Mitigating the Straggler Effect in Mixture of Experts,https://arxiv.org/abs/2503.05066
+2025-03-12,Mixture of Experts Made Intrinsically Interpretable,https://arxiv.org/abs/2503.07639
+2025-03-12,TRCE: Towards Reliable Malicious Concept Erasure in Text-to-Image Diffusion Models,https://arxiv.org/abs/2503.07389
+2025-03-12,A Data-Centric Revisit of Pre-Trained Vision Models for Robot Learning,https://arxiv.org/abs/2503.06960
+2025-03-12,PhiloBERTA: A Transformer-Based Cross-Lingual Analysis of Greek and Latin Lexicons,https://arxiv.org/abs/2503.05265
+2025-03-12,Ideas in Inference-time Scaling can Benefit Generative Pre-training Algorithms,https://arxiv.org/abs/2503.07154
+2025-03-12,"Feynman-Kac Correctors in Diffusion: Annealing, Guidance, and Product of Experts",https://arxiv.org/abs/2503.02819
+2025-03-12,Symbolic Mixture-of-Experts: Adaptive Skill-based Routing for Heterogeneous Reasoning,https://arxiv.org/abs/2503.05641
+2025-03-12,REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding,https://arxiv.org/abs/2503.07413
+2025-03-12,Next Token Is Enough: Realistic Image Quality and Aesthetic Scoring with Multimodal Large Language Model,https://arxiv.org/abs/2503.06141
+2025-03-12,What's in a Latent? Leveraging Diffusion Latent Space for Domain Generalization,https://arxiv.org/abs/2503.06698
+2025-03-12,Inductive Moment Matching,https://arxiv.org/abs/2503.07565
+2025-03-12,"Collapse of Dense Retrievers: Short, Early, and Literal Biases Outranking Factual Evidence",https://arxiv.org/abs/2503.05037
+2025-03-12,ObjectMover: Generative Object Movement with Video Prior,https://arxiv.org/abs/2503.08037
+2025-03-12,OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction,https://arxiv.org/abs/2503.03734
