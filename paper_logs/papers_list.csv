@@ -4560,3 +4560,27 @@ date,title,url
 2025-03-12,"Collapse of Dense Retrievers: Short, Early, and Literal Biases Outranking Factual Evidence",https://arxiv.org/abs/2503.05037
 2025-03-12,ObjectMover: Generative Object Movement with Video Prior,https://arxiv.org/abs/2503.08037
 2025-03-12,OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction,https://arxiv.org/abs/2503.03734
+2025-03-13,TPDiff: Temporal Pyramid Video Diffusion Model,https://arxiv.org/abs/2503.09566
+2025-03-13,Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models,https://arxiv.org/abs/2503.09573
+2025-03-13,Reangle-A-Video: 4D Video Generation as Video-to-Video Translation,https://arxiv.org/abs/2503.09151
+2025-03-13,GTR: Guided Thought Reinforcement Prevents Thought Collapse in RL-based VLM Agent Training,https://arxiv.org/abs/2503.08525
+2025-03-13,"More Documents, Same Length: Isolating the Challenge of Multiple Documents in RAG",https://arxiv.org/abs/2503.04388
+2025-03-13,RewardSDS: Aligning Score Distillation via Reward-Weighted Sampling,https://arxiv.org/abs/2503.09601
+2025-03-13,Motion Anything: Any to Motion Generation,https://arxiv.org/abs/2503.06955
+2025-03-13,Quantizing Large Language Models for Code Generation: A Differentiated Replication,https://arxiv.org/abs/2503.07103
+2025-03-13,WildIFEval: Instruction Following in the Wild,https://arxiv.org/abs/2503.06573
+2025-03-13,LocAgent: Graph-Guided LLM Agents for Code Localization,https://arxiv.org/abs/2503.09089
+2025-03-13,VLog: Video-Language Models by Generative Retrieval of Narration Vocabulary,https://arxiv.org/abs/2503.09402
+2025-03-13,Cost-Optimal Grouped-Query Attention for Long-Context LLMs,https://arxiv.org/abs/2503.09579
+2025-03-13,Self-Taught Self-Correction for Small Language Models,https://arxiv.org/abs/2503.08681
+2025-03-13,Alias-Free Latent Diffusion Models:Improving Fractional Shift Equivariance of Diffusion Latent Space,https://arxiv.org/abs/2503.09419
+2025-03-13,When Large Vision-Language Model Meets Large Remote Sensing Imagery: Coarse-to-Fine Text-Guided Token Pruning,https://arxiv.org/abs/2503.07588
+2025-03-13,Multi Agent based Medical Assistant for Edge Devices,https://arxiv.org/abs/2503.05397
+2025-03-13,Multimodal Language Modeling for High-Accuracy Single Cell Transcriptomics Analysis and Generation,https://arxiv.org/abs/2503.09427
+2025-03-13,BIMBA: Selective-Scan Compression for Long-Range Video Question Answering,https://arxiv.org/abs/2503.09590
+2025-03-13,MoC: Mixtures of Text Chunking Learners for Retrieval-Augmented Generation System,https://arxiv.org/abs/2503.09600
+2025-03-13,PlainQAFact: Automatic Factuality Evaluation Metric for Biomedical Plain Language Summaries Generation,https://arxiv.org/abs/2503.08890
+2025-03-13,Monte Carlo Diffusion for Generalizable Learning-Based RANSAC,https://arxiv.org/abs/2503.09410
+2025-03-13,Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning,https://arxiv.org/abs/2503.09516
+2025-03-13,Understanding and Mitigating Distribution Shifts For Machine Learning Force Fields,https://arxiv.org/abs/2503.08674
+2025-03-13,PhysicsGen: Can Generative Models Learn from Images to Predict Complex Physical Relations?,https://arxiv.org/abs/2503.05333
