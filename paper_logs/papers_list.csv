@@ -4584,3 +4584,41 @@ date,title,url
 2025-03-13,Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning,https://arxiv.org/abs/2503.09516
 2025-03-13,Understanding and Mitigating Distribution Shifts For Machine Learning Force Fields,https://arxiv.org/abs/2503.08674
 2025-03-13,PhysicsGen: Can Generative Models Learn from Images to Predict Complex Physical Relations?,https://arxiv.org/abs/2503.05333
+2025-03-14,CoSTAast: Cost-Sensitive Toolpath Agent for Multi-turn Image Editing,https://arxiv.org/abs/2503.10613
+2025-03-14,Transformers without Normalization,https://arxiv.org/abs/2503.10622
+2025-03-14,Charting and Navigating Hugging Face's Model Atlas,https://arxiv.org/abs/2503.10633
+2025-03-14,World Modeling Makes a Better Planner: Dual Preference Optimization for Embodied Task Planning,https://arxiv.org/abs/2503.10480
+2025-03-14,Silent Branding Attack: Trigger-free Data Poisoning Attack on Text-to-Image Diffusion Models,https://arxiv.org/abs/2503.09669
+2025-03-14,"CoRe^2: Collect, Reflect and Refine to Generate Better and Faster",https://arxiv.org/abs/2503.09662
+2025-03-14,GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing,https://arxiv.org/abs/2503.10639
+2025-03-14,VisualPRM: An Effective Process Reward Model for Multimodal Reasoning,https://arxiv.org/abs/2503.10291
+2025-03-14,OmniPaint: Mastering Object-Oriented Editing via Disentangled Insertion-Removal Inpainting,https://arxiv.org/abs/2503.08677
+2025-03-14,Shifting Long-Context LLMs Research from Input to Output,https://arxiv.org/abs/2503.04723
+2025-03-14,GroundingSuite: Measuring Complex Multi-Granular Pixel Grounding,https://arxiv.org/abs/2503.10596
+2025-03-14,New Trends for Modern Machine Translation with Large Reasoning Models,https://arxiv.org/abs/2503.10351
+2025-03-14,4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models,https://arxiv.org/abs/2503.10437
+2025-03-14,VisualWebInstruct: Scaling up Multimodal Instruction Data through Web Search,https://arxiv.org/abs/2503.10582
+2025-03-14,DiT-Air: Revisiting the Efficiency of Diffusion Model Architecture Design in Text to Image Generation,https://arxiv.org/abs/2503.10618
+2025-03-14,"Light-R1: Curriculum SFT, DPO and RL for Long COT from Scratch and Beyond",https://arxiv.org/abs/2503.10460
+2025-03-14,Open-Sora 2.0: Training a Commercial-Level Video Generation Model in $200k,https://arxiv.org/abs/2503.09642
+2025-03-14,Long Context Tuning for Video Generation,https://arxiv.org/abs/2503.10589
+2025-03-14,Do I look like a `cat.n.01` to you? A Taxonomy Image Generation Benchmark,https://arxiv.org/abs/2503.10357
+2025-03-14,R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization,https://arxiv.org/abs/2503.10615
+2025-03-14,SANA-Sprint: One-Step Diffusion with Continuous-Time Consistency Distillation,https://arxiv.org/abs/2503.09641
+2025-03-14,Communication-Efficient Language Model Training Scales Reliably and Robustly: Scaling Laws for DiLoCo,https://arxiv.org/abs/2503.09799
+2025-03-14,Distilling Diversity and Control in Diffusion Models,https://arxiv.org/abs/2503.10637
+2025-03-14,CINEMA: Coherent Multi-Subject Video Generation via MLLM-Based Guidance,https://arxiv.org/abs/2503.10391
+2025-03-14,Quantization for OpenAI's Whisper Models: A Comparative Analysis,https://arxiv.org/abs/2503.09905
+2025-03-14,Discovering Influential Neuron Path in Vision Transformers,https://arxiv.org/abs/2503.09046
+2025-03-14,UniGoal: Towards Universal Zero-shot Goal-oriented Navigation,https://arxiv.org/abs/2503.10630
+2025-03-14,Autoregressive Image Generation with Randomized Parallel Decoding,https://arxiv.org/abs/2503.10568
+2025-03-14,On the Limitations of Vision-Language Models in Understanding Image Transforms,https://arxiv.org/abs/2503.09837
+2025-03-14,ConsisLoRA: Enhancing Content and Style Consistency for LoRA-based Style Transfer,https://arxiv.org/abs/2503.10614
+2025-03-14,Piece it Together: Part-Based Concepting with IP-Priors,https://arxiv.org/abs/2503.10365
+2025-03-14,The Curse of Conditions: Analyzing and Improving Optimal Transport for Conditional Flow-Based Generation,https://arxiv.org/abs/2503.10636
+2025-03-14,"""Silent Is Not Actually Silent"": An Investigation of Toxicity on Bug Report Discussion",https://arxiv.org/abs/2503.10072
+2025-03-14,Studying Classifier(-Free) Guidance From a Classifier-Centric Perspective,https://arxiv.org/abs/2503.10638
+2025-03-14,MinorBench: A hand-built benchmark for content-based risks for children,https://arxiv.org/abs/2503.10242
+2025-03-14,PerCoV2: Improved Ultra-Low Bit-Rate Perceptual Image Compression with Implicit Hierarchical Masked Image Modeling,https://arxiv.org/abs/2503.09368
+2025-03-14,A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1,https://arxiv.org/abs/2503.10635
+2025-03-14,TruthPrInt: Mitigating LVLM Object Hallucination Via Latent Truthful-Guided Pre-Intervention,https://arxiv.org/abs/2503.10602
