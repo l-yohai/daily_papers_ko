@@ -4623,3 +4623,29 @@ date,title,url
 2025-03-14,A Frustratingly Simple Yet Highly Effective Attack Baseline: Over 90% Success Rate Against the Strong Black-box Models of GPT-4.5/4o/o1,https://arxiv.org/abs/2503.10635
 2025-03-14,TruthPrInt: Mitigating LVLM Object Hallucination Via Latent Truthful-Guided Pre-Intervention,https://arxiv.org/abs/2503.10602
 2025-03-15,PoseLess: Depth-Free Vision-to-Joint Control via Direct Image Mapping with VLM,https://arxiv.org/abs/2503.07111
+2025-03-17,ReCamMaster: Camera-Controlled Generative Rendering from A Single Video,https://arxiv.org/abs/2503.11647
+2025-03-17,PLADIS: Pushing the Limits of Attention in Diffusion Models at Inference Time by Leveraging Sparsity,https://arxiv.org/abs/2503.07677
+2025-03-17,Adversarial Data Collection: Human-Collaborative Perturbations for Efficient and Robust Robotic Imitation Learning,https://arxiv.org/abs/2503.11646
+2025-03-17,Technologies on Effectiveness and Efficiency: A Survey of State Spaces Models,https://arxiv.org/abs/2503.11224
+2025-03-17,API Agents vs. GUI Agents: Divergence and Convergence,https://arxiv.org/abs/2503.11069
+2025-03-17,SmolDocling: An ultra-compact vision-language model for end-to-end multi-modal document conversion,https://arxiv.org/abs/2503.11576
+2025-03-17,Exploring the Vulnerabilities of Federated Learning: A Deep Dive into Gradient Inversion Attacks,https://arxiv.org/abs/2503.11514
+2025-03-17,FlowTok: Flowing Seamlessly Across Text and Image Tokens,https://arxiv.org/abs/2503.10772
+2025-03-17,Large-scale Pre-training for Grounded Video Caption Generation,https://arxiv.org/abs/2503.10781
+2025-03-17,TxAgent: An AI Agent for Therapeutic Reasoning Across a Universe of Tools,https://arxiv.org/abs/2503.10970
+2025-03-17,Vamba: Understanding Hour-Long Videos with Hybrid Mamba-Transformers,https://arxiv.org/abs/2503.11579
+2025-03-17,VGGT: Visual Geometry Grounded Transformer,https://arxiv.org/abs/2503.11651
+2025-03-17,Kolmogorov-Arnold Attention: Is Learnable Attention Better For Vision Transformers?,https://arxiv.org/abs/2503.10632
+2025-03-17,ARMOR v0.1: Empowering Autoregressive Multimodal Understanding Model with Interleaved Multimodal Generation via Asymmetric Synergy,https://arxiv.org/abs/2503.06542
+2025-03-17,Neighboring Autoregressive Modeling for Efficient Visual Generation,https://arxiv.org/abs/2503.10696
+2025-03-17,Cockatiel: Ensembling Synthetic and Human Preferenced Training for Detailed Video Caption,https://arxiv.org/abs/2503.09279
+2025-03-17,ProJudge: A Multi-Modal Multi-Discipline Benchmark and Instruction-Tuning Dataset for MLLM-based Process Judges,https://arxiv.org/abs/2503.06553
+2025-03-17,Learning Few-Step Diffusion Models by Trajectory Distribution Matching,https://arxiv.org/abs/2503.06674
+2025-03-17,ETCH: Generalizing Body Fitting to Clothed Humans via Equivariant Tightness,https://arxiv.org/abs/2503.10624
+2025-03-17,Open-World Skill Discovery from Unsegmented Demonstrations,https://arxiv.org/abs/2503.10684
+2025-03-17,From TOWER to SPIRE: Adding the Speech Modality to a Text-Only LLM,https://arxiv.org/abs/2503.10620
+2025-03-17,GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving,https://arxiv.org/abs/2503.05689
+2025-03-17,Can Large Reasoning Models do Analogical Reasoning under Perceptual Uncertainty?,https://arxiv.org/abs/2503.11207
+2025-03-17,MaRI: Material Retrieval Integration across Domains,https://arxiv.org/abs/2503.08111
+2025-03-17,TreeMeshGPT: Artistic Mesh Generation with Autoregressive Tree Sequencing,https://arxiv.org/abs/2503.11629
+2025-03-17,Group-robust Machine Unlearning,https://arxiv.org/abs/2503.09330
