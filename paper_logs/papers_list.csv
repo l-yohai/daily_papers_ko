@@ -4729,3 +4729,52 @@ date,title,url
 2025-03-20,ELTEX: A Framework for Domain-Driven Synthetic Data Generation,https://arxiv.org/abs/2503.15055
 2025-03-20,CURIE: Evaluating LLMs On Multitask Scientific Long Context Understanding and Reasoning,https://arxiv.org/abs/2503.13517
 2025-03-20,SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks,https://arxiv.org/abs/2503.15478
+2025-03-21,One-Step Residual Shifting Diffusion for Image Super-Resolution via Distillation,https://arxiv.org/abs/2503.13358
+2025-03-21,Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models,https://arxiv.org/abs/2503.16419
+2025-03-21,Survey on Evaluation of LLM-based Agents,https://arxiv.org/abs/2503.16416
+2025-03-21,Unleashing Vecset Diffusion Model for Fast Shape Generation,https://arxiv.org/abs/2503.16302
+2025-03-21,Scale-wise Distillation of Diffusion Models,https://arxiv.org/abs/2503.16397
+2025-03-21,DiffMoE: Dynamic Token Selection for Scalable Diffusion Transformers,https://arxiv.org/abs/2503.14487
+2025-03-21,JARVIS-VLA: Post-Training Large-Scale Vision Language Models to Play Visual Games with Keyboards and Mouse,https://arxiv.org/abs/2503.16365
+2025-03-21,Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning,https://arxiv.org/abs/2503.15558
+2025-03-21,MathFusion: Enhancing Mathematic Problem-solving of LLM through Instruction Fusion,https://arxiv.org/abs/2503.16212
+2025-03-21,Plug-and-Play 1.x-Bit KV Cache Quantization for Video Large Language Models,https://arxiv.org/abs/2503.16257
+2025-03-21,InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity,https://arxiv.org/abs/2503.16418
+2025-03-21,Why Do Multi-Agent LLM Systems Fail?,https://arxiv.org/abs/2503.13657
+2025-03-21,Inside-Out: Hidden Factual Knowledge in LLMs,https://arxiv.org/abs/2503.15299
+2025-03-21,CaKE: Circuit-aware Editing Enables Generalizable Knowledge Learners,https://arxiv.org/abs/2503.16356
+2025-03-21,Expert Race: A Flexible Routing Strategy for Scaling Diffusion Transformer with Mixture of Experts,https://arxiv.org/abs/2503.16057
+2025-03-21,Ultra-Resolution Adaptation with Ease,https://arxiv.org/abs/2503.16322
+2025-03-21,M3: 3D-Spatial MultiModal Memory,https://arxiv.org/abs/2503.16413
+2025-03-21,SynCity: Training-Free Generation of 3D Worlds,https://arxiv.org/abs/2503.16420
+2025-03-21,1000+ FPS 4D Gaussian Splatting for Dynamic Scene Rendering,https://arxiv.org/abs/2503.16422
+2025-03-21,Tokenize Image as a Set,https://arxiv.org/abs/2503.16425
+2025-03-21,MagicMotion: Controllable Video Generation with Dense-to-Sparse Trajectory Guidance,https://arxiv.org/abs/2503.16421
+2025-03-21,Fin-R1: A Large Language Model for Financial Reasoning through Reinforcement Learning,https://arxiv.org/abs/2503.16252
+2025-03-21,BigO(Bench) -- Can LLMs Generate Code with Controlled Time and Space Complexity?,https://arxiv.org/abs/2503.15242
+2025-03-21,Reinforcement Learning for Reasoning in Small LLMs: What Works and What Doesn't,https://arxiv.org/abs/2503.16219
+2025-03-21,XAttention: Block Sparse Attention with Antidiagonal Scoring,https://arxiv.org/abs/2503.16428
+2025-03-21,SALT: Singular Value Adaptation with Low-Rank Transformation,https://arxiv.org/abs/2503.16055
+2025-03-21,LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds,https://arxiv.org/abs/2503.10625
+2025-03-21,Towards Unified Latent Space for 3D Molecular Latent Diffusion Modeling,https://arxiv.org/abs/2503.15567
+2025-03-21,NuiScene: Exploring Efficient Generation of Unbounded Outdoor Scenes,https://arxiv.org/abs/2503.16375
+2025-03-21,Uni-3DAR: Unified 3D Generation and Understanding via Autoregression on Compressed Spatial Tokens,https://arxiv.org/abs/2503.16278
+2025-03-21,CLS-RL: Image Classification with Rule-Based Reinforcement Learning,https://arxiv.org/abs/2503.16188
+2025-03-21,Make Your Training Flexible: Towards Deployment-Efficient Video Models,https://arxiv.org/abs/2503.14237
+2025-03-21,Agents Play Thousands of 3D Video Games,https://arxiv.org/abs/2503.13356
+2025-03-21,Zero-1-to-A: Zero-Shot One Image to Animatable Head Avatars Using Video Diffusion,https://arxiv.org/abs/2503.15851
+2025-03-21,Sonata: Self-Supervised Learning of Reliable Point Representations,https://arxiv.org/abs/2503.16429
+2025-03-21,MagicID: Hybrid Preference Optimization for ID-Consistent and Dynamic-Preserved Video Customization,https://arxiv.org/abs/2503.12689
+2025-03-21,Deceptive Humor: A Synthetic Multilingual Benchmark Dataset for Bridging Fabricated Claims with Humorous Content,https://arxiv.org/abs/2503.16031
+2025-03-21,MotionStreamer: Streaming Motion Generation via Diffusion-based Autoregressive Model in Causal Latent Space,https://arxiv.org/abs/2503.15451
+2025-03-21,UVE: Are MLLMs Unified Evaluators for AI-Generated Videos?,https://arxiv.org/abs/2503.09949
+2025-03-21,Improving Autoregressive Image Generation through Coarse-to-Fine Token Prediction,https://arxiv.org/abs/2503.16194
+2025-03-21,"See-Saw Modality Balance: See Gradient, and Sew Impaired Vision-Language Balance to Mitigate Dominant Modality Bias",https://arxiv.org/abs/2503.13834
+2025-03-21,VideoRFSplat: Direct Scene-Level Text-to-3D Gaussian Splatting Generation with Flexible Pose and Multi-View Joint Modeling,https://arxiv.org/abs/2503.15855
+2025-03-21,Painting with Words: Elevating Detailed Image Captioning with Benchmark and Alignment Learning,https://arxiv.org/abs/2503.07906
+2025-03-21,AIMI: Leveraging Future Knowledge and Personalization in Sparse Event Forecasting for Treatment Adherence,https://arxiv.org/abs/2503.16091
+2025-03-21,TikZero: Zero-Shot Text-Guided Graphics Program Synthesis,https://arxiv.org/abs/2503.11509
+2025-03-21,Why Personalizing Deep Learning-Based Code Completion Tools Matters,https://arxiv.org/abs/2503.14201
+2025-03-21,LLM-Mediated Guidance of MARL Systems,https://arxiv.org/abs/2503.13553
+2025-03-21,Where do Large Vision-Language Models Look at when Answering Questions?,https://arxiv.org/abs/2503.13891
+2025-03-21,GASP: Unifying Geometric and Semantic Self-Supervised Pre-training for Autonomous Driving,https://arxiv.org/abs/2503.15672
