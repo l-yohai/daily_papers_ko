@@ -4799,3 +4799,42 @@ date,title,url
 2025-03-24,GAEA: A Geolocation Aware Conversational Model,https://arxiv.org/abs/2503.16423
 2025-03-24,Can Large Vision Language Models Read Maps Like a Human?,https://arxiv.org/abs/2503.14607
 2025-03-24,FFaceNeRF: Few-shot Face Editing in Neural Radiance Fields,https://arxiv.org/abs/2503.17095
+2025-03-25,I Have Covered All the Bases Here: Interpreting Reasoning Features in Large Language Models via Sparse Autoencoders,https://arxiv.org/abs/2503.18878
+2025-03-25,Position: Interactive Generative Video as Next-Generation Game Engine,https://arxiv.org/abs/2503.17359
+2025-03-25,Video-T1: Test-Time Scaling for Video Generation,https://arxiv.org/abs/2503.18942
+2025-03-25,A Comprehensive Survey on Long Context Language Modeling,https://arxiv.org/abs/2503.17407
+2025-03-25,SimpleRL-Zoo: Investigating and Taming Zero Reinforcement Learning for Open Base Models in the Wild,https://arxiv.org/abs/2503.18892
+2025-03-25,Aether: Geometric-Aware Unified World Modeling,https://arxiv.org/abs/2503.18945
+2025-03-25,OmnimatteZero: Training-free Real-time Omnimatte with Pre-trained Video Diffusion Models,https://arxiv.org/abs/2503.18033
+2025-03-25,Judge Anything: MLLM as a Judge Across Any Modality,https://arxiv.org/abs/2503.17489
+2025-03-25,Defeating Prompt Injections by Design,https://arxiv.org/abs/2503.18813
+2025-03-25,FFN Fusion: Rethinking Sequential Computation in Large Language Models,https://arxiv.org/abs/2503.18908
+2025-03-25,LEMMA: Learning from Errors for MatheMatical Advancement in LLMs,https://arxiv.org/abs/2503.17439
+2025-03-25,AgentRxiv: Towards Collaborative Autonomous Research,https://arxiv.org/abs/2503.18102
+2025-03-25,Vision-R1: Evolving Human-Free Alignment in Large Vision-Language Models via Vision-Guided Reinforcement Learning,https://arxiv.org/abs/2503.18013
+2025-03-25,CFG-Zero*: Improved Classifier-Free Guidance for Flow Matching Models,https://arxiv.org/abs/2503.18886
+2025-03-25,Training-free Diffusion Acceleration with Bottleneck Sampling,https://arxiv.org/abs/2503.18940
+2025-03-25,Equivariant Image Modeling,https://arxiv.org/abs/2503.18948
+2025-03-25,Feather-SQL: A Lightweight NL2SQL Framework with Dual-Model Collaboration Paradigm for Small Language Models,https://arxiv.org/abs/2503.17811
+2025-03-25,Video SimpleQA: Towards Factuality Evaluation in Large Video Language Models,https://arxiv.org/abs/2503.18923
+2025-03-25,MagicComp: Training-free Dual-Phase Refinement for Compositional Video Generation,https://arxiv.org/abs/2503.14428
+2025-03-25,Typed-RAG: Type-aware Multi-Aspect Decomposition for Non-Factoid Question Answering,https://arxiv.org/abs/2503.15879
+2025-03-25,AlphaSpace: Enabling Robotic Actions through Semantic Tokenization and Symbolic Reasoning,https://arxiv.org/abs/2503.18769
+2025-03-25,Reasoning to Learn from Latent Thoughts,https://arxiv.org/abs/2503.18866
+2025-03-25,V-Seek: Accelerating LLM Reasoning on Open-hardware Server-class RISC-V Platforms,https://arxiv.org/abs/2503.17422
+2025-03-25,Lost in Cultural Translation: Do LLMs Struggle with Math Across Cultural Contexts?,https://arxiv.org/abs/2503.18018
+2025-03-25,AMD-Hummingbird: Towards an Efficient Text-to-Video Model,https://arxiv.org/abs/2503.18559
+2025-03-25,Variance Control via Weight Rescaling in LLM Pre-training,https://arxiv.org/abs/2503.17500
+2025-03-25,Diffusion-4K: Ultra-High-Resolution Image Synthesis with Latent Diffusion Models,https://arxiv.org/abs/2503.18352
+2025-03-25,RDTF: Resource-efficient Dual-mask Training Framework for Multi-frame Animated Sticker Generation,https://arxiv.org/abs/2503.17735
+2025-03-25,MetaSpatial: Reinforcing 3D Spatial Reasoning in VLMs for the Metaverse,https://arxiv.org/abs/2503.18470
+2025-03-25,Optimized Minimal 3D Gaussian Splatting,https://arxiv.org/abs/2503.16924
+2025-03-25,CODA: Repurposing Continuous VAEs for Discrete Tokenization,https://arxiv.org/abs/2503.17760
+2025-03-25,Revisiting Image Fusion for Multi-Illuminant White-Balance Correction,https://arxiv.org/abs/2503.14774
+2025-03-25,Mind with Eyes: from Language Reasoning to Multimodal Reasoning,https://arxiv.org/abs/2503.18071
+2025-03-25,Rethinking Image Evaluation in Super-Resolution,https://arxiv.org/abs/2503.13074
+2025-03-25,Verbal Process Supervision Elicits Better Coding Agents,https://arxiv.org/abs/2503.18494
+2025-03-25,Human Motion Unlearning,https://arxiv.org/abs/2503.18674
+2025-03-25,QuartDepth: Post-Training Quantization for Real-Time Depth Estimation on the Edge,https://arxiv.org/abs/2503.16709
+2025-03-25,Instruct-CLIP: Improving Instruction-Guided Image Editing with Automated Data Refinement Using Contrastive Learning,https://arxiv.org/abs/2503.18406
+2025-03-25,DynamicVis: An Efficient and General Visual Foundation Model for Remote Sensing Image Understanding,https://arxiv.org/abs/2503.16426
