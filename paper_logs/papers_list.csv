@@ -4838,3 +4838,35 @@ date,title,url
 2025-03-25,QuartDepth: Post-Training Quantization for Real-Time Depth Estimation on the Edge,https://arxiv.org/abs/2503.16709
 2025-03-25,Instruct-CLIP: Improving Instruction-Guided Image Editing with Automated Data Refinement Using Contrastive Learning,https://arxiv.org/abs/2503.18406
 2025-03-25,DynamicVis: An Efficient and General Visual Foundation Model for Remote Sensing Image Understanding,https://arxiv.org/abs/2503.16426
+2025-03-26,Long-Context Autoregressive Video Modeling with Next-Frame Prediction,https://arxiv.org/abs/2503.19325
+2025-03-26,CoMP: Continual Multimodal Pre-training for Vision Foundation Models,https://arxiv.org/abs/2503.18931
+2025-03-26,"Exploring Hallucination of Large Multimodal Models in Video Understanding: Benchmark, Analysis and Mitigation",https://arxiv.org/abs/2503.19622
+2025-03-26,Inference-Time Scaling for Flow Models via Stochastic Generation and Rollover Budget Forcing,https://arxiv.org/abs/2503.19385
+2025-03-26,Scaling Vision Pre-Training to 4K Resolution,https://arxiv.org/abs/2503.19903
+2025-03-26,Spot the Fake: Large Multimodal Model-Based Synthetic Image Detection with Artifact Explanation,https://arxiv.org/abs/2503.14905
+2025-03-26,MDocAgent: A Multi-Modal Multi-Agent Framework for Document Understanding,https://arxiv.org/abs/2503.13964
+2025-03-26,Think Twice: Enhancing LLM Reasoning by Scaling Multi-round Test-time Thinking,https://arxiv.org/abs/2503.19855
+2025-03-26,CoLLM: A Large Language Model for Composed Image Retrieval,https://arxiv.org/abs/2503.19910
+2025-03-26,ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning,https://arxiv.org/abs/2503.19470
+2025-03-26,Latent Space Super-Resolution for Higher-Resolution Image Generation with Diffusion Models,https://arxiv.org/abs/2503.18446
+2025-03-26,WikiAutoGen: Towards Multi-Modal Wikipedia-Style Article Generation,https://arxiv.org/abs/2503.19065
+2025-03-26,LookAhead Tuning: Safer Language Models via Partial Answer Previews,https://arxiv.org/abs/2503.19041
+2025-03-26,xKV: Cross-Layer SVD for KV-Cache Compression,https://arxiv.org/abs/2503.18893
+2025-03-26,When Words Outperform Vision: VLMs Can Self-Improve Via Text-Only Training For Human-Centered Decision Making,https://arxiv.org/abs/2503.16965
+2025-03-26,FullDiT: Multi-Task Video Generative Foundation Model with Full Attention,https://arxiv.org/abs/2503.19907
+2025-03-26,PhysTwin: Physics-Informed Reconstruction and Simulation of Deformable Objects from Videos,https://arxiv.org/abs/2503.17973
+2025-03-26,Gumbel-Softmax Flow Matching with Straight-Through Guidance for Controllable Biological Sequence Generation,https://arxiv.org/abs/2503.17361
+2025-03-26,Strong Baseline: Multi-UAV Tracking via YOLOv12 with BoT-SORT-ReID,https://arxiv.org/abs/2503.17237
+2025-03-26,Overcoming Vocabulary Mismatch: Vocabulary-agnostic Teacher Guided Language Modeling,https://arxiv.org/abs/2503.19123
+2025-03-26,Frequency Dynamic Convolution for Dense Image Prediction,https://arxiv.org/abs/2503.18783
+2025-03-26,FRESA:Feedforward Reconstruction of Personalized Skinned Avatars from Few Images,https://arxiv.org/abs/2503.19207
+2025-03-26,Towards a Unified Copernicus Foundation Model for Earth Vision,https://arxiv.org/abs/2503.11849
+2025-03-26,ST-VLM: Kinematic Instruction Tuning for Spatio-Temporal Reasoning in Vision-Language Models,https://arxiv.org/abs/2503.19355
+2025-03-26,LPOSS: Label Propagation Over Patches and Pixels for Open-vocabulary Semantic Segmentation,https://arxiv.org/abs/2503.19777
+2025-03-26,LLaVAction: evaluating and training multi-modal large language models for action recognition,https://arxiv.org/abs/2503.18712
+2025-03-26,Can Vision-Language Models Answer Face to Face Questions in the Real-World?,https://arxiv.org/abs/2503.19356
+2025-03-26,DiffPortrait360: Consistent Portrait Diffusion for 360 View Synthesis,https://arxiv.org/abs/2503.15667
+2025-03-26,OpenCity3D: What do Vision-Language Models know about Urban Environments?,https://arxiv.org/abs/2503.16776
+2025-03-26,Co-SemDepth: Fast Joint Semantic Segmentation and Depth Estimation on Aerial Images,https://arxiv.org/abs/2503.17982
+2025-03-26,FirePlace: Geometric Refinements of LLM Common Sense Reasoning for 3D Object Placement,https://arxiv.org/abs/2503.04919
+2025-03-26,Global-Local Tree Search for Language Guided 3D Scene Generation,https://arxiv.org/abs/2503.18476
