@@ -4870,3 +4870,33 @@ date,title,url
 2025-03-26,Co-SemDepth: Fast Joint Semantic Segmentation and Depth Estimation on Aerial Images,https://arxiv.org/abs/2503.17982
 2025-03-26,FirePlace: Geometric Refinements of LLM Common Sense Reasoning for 3D Object Placement,https://arxiv.org/abs/2503.04919
 2025-03-26,Global-Local Tree Search for Language Guided 3D Scene Generation,https://arxiv.org/abs/2503.18476
+2025-03-27,Qwen2.5-Omni Technical Report,https://arxiv.org/abs/2503.20215
+2025-03-27,Dita: Scaling Diffusion Transformer for Generalist Vision-Language-Action Policy,https://arxiv.org/abs/2503.19757
+2025-03-27,Wan: Open and Advanced Large-Scale Video Generative Models,https://arxiv.org/abs/2503.20314
+2025-03-27,LEGO-Puzzles: How Good Are MLLMs at Multi-Step Spatial Reasoning?,https://arxiv.org/abs/2503.19990
+2025-03-27,Open Deep Search: Democratizing Search with Open-source Reasoning Agents,https://arxiv.org/abs/2503.20201
+2025-03-27,Unconditional Priors Matter! Improving Conditional Generation of Fine-Tuned Diffusion Models,https://arxiv.org/abs/2503.20240
+2025-03-27,GenHancer: Imperfect Generative Models are Secretly Strong Vision-Centric Enhancers,https://arxiv.org/abs/2503.19480
+2025-03-27,Gemini Robotics: Bringing AI into the Physical World,https://arxiv.org/abs/2503.20020
+2025-03-27,Gemma 3 Technical Report,https://arxiv.org/abs/2503.19786
+2025-03-27,BizGen: Advancing Article-level Visual Text Rendering for Infographics Generation,https://arxiv.org/abs/2503.20672
+2025-03-27,LogQuant: Log-Distributed 2-Bit Quantization of KV Cache with Superior Accuracy Preservation,https://arxiv.org/abs/2503.19950
+2025-03-27,MCTS-RAG: Enhancing Retrieval-Augmented Generation with Monte Carlo Tree Search,https://arxiv.org/abs/2503.20757
+2025-03-27,ViLBench: A Suite for Vision-Language Process Reward Modeling,https://arxiv.org/abs/2503.20271
+2025-03-27,AccVideo: Accelerating Video Diffusion Model with Synthetic Dataset,https://arxiv.org/abs/2503.19462
+2025-03-27,Attention IoU: Examining Biases in CelebA using Attention Maps,https://arxiv.org/abs/2503.19846
+2025-03-27,Mask^2DiT: Dual Mask-based Diffusion Transformer for Multi-Scene Long Video Generation,https://arxiv.org/abs/2503.19881
+2025-03-27,DINeMo: Learning Neural Mesh Models with no 3D Annotations,https://arxiv.org/abs/2503.20220
+2025-03-27,Efficient Model Development through Fine-tuning Transfer,https://arxiv.org/abs/2503.20110
+2025-03-27,Beyond Words: Advancing Long-Text Image Generation via Multimodal Autoregressive Models,https://arxiv.org/abs/2503.20198
+2025-03-27,ADS-Edit: A Multimodal Knowledge Editing Dataset for Autonomous Driving Systems,https://arxiv.org/abs/2503.20756
+2025-03-27,Image as an IMU: Estimating Camera Motion from a Single Motion-Blurred Image,https://arxiv.org/abs/2503.17358
+2025-03-27,Unlocking Efficient Long-to-Short LLM Reasoning with Model Merging,https://arxiv.org/abs/2503.20641
+2025-03-27,Sparse Logit Sampling: Accelerating Knowledge Distillation in LLMs,https://arxiv.org/abs/2503.16870
+2025-03-27,Self-Supervised Learning of Motion Concepts by Optimizing Counterfactuals,https://arxiv.org/abs/2503.19953
+2025-03-27,RONA: Pragmatically Diverse Image Captioning with Coherence Relations,https://arxiv.org/abs/2503.10997
+2025-03-27,"Trajectory Balance with Asynchrony: Decoupling Exploration and Learning for Fast, Scalable LLM Post-Training",https://arxiv.org/abs/2503.18929
+2025-03-27,UniHDSA: A Unified Relation Prediction Approach for Hierarchical Document Structure Analysis,https://arxiv.org/abs/2503.15893
+2025-03-27,Any6D: Model-free 6D Pose Estimation of Novel Objects,https://arxiv.org/abs/2503.18673
+2025-03-27,RecTable: Fast Modeling Tabular Data with Rectified Flow,https://arxiv.org/abs/2503.20731
+2025-03-27,PathoHR: Breast Cancer Survival Prediction on High-Resolution Pathological Images,https://arxiv.org/abs/2503.17970
