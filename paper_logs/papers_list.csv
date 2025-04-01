@@ -4922,3 +4922,53 @@ date,title,url
 2025-03-28,Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation,https://arxiv.org/abs/2503.21780
 2025-03-28,LOCATEdit: Graph Laplacian Optimized Cross Attention for Localized Text-Guided Image Editing,https://arxiv.org/abs/2503.21541
 2025-03-28,Tracktention: Leveraging Point Tracking to Attend Videos Faster and Better,https://arxiv.org/abs/2503.19904
+2025-04-01,TextCrafter: Accurately Rendering Multiple Texts in Complex Visual Scenes,https://arxiv.org/abs/2503.23461
+2025-04-01,AdaptiVocab: Enhancing LLM Efficiency in Focused Domains through Lightweight Vocabulary Adaptation,https://arxiv.org/abs/2503.19693
+2025-04-01,MoCha: Towards Movie-Grade Talking Character Synthesis,https://arxiv.org/abs/2503.23307
+2025-04-01,Exploring Data Scaling Trends and Effects in Reinforcement Learning from Human Feedback,https://arxiv.org/abs/2503.22230
+2025-04-01,Open-Reasoner-Zero: An Open Source Approach to Scaling Up Reinforcement Learning on the Base Model,https://arxiv.org/abs/2503.24290
+2025-04-01,"What, How, Where, and How Well? A Survey on Test-Time Scaling in Large Language Models",https://arxiv.org/abs/2503.24235
+2025-04-01,Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation,https://arxiv.org/abs/2503.22675
+2025-04-01,"A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond",https://arxiv.org/abs/2503.21614
+2025-04-01,OThink-MR1: Stimulating multimodal generalized reasoning capabilities via dynamic reinforcement learning,https://arxiv.org/abs/2503.16081
+2025-04-01,RIG: Synergizing Reasoning and Imagination in End-to-End Generalist Policy,https://arxiv.org/abs/2503.24388
+2025-04-01,ORIGEN: Zero-Shot 3D Orientation Grounding in Text-to-Image Generation,https://arxiv.org/abs/2503.22194
+2025-04-01,ReFeed: Multi-dimensional Summarization Refinement with Reflective Reasoning on Feedback,https://arxiv.org/abs/2503.21332
+2025-04-01,Free4D: Tuning-free 4D Scene Generation with Spatial-Temporal Consistency,https://arxiv.org/abs/2503.20785
+2025-04-01,"Perceptually Accurate 3D Talking Head Generation: New Definitions, Speech-Mesh Representation, and Evaluation Metrics",https://arxiv.org/abs/2503.20308
+2025-04-01,Your ViT is Secretly an Image Segmentation Model,https://arxiv.org/abs/2503.19108
+2025-04-01,PHYSICS: Benchmarking Foundation Models on University-Level Physics Problem Solving,https://arxiv.org/abs/2503.21821
+2025-04-01,Effectively Controlling Reasoning Models through Thinking Intervention,https://arxiv.org/abs/2503.24370
+2025-04-01,Efficient Inference for Large Reasoning Models: A Survey,https://arxiv.org/abs/2503.23077
+2025-04-01,SketchVideo: Sketch-based Video Generation and Editing,https://arxiv.org/abs/2503.23284
+2025-04-01,Segment Any Motion in Videos,https://arxiv.org/abs/2503.22268
+2025-04-01,Expanding RL with Verifiable Rewards Across Diverse Domains,https://arxiv.org/abs/2503.23829
+2025-04-01,Zero4D: Training-Free 4D Video Generation From Single Video Using Off-the-Shelf Video Diffusion Model,https://arxiv.org/abs/2503.22622
+2025-04-01,TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization,https://arxiv.org/abs/2503.19901
+2025-04-01,Query and Conquer: Execution-Guided SQL Generation,https://arxiv.org/abs/2503.24364
+2025-04-01,Hi3DGen: High-fidelity 3D Geometry Generation from Images via Normal Bridging,https://arxiv.org/abs/2503.22236
+2025-04-01,TeleAntiFraud-28k: A Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection,https://arxiv.org/abs/2503.24115
+2025-04-01,Classical Planning with LLM-Generated Heuristics: Challenging the State of the Art with Python Code,https://arxiv.org/abs/2503.18809
+2025-04-01,ActionStudio: A Lightweight Framework for Data and Training of Large Action Models,https://arxiv.org/abs/2503.22673
+2025-04-01,Progressive Rendering Distillation: Adapting Stable Diffusion for Instant Text-to-Mesh Generation without 3D Data,https://arxiv.org/abs/2503.21694
+2025-04-01,A Refined Analysis of Massive Activations in LLMs,https://arxiv.org/abs/2503.22329
+2025-04-01,4D-Bench: Benchmarking Multi-modal Large Language Models for 4D Object Understanding,https://arxiv.org/abs/2503.17827
+2025-04-01,SparseFlex: High-Resolution and Arbitrary-Topology 3D Shape Modeling,https://arxiv.org/abs/2503.21732
+2025-04-01,Reconstructing Humans with a Biomechanically Accurate Skeleton,https://arxiv.org/abs/2503.21751
+2025-04-01,MedAgent-Pro: Towards Multi-modal Evidence-based Medical Diagnosis via Reasoning Agentic Workflow,https://arxiv.org/abs/2503.18968
+2025-04-01,On Large Multimodal Models as Open-World Image Classifiers,https://arxiv.org/abs/2503.21851
+2025-04-01,Easi3R: Estimating Disentangled Motion from DUSt3R Without Training,https://arxiv.org/abs/2503.24391
+2025-04-01,Bridging Evolutionary Multiobjective Optimization and GPU Acceleration via Tensorization,https://arxiv.org/abs/2503.20286
+2025-04-01,UPME: An Unsupervised Peer Review Framework for Multimodal Large Language Model Evaluation,https://arxiv.org/abs/2503.14941
+2025-04-01,KOFFVQA: An Objectively Evaluated Free-form VQA Benchmark for Large Vision-Language Models in the Korean Language,https://arxiv.org/abs/2503.23730
+2025-04-01,Unicorn: Text-Only Data Synthesis for Vision Language Model Training,https://arxiv.org/abs/2503.22655
+2025-04-01,Challenges and Paths Towards AI for Software Engineering,https://arxiv.org/abs/2503.22625
+2025-04-01,SWI: Speaking with Intent in Large Language Models,https://arxiv.org/abs/2503.21544
+2025-04-01,MeshCraft: Exploring Efficient and Controllable Mesh Generation with Flow-based DiTs,https://arxiv.org/abs/2503.23022
+2025-04-01,X^{2}-Gaussian: 4D Radiative Gaussian Splatting for Continuous-time Tomographic Reconstruction,https://arxiv.org/abs/2503.21779
+2025-04-01,Entropy-Based Adaptive Weighting for Self-Training,https://arxiv.org/abs/2503.23913
+2025-04-01,AvatarArtist: Open-Domain 4D Avatarization,https://arxiv.org/abs/2503.19906
+2025-04-01,PAVE: Patching and Adapting Video Large Language Models,https://arxiv.org/abs/2503.19794
+2025-04-01,Decoupling Angles and Strength in Low-rank Adaptation,https://arxiv.org/abs/2503.18225
+2025-04-01,DSO: Aligning 3D Generators with Simulation Feedback for Physical Soundness,https://arxiv.org/abs/2503.22677
+2025-04-01,Understanding Co-speech Gestures in-the-wild,https://arxiv.org/abs/2503.22668
