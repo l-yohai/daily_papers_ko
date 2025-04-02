@@ -4972,3 +4972,31 @@ date,title,url
 2025-04-01,Decoupling Angles and Strength in Low-rank Adaptation,https://arxiv.org/abs/2503.18225
 2025-04-01,DSO: Aligning 3D Generators with Simulation Feedback for Physical Soundness,https://arxiv.org/abs/2503.22677
 2025-04-01,Understanding Co-speech Gestures in-the-wild,https://arxiv.org/abs/2503.22668
+2025-04-02,Any2Caption:Interpreting Any Condition to Caption for Controllable Video Generation,https://arxiv.org/abs/2503.24379
+2025-04-02,JudgeLRM: Large Reasoning Models as a Judge,https://arxiv.org/abs/2504.00050
+2025-04-02,CodeARC: Benchmarking Reasoning Capabilities of LLM Agents for Inductive Program Synthesis,https://arxiv.org/abs/2503.23145
+2025-04-02,Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1,https://arxiv.org/abs/2503.24376
+2025-04-02,Z1: Efficient Test-time Scaling with Code,https://arxiv.org/abs/2504.00810
+2025-04-02,Open-Qwen2VL: Compute-Efficient Pre-Training of Fully-Open Multimodal LLMs on Academic Resources,https://arxiv.org/abs/2504.00595
+2025-04-02,Command A: An Enterprise-Ready Large Language Model,https://arxiv.org/abs/2504.00698
+2025-04-02,Agent S2: A Compositional Generalist-Specialist Framework for Computer Use Agents,https://arxiv.org/abs/2504.00906
+2025-04-02,GeometryCrafter: Consistent Geometry Estimation for Open-world Videos with Diffusion Priors,https://arxiv.org/abs/2504.01016
+2025-04-02,MixerMDM: Learnable Composition of Human Motion Diffusion Models,https://arxiv.org/abs/2504.01019
+2025-04-02,Multi-Token Attention,https://arxiv.org/abs/2504.00927
+2025-04-02,Towards Trustworthy GUI Agents: A Survey,https://arxiv.org/abs/2503.23434
+2025-04-02,Recitation over Reasoning: How Cutting-Edge Language Models Can Fail on Elementary School-Level Reasoning Problems?,https://arxiv.org/abs/2504.00509
+2025-04-02,OmniMMI: A Comprehensive Multi-modal Interaction Benchmark in Streaming Video Contexts,https://arxiv.org/abs/2503.22952
+2025-04-02,Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for Large Language Models,https://arxiv.org/abs/2503.24377
+2025-04-02,"When To Solve, When To Verify: Compute-Optimal Problem Solving and Generative Verification for LLM Reasoning",https://arxiv.org/abs/2504.01005
+2025-04-02,Efficient LLaMA-3.2-Vision by Trimming Cross-attended Visual Features,https://arxiv.org/abs/2504.00557
+2025-04-02,Scaling Language-Free Visual Representation Learning,https://arxiv.org/abs/2504.01017
+2025-04-02,Landscape of Thoughts: Visualizing the Reasoning Process of Large Language Models,https://arxiv.org/abs/2503.22165
+2025-04-02,AdaMMS: Model Merging for Heterogeneous Multimodal Large Language Models with Unsupervised Coefficient Optimization,https://arxiv.org/abs/2503.23733
+2025-04-02,Inference-Time Scaling for Complex Tasks: Where We Stand and What Lies Ahead,https://arxiv.org/abs/2504.00294
+2025-04-02,m1: Unleash the Potential of Test-Time Scaling for Medical Reasoning with Large Language Models,https://arxiv.org/abs/2504.00869
+2025-04-02,Chapter-Llama: Efficient Chaptering in Hour-Long Videos with LLMs,https://arxiv.org/abs/2504.00072
+2025-04-02,Discovering Knowledge Deficiencies of Language Models on Massive Knowledge Base,https://arxiv.org/abs/2503.23361
+2025-04-02,DiET-GS: Diffusion Prior and Event Stream-Assisted Motion Deblurring 3D Gaussian Splatting,https://arxiv.org/abs/2503.24210
+2025-04-02,Reasoning-SQL: Reinforcement Learning with SQL Tailored Partial Rewards for Reasoning-Enhanced Text-to-SQL,https://arxiv.org/abs/2503.23157
+2025-04-02,ManipTrans: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning,https://arxiv.org/abs/2503.21860
+2025-04-02,MB-ORES: A Multi-Branch Object Reasoner for Visual Grounding in Remote Sensing,https://arxiv.org/abs/2503.24219
