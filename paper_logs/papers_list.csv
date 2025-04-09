@@ -5085,3 +5085,20 @@ date,title,url
 2025-04-08,"Sample, Don't Search: Rethinking Test-Time Alignment for Language Models",https://arxiv.org/abs/2504.03790
 2025-04-08,Rethinking Multilingual Continual Pretraining: Data Mixing for Adapting LLMs Across Languages and Resources,https://arxiv.org/abs/2504.04152
 2025-04-08,GlotEval: A Test Suite for Massively Multilingual Evaluation of Large Language Models,https://arxiv.org/abs/2504.04155
+2025-04-09,OmniSVG: A Unified Scalable Vector Graphics Generation Model,https://arxiv.org/abs/2504.06263
+2025-04-09,Hogwild! Inference: Parallel LLM Generation via Concurrent Attention,https://arxiv.org/abs/2504.06261
+2025-04-09,Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought,https://arxiv.org/abs/2504.05599
+2025-04-09,An Empirical Study of GPT-4o Image Generation Capabilities,https://arxiv.org/abs/2504.05979
+2025-04-09,COIG-P: A High-Quality and Large-Scale Chinese Preference Dataset for Alignment with Human Values,https://arxiv.org/abs/2504.05535
+2025-04-09,Less-to-More Generalization: Unlocking More Controllability by In-Context Generation,https://arxiv.org/abs/2504.02160
+2025-04-09,V-MAGE: A Game Evaluation Framework for Assessing Visual-Centric Capabilities in Multimodal Large Language Models,https://arxiv.org/abs/2504.06148
+2025-04-09,Generative Evaluation of Complex Reasoning in Large Language Models,https://arxiv.org/abs/2504.02810
+2025-04-09,Tuning-Free Image Editing with Fidelity and Editability via Unified Latent Diffusion Model,https://arxiv.org/abs/2504.05594
+2025-04-09,Accelerate Parallelizable Reasoning via Parallel Decoding within One Sequence,https://arxiv.org/abs/2503.20533
+2025-04-09,HybriMoE: Hybrid CPU-GPU Scheduling and Cache Management for Efficient MoE Inference,https://arxiv.org/abs/2504.05897
+2025-04-09,CrossWordBench: Evaluating the Reasoning Capabilities of LLMs and LVLMs with Controllable Puzzle Generation,https://arxiv.org/abs/2504.00043
+2025-04-09,HiFlow: Training-free High-Resolution Image Generation with Flow-Aligned Guidance,https://arxiv.org/abs/2504.06232
+2025-04-09,Efficient Reinforcement Finetuning via Adaptive Curriculum Learning,https://arxiv.org/abs/2504.05520
+2025-04-09,3D Scene Understanding Through Local Random Access Sequence Modeling,https://arxiv.org/abs/2504.03875
+2025-04-09,Leanabell-Prover: Posttraining Scaling in Formal Reasoning,https://arxiv.org/abs/2504.06122
+2025-04-09,ProtoGCD: Unified and Unbiased Prototype Learning for Generalized Category Discovery,https://arxiv.org/abs/2504.03755
