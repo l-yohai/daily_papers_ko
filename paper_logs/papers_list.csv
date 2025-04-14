@@ -5138,3 +5138,23 @@ date,title,url
 2025-04-11,TAPNext: Tracking Any Point (TAP) as Next Token Prediction,https://arxiv.org/abs/2504.05579
 2025-04-11,Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction,https://arxiv.org/abs/2504.07961
 2025-04-11,MonoPlace3D: Learning 3D-Aware Object Placement for 3D Monocular Detection,https://arxiv.org/abs/2504.06801
+2025-04-14,Seaweed-7B: Cost-Effective Training of Video Generation Foundation Model,https://arxiv.org/abs/2504.08685
+2025-04-14,GigaTok: Scaling Visual Tokenizers to 3 Billion Parameters for Autoregressive Image Generation,https://arxiv.org/abs/2504.08736
+2025-04-14,MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft,https://arxiv.org/abs/2504.08388
+2025-04-14,SQL-R1: Training Natural Language to SQL Reasoning Model By Reinforcement Learning,https://arxiv.org/abs/2504.08600
+2025-04-14,PixelFlow: Pixel-Space Generative Models with Flow,https://arxiv.org/abs/2504.07963
+2025-04-14,FlexIP: Dynamic Control of Preservation and Personality for Customized Image Generation,https://arxiv.org/abs/2504.07405
+2025-04-14,Do PhD-level LLMs Truly Grasp Elementary Addition? Probing Rule Learning vs. Memorization in Large Language Models,https://arxiv.org/abs/2504.05262
+2025-04-14,Pangu Ultra: Pushing the Limits of Dense Large Language Models on Ascend NPUs,https://arxiv.org/abs/2504.07866
+2025-04-14,ModernBERT or DeBERTaV3? Examining Architecture and Data Influence on Transformer Encoder Models Performance,https://arxiv.org/abs/2504.08716
+2025-04-14,CoRAG: Collaborative Retrieval-Augmented Generation,https://arxiv.org/abs/2504.01883
+2025-04-14,Training-free Guidance in Text-to-Video Generation via Multimodal Planning and Structured Noise Initialization,https://arxiv.org/abs/2504.08641
+2025-04-14,VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model,https://arxiv.org/abs/2504.07615
+2025-04-14,Visual Chronicles: Using Multimodal LLMs to Analyze Massive Collections of Images,https://arxiv.org/abs/2504.08727
+2025-04-14,ZipIR: Latent Pyramid Diffusion Transformer for High-Resolution Image Restoration,https://arxiv.org/abs/2504.08591
+2025-04-14,In-2-4D: Inbetweening from Two Single-View Images to 4D Generation,https://arxiv.org/abs/2504.08366
+2025-04-14,SAEs Can Improve Unlearning: Dynamic Sparse Autoencoder Guardrails for Precision Unlearning in LLMs,https://arxiv.org/abs/2504.08192
+2025-04-14,BlenderGym: Benchmarking Foundational Model Systems for Graphics Editing,https://arxiv.org/abs/2504.01786
+2025-04-14,Latent Diffusion Autoencoders: Toward Efficient and Meaningful Unsupervised Representation Learning in Medical Imaging,https://arxiv.org/abs/2504.08635
+2025-04-14,UKBOB: One Billion MRI Labeled Masks for Generalizable 3D Medical Image Segmentation,https://arxiv.org/abs/2504.06908
+2025-04-14,InteractVLM: 3D Interaction Reasoning from 2D Foundational Models,https://arxiv.org/abs/2504.05303
