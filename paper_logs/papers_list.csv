@@ -5158,3 +5158,31 @@ date,title,url
 2025-04-14,Latent Diffusion Autoencoders: Toward Efficient and Meaningful Unsupervised Representation Learning in Medical Imaging,https://arxiv.org/abs/2504.08635
 2025-04-14,UKBOB: One Billion MRI Labeled Masks for Generalizable 3D Medical Image Segmentation,https://arxiv.org/abs/2504.06908
 2025-04-14,InteractVLM: 3D Interaction Reasoning from 2D Foundational Models,https://arxiv.org/abs/2504.05303
+2025-04-15,InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models,https://arxiv.org/abs/2504.10479
+2025-04-15,PRIMA.CPP: Speeding Up 70B-Scale LLM Inference on Low-Resource Everyday Home Clusters,https://arxiv.org/abs/2504.08791
+2025-04-15,Have we unified image generation and understanding yet? An empirical study of GPT-4o's image generation ability,https://arxiv.org/abs/2504.08003
+2025-04-15,VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning,https://arxiv.org/abs/2504.08837
+2025-04-15,FUSION: Fully Integration of Vision-Language Representations for Deep Cross-Modal Understanding,https://arxiv.org/abs/2504.09925
+2025-04-15,Iterative Self-Training for Code Generation via Reinforced Re-Ranking,https://arxiv.org/abs/2504.09643
+2025-04-15,Mavors: Multi-granularity Video Representation for Multimodal Large Language Model,https://arxiv.org/abs/2504.10068
+2025-04-15,AgentRewardBench: Evaluating Automatic Evaluations of Web Agent Trajectories,https://arxiv.org/abs/2504.08942
+2025-04-15,S1-Bench: A Simple Benchmark for Evaluating System 1 Thinking Capability of Large Reasoning Models,https://arxiv.org/abs/2504.10368
+2025-04-15,DUMP: Automated Distribution-Level Curriculum Learning for RL-based LLM Post-training,https://arxiv.org/abs/2504.09710
+2025-04-15,Breaking the Data Barrier -- Building GUI Agents Through Task Generalization,https://arxiv.org/abs/2504.10127
+2025-04-15,Executable Functional Abstractions: Inferring Generative Programs for Advanced Math Problems,https://arxiv.org/abs/2504.09763
+2025-04-15,SocioVerse: A World Model for Social Simulation Powered by LLM Agents and A Pool of 10 Million Real-World Users,https://arxiv.org/abs/2504.10157
+2025-04-15,MIEB: Massive Image Embedding Benchmark,https://arxiv.org/abs/2504.10471
+2025-04-15,TinyLLaVA-Video-R1: Towards Smaller LMMs for Video Reasoning,https://arxiv.org/abs/2504.09641
+2025-04-15,The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search,https://arxiv.org/abs/2504.08066
+2025-04-15,LLM-SRBench: A New Benchmark for Scientific Equation Discovery with Large Language Models,https://arxiv.org/abs/2504.10415
+2025-04-15,VisuoThink: Empowering LVLM Reasoning with Multimodal Tree Search,https://arxiv.org/abs/2504.09130
+2025-04-15,How new data permeates LLM knowledge and how to dilute it,https://arxiv.org/abs/2504.09522
+2025-04-15,EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety,https://arxiv.org/abs/2504.09689
+2025-04-15,M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models,https://arxiv.org/abs/2504.10449
+2025-04-15,LLM Can be a Dangerous Persuader: Empirical Study of Persuasion Safety in Large Language Models,https://arxiv.org/abs/2504.10430
+2025-04-15,MDK12-Bench: A Multi-Discipline Benchmark for Evaluating Reasoning in Multimodal Large Language Models,https://arxiv.org/abs/2504.05782
+2025-04-15,DeepSeek vs. o3-mini: How Well can Reasoning LLMs Evaluate MT and Summarization?,https://arxiv.org/abs/2504.08120
+2025-04-15,3D CoCa: Contrastive Learners are 3D Captioners,https://arxiv.org/abs/2504.09518
+2025-04-15,SpecReason: Fast and Accurate Inference-Time Compute via Speculative Reasoning,https://arxiv.org/abs/2504.07891
+2025-04-15,Reasoning Models Can Be Effective Without Thinking,https://arxiv.org/abs/2504.09858
+2025-04-15,DiffuMural: Restoring Dunhuang Murals with Multi-scale Diffusion,https://arxiv.org/abs/2504.09513
