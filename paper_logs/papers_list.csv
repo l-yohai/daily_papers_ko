@@ -5186,3 +5186,34 @@ date,title,url
 2025-04-15,SpecReason: Fast and Accurate Inference-Time Compute via Speculative Reasoning,https://arxiv.org/abs/2504.07891
 2025-04-15,Reasoning Models Can Be Effective Without Thinking,https://arxiv.org/abs/2504.09858
 2025-04-15,DiffuMural: Restoring Dunhuang Murals with Multi-scale Diffusion,https://arxiv.org/abs/2504.09513
+2025-04-16,xVerify: Efficient Answer Verifier for Reasoning Model Evaluations,https://arxiv.org/abs/2504.10481
+2025-04-16,Genius: A Generalizable and Purely Unsupervised Self-Training Framework For Advanced Reasoning,https://arxiv.org/abs/2504.08672
+2025-04-16,Heimdall: test-time scaling on the generative verification,https://arxiv.org/abs/2504.10337
+2025-04-16,Seedream 3.0 Technical Report,https://arxiv.org/abs/2504.11346
+2025-04-16,How Instruction and Reasoning Data shape Post-Training: Data Quality through the Lens of Layer-wise Gradients,https://arxiv.org/abs/2504.10766
+2025-04-16,Pixel-SAIL: Single Transformer For Pixel-Grounded Understanding,https://arxiv.org/abs/2504.10465
+2025-04-16,TextArena,https://arxiv.org/abs/2504.11442
+2025-04-16,The Scalability of Simplicity: Empirical Analysis of Vision-Language Learning with a Single Transformer,https://arxiv.org/abs/2504.10462
+2025-04-16,Efficient Process Reward Model Training via Active Learning,https://arxiv.org/abs/2504.10559
+2025-04-16,Efficient Reasoning Models: A Survey,https://arxiv.org/abs/2504.10903
+2025-04-16,NormalCrafter: Learning Temporally Consistent Normals from Video Diffusion Priors,https://arxiv.org/abs/2504.11427
+2025-04-16,ReZero: Enhancing LLM search ability by trying one-more-time,https://arxiv.org/abs/2504.11001
+2025-04-16,RealHarm: A Collection of Real-World Language Model Application Failures,https://arxiv.org/abs/2504.10277
+2025-04-16,Efficient Generative Model Training via Embedded Representation Warmup,https://arxiv.org/abs/2504.10188
+2025-04-16,VisualPuzzles: Decoupling Multimodal Reasoning Evaluation from Domain Knowledge,https://arxiv.org/abs/2504.10342
+2025-04-16,DataDecide: How to Predict Best Pretraining Data with Small Experiments,https://arxiv.org/abs/2504.11393
+2025-04-16,"DeepMath-103K: A Large-Scale, Challenging, Decontaminated, and Verifiable Mathematical Dataset for Advancing Reasoning",https://arxiv.org/abs/2504.11456
+2025-04-16,A Minimalist Approach to LLM Reasoning: from Rejection Sampling to Reinforce,https://arxiv.org/abs/2504.11343
+2025-04-16,AI-University: An LLM-based platform for instructional alignment to scientific classrooms,https://arxiv.org/abs/2504.08846
+2025-04-16,"SimpleAR: Pushing the Frontier of Autoregressive Visual Generation through Pretraining, SFT, and RL",https://arxiv.org/abs/2504.11455
+2025-04-16,Diffusion Distillation With Direct Preference Optimization For Efficient 3D LiDAR Scene Completion,https://arxiv.org/abs/2504.11447
+2025-04-16,PVUW 2025 Challenge Report: Advances in Pixel-level Understanding of Complex Videos in the Wild,https://arxiv.org/abs/2504.11326
+2025-04-16,Adaptive Computation Pruning for the Forgetting Transformer,https://arxiv.org/abs/2504.06949
+2025-04-16,D^2iT: Dynamic Diffusion Transformer for Accurate Image Generation,https://arxiv.org/abs/2504.09454
+2025-04-16,Efficient Hybrid Language Model Compression through Group-Aware SSM Pruning,https://arxiv.org/abs/2504.11409
+2025-04-16,Summarization of Multimodal Presentations with Vision-Language Models: Study of the Effect of Modalities and Structure,https://arxiv.org/abs/2504.10049
+2025-04-16,Multimodal Long Video Modeling Based on Temporal Dynamic Context,https://arxiv.org/abs/2504.10443
+2025-04-16,LazyReview A Dataset for Uncovering Lazy Thinking in NLP Peer Reviews,https://arxiv.org/abs/2504.11042
+2025-04-16,MCP Safety Audit: LLMs with the Model Context Protocol Allow Major Security Exploits,https://arxiv.org/abs/2504.03767
+2025-04-16,Change State Space Models for Remote Sensing Change Detection,https://arxiv.org/abs/2504.11080
+2025-04-16,Aligning Generative Denoising with Discriminative Objectives Unleashes Diffusion for Visual Perception,https://arxiv.org/abs/2504.11457
