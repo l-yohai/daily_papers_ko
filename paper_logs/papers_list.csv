@@ -5272,3 +5272,30 @@ date,title,url
 2025-04-21,Filter2Noise: Interpretable Self-Supervised Single-Image Denoising for Low-Dose CT with Attention-Guided Bilateral Filtering,https://arxiv.org/abs/2504.13519
 2025-04-21,Revisiting Uncertainty Quantification Evaluation in Language Models: Spurious Interactions with Response Length Bias Results,https://arxiv.org/abs/2504.13677
 2025-04-21,Cost-of-Pass: An Economic Framework for Evaluating Language Models,https://arxiv.org/abs/2504.13359
+2025-04-22,Learning to Reason under Off-Policy Guidance,https://arxiv.org/abs/2504.14945
+2025-04-22,Eagle 2.5: Boosting Long-Context Post-Training for Frontier Vision-Language Models,https://arxiv.org/abs/2504.15271
+2025-04-22,FlowReasoner: Reinforcing Query-Level Meta-Agents,https://arxiv.org/abs/2504.15257
+2025-04-22,ToolRL: Reward is All Tool Learning Needs,https://arxiv.org/abs/2504.13958
+2025-04-22,X-Teaming: Multi-Turn Jailbreaks and Defenses with Adaptive Multi-Agents,https://arxiv.org/abs/2504.13203
+2025-04-22,SphereDiff: Tuning-free Omnidirectional Panoramic Image and Video Generation via Spherical Latent Representation,https://arxiv.org/abs/2504.14396
+2025-04-22,OTC: Optimal Tool Calls via Reinforcement Learning,https://arxiv.org/abs/2504.14870
+2025-04-22,UFO2: The Desktop AgentOS,https://arxiv.org/abs/2504.14603
+2025-04-22,StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians,https://arxiv.org/abs/2504.15281
+2025-04-22,EasyEdit2: An Easy-to-use Steering Framework for Editing Large Language Models,https://arxiv.org/abs/2504.15133
+2025-04-22,"THOUGHTTERMINATOR: Benchmarking, Calibrating, and Mitigating Overthinking in Reasoning Models",https://arxiv.org/abs/2504.13367
+2025-04-22,Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs,https://arxiv.org/abs/2504.15280
+2025-04-22,LeetCodeDataset: A Temporal Dataset for Robust Evaluation and Efficient Training of Code LLMs,https://arxiv.org/abs/2504.14655
+2025-04-22,InfiGUI-R1: Advancing Multimodal GUI Agents from Reactive Actors to Deliberative Reasoners,https://arxiv.org/abs/2504.14239
+2025-04-22,Uni3C: Unifying Precisely 3D-Enhanced Camera and Human Motion Controls for Video Generation,https://arxiv.org/abs/2504.14899
+2025-04-22,LearnAct: Few-Shot Mobile GUI Agent with a Unified Demonstration Benchmark,https://arxiv.org/abs/2504.13805
+2025-04-22,LookingGlass: Generative Anamorphoses via Laplacian Pyramid Warping,https://arxiv.org/abs/2504.08902
+2025-04-22,An LMM for Efficient Video Understanding via Reinforced Compression of Video Cubes,https://arxiv.org/abs/2504.15270
+2025-04-22,NEMOTRON-CROSSTHINK: Scaling Self-Learning beyond Math Reasoning,https://arxiv.org/abs/2504.13941
+2025-04-22,DRAGON: Distributional Rewards Optimize Diffusion Generative Models,https://arxiv.org/abs/2504.15217
+2025-04-22,RainbowPlus: Enhancing Adversarial Prompt Generation via Evolutionary Quality-Diversity Search,https://arxiv.org/abs/2504.15047
+2025-04-22,TAPIP3D: Tracking Any Point in Persistent 3D Geometry,https://arxiv.org/abs/2504.14717
+2025-04-22,CoMotion: Concurrent Multi-person 3D Motion,https://arxiv.org/abs/2504.12186
+2025-04-22,RF-DETR Object Detection vs YOLOv12 : A Study of Transformer-based and CNN-based Architectures for Single-Class and Multi-Class Greenfruit Detection in Complex Orchard Environments Under Label Ambiguity,https://arxiv.org/abs/2504.13099
+2025-04-22,SilVar-Med: A Speech-Driven Visual Language Model for Explainable Abnormality Detection in Medical Imaging,https://arxiv.org/abs/2504.10642
+2025-04-22,PROMPTEVALS: A Dataset of Assertions and Guardrails for Custom Production Large Language Model Pipelines,https://arxiv.org/abs/2504.14738
+2025-04-22,LoftUp: Learning a Coordinate-Based Feature Upsampler for Vision Foundation Models,https://arxiv.org/abs/2504.14032
